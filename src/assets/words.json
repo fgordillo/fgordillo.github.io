@@ -1,0 +1,3132 @@
+[
+    {
+        "id": "5.1.1",
+        "spanish": "forma",
+        "english": "form"
+    },
+    {
+        "id": "5.1.2",
+        "spanish": "figura",
+        "english": "figure"
+    },
+    {
+        "id": "5.1.3",
+        "spanish": "punto",
+        "english": "point"
+    },
+    {
+        "id": "5.1.4",
+        "spanish": "línea",
+        "english": "line"
+    },
+    {
+        "id": "5.1.5",
+        "spanish": "lado",
+        "english": "side"
+    },
+    {
+        "id": "5.1.6",
+        "spanish": "círculo",
+        "english": "circle"
+    },
+    {
+        "id": "5.1.7",
+        "spanish": "cuadrado",
+        "english": "square"
+    },
+    {
+        "id": "5.1.8",
+        "spanish": "rectángulo",
+        "english": "rectangle"
+    },
+    {
+        "id": "5.1.9",
+        "spanish": "triángulo",
+        "english": "triangle"
+    },
+    {
+        "id": "5.1.10",
+        "spanish": "rectangular",
+        "english": "rectangular"
+    },
+    {
+        "id": "5.1.11",
+        "spanish": "triangular",
+        "english": "triangular"
+    },
+    {
+        "id": "5.1.12",
+        "spanish": "horizontal",
+        "english": "horizontal"
+    },
+    {
+        "id": "5.1.13",
+        "spanish": "vertical",
+        "english": "vertical"
+    },
+    {
+        "id": "5.1.14",
+        "spanish": "diagonal",
+        "english": "diagonal"
+    },
+    {
+        "id": "5.1.15",
+        "spanish": "plano",
+        "english": "flat"
+    },
+    {
+        "id": "5.1.16",
+        "spanish": "recto",
+        "english": "straight"
+    },
+    {
+        "id": "5.1.17",
+        "spanish": "igual",
+        "english": "equal"
+    },
+    {
+        "id": "5.1.18",
+        "spanish": "regular",
+        "english": "regular"
+    },
+    {
+        "id": "5.1.19",
+        "spanish": "parecer",
+        "english": "looks like"
+    },
+    {
+        "id": "5.1.20",
+        "spanish": "tener forma de",
+        "english": "to have a shape of"
+    },
+    {
+        "id": "5.1.21",
+        "spanish": "cambiar de forma",
+        "english": "to change the form"
+    },
+    {
+        "id": "5.1.22",
+        "spanish": "consistencia",
+        "english": "consistency"
+    },
+    {
+        "id": "5.1.23",
+        "spanish": "resistencia",
+        "english": "resistance"
+    },
+    {
+        "id": "5.1.24",
+        "spanish": "sólido",
+        "english": "solid"
+    },
+    {
+        "id": "5.1.25",
+        "spanish": "líquido",
+        "english": "liquid"
+    },
+    {
+        "id": "5.1.26",
+        "spanish": "frágil",
+        "english": "fragile"
+    },
+    {
+        "id": "5.1.27",
+        "spanish": "duro",
+        "english": "hard"
+    },
+    {
+        "id": "5.1.28",
+        "spanish": "blando",
+        "english": "soft"
+    },
+    {
+        "id": "5.1.29",
+        "spanish": "flexible",
+        "english": "flexible"
+    },
+    {
+        "id": "5.1.30",
+        "spanish": "romper(se)",
+        "english": "to break"
+    },
+    {
+        "id": "5.1.31",
+        "spanish": "textura",
+        "english": "texture"
+    },
+    {
+        "id": "5.1.32",
+        "spanish": "suave",
+        "english": "soft"
+    },
+    {
+        "id": "5.1.33",
+        "spanish": "liso",
+        "english": "straight"
+    },
+    {
+        "id": "5.1.34",
+        "spanish": "rizado",
+        "english": "curly"
+    },
+    {
+        "id": "5.1.35",
+        "spanish": "tocar",
+        "english": "to play"
+    },
+    {
+        "id": "5.1.36",
+        "spanish": "acabado",
+        "english": "finish"
+    },
+    {
+        "id": "5.1.37",
+        "spanish": "proteger",
+        "english": "to protect"
+    },
+    {
+        "id": "5.1.38",
+        "spanish": "envolver",
+        "english": "to involve"
+    },
+    {
+        "id": "5.1.39",
+        "spanish": "pintar",
+        "english": "paint"
+    },
+    {
+        "id": "5.1.40",
+        "spanish": "pintado",
+        "english": "painted"
+    },
+    {
+        "id": "5.1.41",
+        "spanish": "humedad",
+        "english": "moisture, humidity"
+    },
+    {
+        "id": "5.1.42",
+        "spanish": "sequedad",
+        "english": "dryness"
+    },
+    {
+        "id": "5.1.43",
+        "spanish": "húmedo",
+        "english": "wet"
+    },
+    {
+        "id": "5.1.44",
+        "spanish": "mojado",
+        "english": "wet"
+    },
+    {
+        "id": "5.1.45",
+        "spanish": "hidratante",
+        "english": "moisturising"
+    },
+    {
+        "id": "5.1.46",
+        "spanish": "secar(se)",
+        "english": "to dry"
+    },
+    {
+        "id": "5.1.47",
+        "spanish": "mojar(se)",
+        "english": "to wet"
+    },
+    {
+        "id": "5.1.48",
+        "spanish": "regar",
+        "english": "to water"
+    },
+    {
+        "id": "5.1.49",
+        "spanish": "materia",
+        "english": "matter"
+    },
+    {
+        "id": "5.1.50",
+        "spanish": "acero",
+        "english": "steel"
+    },
+    {
+        "id": "5.1.51",
+        "spanish": "aluminio",
+        "english": "aluminium"
+    },
+    {
+        "id": "5.1.52",
+        "spanish": "hierro",
+        "english": "iron"
+    },
+    {
+        "id": "5.1.53",
+        "spanish": "oro",
+        "english": "gold"
+    },
+    {
+        "id": "5.1.54",
+        "spanish": "plata",
+        "english": "silver"
+    },
+    {
+        "id": "5.1.55",
+        "spanish": "piedra",
+        "english": "stone"
+    },
+    {
+        "id": "5.1.56",
+        "spanish": "cuero",
+        "english": "leather"
+    },
+    {
+        "id": "5.1.57",
+        "spanish": "cartón",
+        "english": "cardboard"
+    },
+    {
+        "id": "5.1.58",
+        "spanish": "algodón",
+        "english": "cotton"
+    },
+    {
+        "id": "5.1.59",
+        "spanish": "lana",
+        "english": "wool"
+    },
+    {
+        "id": "5.1.60",
+        "spanish": "lino",
+        "english": "linen"
+    },
+    {
+        "id": "5.1.61",
+        "spanish": "nailon",
+        "english": "nylon"
+    },
+    {
+        "id": "5.1.62",
+        "spanish": "seda",
+        "english": "silk"
+    },
+    {
+        "id": "5.1.63",
+        "spanish": "sintético",
+        "english": "synthetic"
+    },
+    {
+        "id": "5.1.64",
+        "spanish": "natural",
+        "english": "natural"
+    },
+    {
+        "id": "5.1.65",
+        "spanish": "fabricar",
+        "english": "to manufacture, to make"
+    },
+    {
+        "id": "5.1.66",
+        "spanish": "estar hecho de + material",
+        "english": "to be made of + material"
+    },
+    {
+        "id": "5.1.67",
+        "spanish": "visibilidad",
+        "english": "visibility"
+    },
+    {
+        "id": "5.1.68",
+        "spanish": "visión",
+        "english": "vision"
+    },
+    {
+        "id": "5.1.69",
+        "spanish": "punto de visto",
+        "english": "point of view"
+    },
+    {
+        "id": "5.1.70",
+        "spanish": "(in)visible",
+        "english": "(in)visible"
+    },
+    {
+        "id": "5.1.71",
+        "spanish": "luminoso",
+        "english": "bright"
+    },
+    {
+        "id": "5.1.72",
+        "spanish": "observar",
+        "english": "to observe"
+    },
+    {
+        "id": "5.1.73",
+        "spanish": "ver bien",
+        "english": "to see good"
+    },
+    {
+        "id": "5.1.74",
+        "spanish": "ver mal",
+        "english": "to see bad"
+    },
+    {
+        "id": "5.1.75",
+        "spanish": "ver nada",
+        "english": "to see nothing"
+    },
+    {
+        "id": "5.1.76",
+        "spanish": "tener buenas vistas",
+        "english": "to have good views"
+    },
+    {
+        "id": "5.1.77",
+        "spanish": "tener malas vistas",
+        "english": "to have bad views"
+    },
+    {
+        "id": "5.1.78",
+        "spanish": "audibilidad",
+        "english": "audibility"
+    },
+    {
+        "id": "5.1.79",
+        "spanish": "audición",
+        "english": "hearing"
+    },
+    {
+        "id": "5.1.80",
+        "spanish": "silencio",
+        "english": "silence"
+    },
+    {
+        "id": "5.1.81",
+        "spanish": "sonido",
+        "english": "sound"
+    },
+    {
+        "id": "5.1.82",
+        "spanish": "voz",
+        "english": "voice"
+    },
+    {
+        "id": "5.1.83",
+        "spanish": "grito",
+        "english": "scream"
+    },
+    {
+        "id": "5.1.84",
+        "spanish": "silencioso",
+        "english": "silent"
+    },
+    {
+        "id": "5.1.85",
+        "spanish": "ruidoso",
+        "english": "noisy"
+    },
+    {
+        "id": "5.1.86",
+        "spanish": "fuerte",
+        "english": "loud"
+    },
+    {
+        "id": "5.1.87",
+        "spanish": "gritar",
+        "english": "to scream"
+    },
+    {
+        "id": "5.1.88",
+        "spanish": "oír bien",
+        "english": "to hear good"
+    },
+    {
+        "id": "5.1.89",
+        "spanish": "oír mal",
+        "english": "to hear bad"
+    },
+    {
+        "id": "5.1.90",
+        "spanish": "oír nada",
+        "english": "to hear nothing"
+    },
+    {
+        "id": "5.1.91",
+        "spanish": "sonar el teléfono",
+        "english": "to call the phone"
+    },
+    {
+        "id": "5.1.92",
+        "spanish": "sonar la música",
+        "english": "to play the music"
+    },
+    {
+        "id": "5.1.93",
+        "spanish": "estar alto",
+        "english": "to be loud"
+    },
+    {
+        "id": "5.1.94",
+        "spanish": "estar bajo",
+        "english": "to be silent"
+    },
+    {
+        "id": "5.1.95",
+        "spanish": "hablar alto",
+        "english": "to speak loud"
+    },
+    {
+        "id": "5.1.96",
+        "spanish": "hablar bajo",
+        "english": "to speak softly"
+    },
+    {
+        "id": "5.1.97",
+        "spanish": "sonar alto",
+        "english": "to call loudly"
+    },
+    {
+        "id": "5.1.98",
+        "spanish": "sonar bajo",
+        "english": "to call softly"
+    },
+    {
+        "id": "5.1.99",
+        "spanish": "ser callado",
+        "english": "to be quiet"
+    },
+    {
+        "id": "5.1.100",
+        "spanish": "estar callado",
+        "english": "to be quiet"
+    },
+    {
+        "id": "5.1.101",
+        "spanish": "en voz alta",
+        "english": "aloud"
+    },
+    {
+        "id": "5.1.102",
+        "spanish": "en voz baja",
+        "english": "quietly"
+    },
+    {
+        "id": "5.1.103",
+        "spanish": "sabor",
+        "english": "taste, flavor"
+    },
+    {
+        "id": "5.1.104",
+        "spanish": "dulce",
+        "english": "sweet"
+    },
+    {
+        "id": "5.1.105",
+        "spanish": "salado",
+        "english": "salty"
+    },
+    {
+        "id": "5.1.106",
+        "spanish": "amargo",
+        "english": "bitter"
+    },
+    {
+        "id": "5.1.107",
+        "spanish": "picante",
+        "english": "spicy"
+    },
+    {
+        "id": "5.1.108",
+        "spanish": "suave",
+        "english": "smooth"
+    },
+    {
+        "id": "5.1.109",
+        "spanish": "fuerte",
+        "english": "strong"
+    },
+    {
+        "id": "5.1.110",
+        "spanish": "probar",
+        "english": "to try"
+    },
+    {
+        "id": "5.1.111",
+        "spanish": "saber bien",
+        "english": "to know well"
+    },
+    {
+        "id": "5.1.112",
+        "spanish": "saber mal",
+        "english": "to know bad"
+    },
+    {
+        "id": "5.1.113",
+        "spanish": "saber fenomenal",
+        "english": "to know phenomenal"
+    },
+    {
+        "id": "5.1.114",
+        "spanish": "saber fatal",
+        "english": "to know fatal"
+    },
+    {
+        "id": "5.1.115",
+        "spanish": "tener sabor a",
+        "english": "tp have a flavor"
+    },
+    {
+        "id": "5.1.116",
+        "spanish": "saber a",
+        "english": "to know"
+    },
+    {
+        "id": "5.1.117",
+        "spanish": "no saber a nada",
+        "english": "to know nothing"
+    },
+    {
+        "id": "5.1.118",
+        "spanish": "olor",
+        "english": "odor"
+    },
+    {
+        "id": "5.1.119",
+        "spanish": "olor a",
+        "english": "to smell of"
+    },
+    {
+        "id": "5.1.120",
+        "spanish": "perfume",
+        "english": "perfume"
+    },
+    {
+        "id": "5.1.121",
+        "spanish": "olor suave",
+        "english": "mild smell"
+    },
+    {
+        "id": "5.1.122",
+        "spanish": "olor fuerte",
+        "english": "strong smell"
+    },
+    {
+        "id": "5.1.123",
+        "spanish": "oler bien",
+        "english": "to smell good"
+    },
+    {
+        "id": "5.1.124",
+        "spanish": "oler mal",
+        "english": "to smell bad"
+    },
+    {
+        "id": "5.1.125",
+        "spanish": "color",
+        "english": "colour"
+    },
+    {
+        "id": "5.1.126",
+        "spanish": "pintura",
+        "english": "painting"
+    },
+    {
+        "id": "5.1.127",
+        "spanish": "vino rosado",
+        "english": "pink wine"
+    },
+    {
+        "id": "5.1.128",
+        "spanish": "pintado de + color",
+        "english": "painted in + colour"
+    },
+    {
+        "id": "5.1.129",
+        "spanish": "edad",
+        "english": "age"
+    },
+    {
+        "id": "5.1.130",
+        "spanish": "vejez",
+        "english": "old age"
+    },
+    {
+        "id": "5.1.131",
+        "spanish": "aniversario",
+        "english": "anniversary"
+    },
+    {
+        "id": "5.1.132",
+        "spanish": "parecer un niño",
+        "english": "to look like a child"
+    },
+    {
+        "id": "5.1.133",
+        "spanish": "parecer un adolescente",
+        "english": "to look like an adult"
+    },
+    {
+        "id": "5.1.134",
+        "spanish": "parecer un viejo",
+        "english": "to look like an old man"
+    },
+    {
+        "id": "5.1.135",
+        "spanish": "cumplir + NC meses/años",
+        "english": "to become NC months/years (HBD)"
+    },
+    {
+        "id": "5.1.136",
+        "spanish": "accesibilidad",
+        "english": "accessibility"
+    },
+    {
+        "id": "5.1.137",
+        "spanish": "atasco",
+        "english": "traffic jam"
+    },
+    {
+        "id": "5.1.138",
+        "spanish": "limpieza",
+        "english": "cleaning"
+    },
+    {
+        "id": "5.1.139",
+        "spanish": "basura",
+        "english": "garbage"
+    },
+    {
+        "id": "6.1.1",
+        "spanish": "evaluación general",
+        "english": "general evaluation"
+    },
+    {
+        "id": "6.1.2",
+        "spanish": "desastre",
+        "english": "disaster"
+    },
+    {
+        "id": "6.1.3",
+        "spanish": "maravilla",
+        "english": "wonder"
+    },
+    {
+        "id": "6.1.4",
+        "spanish": "nota",
+        "english": "note, mark, grade"
+    },
+    {
+        "id": "6.1.5",
+        "spanish": "buenisimo",
+        "english": "terrific"
+    },
+    {
+        "id": "6.1.6",
+        "spanish": "malísimo",
+        "english": "terrible"
+    },
+    {
+        "id": "6.1.7",
+        "spanish": "original",
+        "english": "original"
+    },
+    {
+        "id": "6.1.8",
+        "spanish": "fantástico",
+        "english": "fantastic"
+    },
+    {
+        "id": "6.1.9",
+        "spanish": "horrible",
+        "english": "horrible"
+    },
+    {
+        "id": "6.1.10",
+        "spanish": "estupendo",
+        "english": "great"
+    },
+    {
+        "id": "6.1.11",
+        "spanish": "fatal",
+        "english": "fatal"
+    },
+    {
+        "id": "6.1.12",
+        "spanish": "fenomenal",
+        "english": "phenomenal"
+    },
+    {
+        "id": "6.1.13",
+        "spanish": "parecerle algo (a alguien)",
+        "english": "to seem something (to someone)"
+    },
+    {
+        "id": "6.1.14",
+        "spanish": "encontrar (algo)",
+        "english": "to find (something)"
+    },
+    {
+        "id": "6.1.15",
+        "spanish": "ver (algo)",
+        "english": "to see (something)"
+    },
+    {
+        "id": "6.1.16",
+        "spanish": "valor",
+        "english": "value"
+    },
+    {
+        "id": "6.1.17",
+        "spanish": "precio",
+        "english": "price"
+    },
+    {
+        "id": "6.1.18",
+        "spanish": "rebajas",
+        "english": "sales"
+    },
+    {
+        "id": "6.1.19",
+        "spanish": "oferta",
+        "english": "offer"
+    },
+    {
+        "id": "6.1.20",
+        "spanish": "estar a",
+        "english": "to be at"
+    },
+    {
+        "id": "6.1.21",
+        "spanish": "subir/bajar el precio",
+        "english": "to raise/lower the price"
+    },
+    {
+        "id": "6.1.22",
+        "spanish": "pagar en metálico",
+        "english": "to pay in cash"
+    },
+    {
+        "id": "6.1.23",
+        "spanish": "pagar con cheque",
+        "english": "to pay by check"
+    },
+    {
+        "id": "6.1.24",
+        "spanish": "en dólares/libras",
+        "english": "in dollars/pounds"
+    },
+    {
+        "id": "6.1.25",
+        "spanish": "atractivo",
+        "english": "attractive"
+    },
+    {
+        "id": "6.1.26",
+        "spanish": "precioso",
+        "english": "precious"
+    },
+    {
+        "id": "6.1.27",
+        "spanish": "encontrar algo bonito/feo",
+        "english": "to find something pretty/ugly"
+    },
+    {
+        "id": "6.1.28",
+        "spanish": "parecerle a alguien bonito/feo",
+        "english": "to seem to someone pretty/ugly"
+    },
+    {
+        "id": "6.1.29",
+        "spanish": "calidad",
+        "english": "quality"
+    },
+    {
+        "id": "6.1.30",
+        "spanish": "perfecto",
+        "english": "perfect"
+    },
+    {
+        "id": "6.1.31",
+        "spanish": "aceptabilidad",
+        "english": "acceptability"
+    },
+    {
+        "id": "6.1.32",
+        "spanish": "estar mal/bien/perfecto",
+        "english": "to be bad/well/perfect"
+    },
+    {
+        "id": "6.1.33",
+        "spanish": "parecerle a alguien mal/bien/perfecto",
+        "english": "to seem to someone bad/well/perfect"
+    },
+    {
+        "id": "6.1.34",
+        "spanish": "aceptar",
+        "english": "to accept"
+    },
+    {
+        "id": "6.1.35",
+        "spanish": "adecuación",
+        "english": "adequacy"
+    },
+    {
+        "id": "6.1.36",
+        "spanish": "ser suficiente",
+        "english": "to be enough"
+    },
+    {
+        "id": "6.1.37",
+        "spanish": "conformidad",
+        "english": "accordance"
+    },
+    {
+        "id": "6.1.38",
+        "spanish": "correcto",
+        "english": "right"
+    },
+    {
+        "id": "6.1.39",
+        "spanish": "está bien así",
+        "english": "it's fine like that"
+    },
+    {
+        "id": "6.1.40",
+        "spanish": "gracias",
+        "english": "thanks"
+    },
+    {
+        "id": "6.1.41",
+        "spanish": "nada más",
+        "english": "nothing else"
+    },
+    {
+        "id": "6.1.42",
+        "spanish": "corrección",
+        "english": "correction"
+    },
+    {
+        "id": "6.1.43",
+        "spanish": "error",
+        "english": "error"
+    },
+    {
+        "id": "6.1.44",
+        "spanish": "corregir",
+        "english": "to correct"
+    },
+    {
+        "id": "6.1.45",
+        "spanish": "repasar",
+        "english": "to review"
+    },
+    {
+        "id": "6.1.46",
+        "spanish": "precisión",
+        "english": "accuracy, precision"
+    },
+    {
+        "id": "6.1.47",
+        "spanish": "claridad",
+        "english": "clarity"
+    },
+    {
+        "id": "6.1.48",
+        "spanish": "claro",
+        "english": "clear"
+    },
+    {
+        "id": "6.1.49",
+        "spanish": "sencillo",
+        "english": "simple"
+    },
+    {
+        "id": "6.1.50",
+        "spanish": "complicado",
+        "english": "complicated"
+    },
+    {
+        "id": "6.1.51",
+        "spanish": "(des)orden",
+        "english": "(dis)order"
+    },
+    {
+        "id": "6.1.52",
+        "spanish": "(des)organización",
+        "english": "(dis)organisation"
+    },
+    {
+        "id": "6.1.53",
+        "spanish": "(des)ordenado",
+        "english": "organised/messy"
+    },
+    {
+        "id": "6.1.54",
+        "spanish": "(des)organizado",
+        "english": "(dis)organised"
+    },
+    {
+        "id": "6.1.55",
+        "spanish": "(des)ordenar",
+        "english": "(dis)order"
+    },
+    {
+        "id": "6.1.56",
+        "spanish": "(des)organizar",
+        "english": "(dis)organise"
+    },
+    {
+        "id": "6.1.57",
+        "spanish": "interés",
+        "english": "interest"
+    },
+    {
+        "id": "6.1.58",
+        "spanish": "rollo",
+        "english": "roll"
+    },
+    {
+        "id": "6.1.59",
+        "spanish": "éxito",
+        "english": "success"
+    },
+    {
+        "id": "6.1.60",
+        "spanish": "logro",
+        "english": "achievement"
+    },
+    {
+        "id": "6.1.61",
+        "spanish": "completición",
+        "english": "competition"
+    },
+    {
+        "id": "6.1.62",
+        "spanish": "concurso",
+        "english": "contest"
+    },
+    {
+        "id": "6.1.63",
+        "spanish": "victoria",
+        "english": "victory"
+    },
+    {
+        "id": "6.1.64",
+        "spanish": "premio",
+        "english": "award"
+    },
+    {
+        "id": "6.1.65",
+        "spanish": "resultado",
+        "english": "result"
+    },
+    {
+        "id": "6.1.66",
+        "spanish": "ganador",
+        "english": "winner"
+    },
+    {
+        "id": "6.1.67",
+        "spanish": "perdedor",
+        "english": "loser"
+    },
+    {
+        "id": "6.1.68",
+        "spanish": "intentar",
+        "english": "to try"
+    },
+    {
+        "id": "6.1.69",
+        "spanish": "conseguir",
+        "english": "to get, aquire, achieve"
+    },
+    {
+        "id": "6.1.70",
+        "spanish": "ganar",
+        "english": "to win"
+    },
+    {
+        "id": "6.1.71",
+        "spanish": "perder",
+        "english": "to lose"
+    },
+    {
+        "id": "6.1.72",
+        "spanish": "utilidad",
+        "english": "utility"
+    },
+    {
+        "id": "6.1.73",
+        "spanish": "uso",
+        "english": "use"
+    },
+    {
+        "id": "6.1.74",
+        "spanish": "práctico",
+        "english": "practical"
+    },
+    {
+        "id": "6.1.75",
+        "spanish": "útil",
+        "english": "useful"
+    },
+    {
+        "id": "6.1.76",
+        "spanish": "ser para",
+        "english": "to be for/to"
+    },
+    {
+        "id": "6.1.77",
+        "spanish": "servir para",
+        "english": "to serve for/to"
+    },
+    {
+        "id": "6.1.78",
+        "spanish": "utilizar(se) para",
+        "english": "to utilise for/to"
+    },
+    {
+        "id": "6.1.79",
+        "spanish": "usar(se) para",
+        "english": "to use for/to"
+    },
+    {
+        "id": "6.1.80",
+        "spanish": "funcionar",
+        "english": "to function"
+    },
+    {
+        "id": "6.1.81",
+        "spanish": "capacidad",
+        "english": "capacity"
+    },
+    {
+        "id": "6.1.82",
+        "spanish": "competencia",
+        "english": "competence"
+    },
+    {
+        "id": "6.1.83",
+        "spanish": "ser bueno/malo en/para/con",
+        "english": "to be well/bad in/for/to"
+    },
+    {
+        "id": "6.1.84",
+        "spanish": "ser un genio/un desastre para",
+        "english": "to be a genius/a disaster to/for"
+    },
+    {
+        "id": "6.1.85",
+        "spanish": "practicar",
+        "english": "to practice"
+    },
+    {
+        "id": "6.1.86",
+        "spanish": "importancia",
+        "english": "importance"
+    },
+    {
+        "id": "6.1.87",
+        "spanish": "importar",
+        "english": "to import"
+    },
+    {
+        "id": "6.1.88",
+        "spanish": "dar igual",
+        "english": "to do not care"
+    },
+    {
+        "id": "6.1.89",
+        "spanish": "¡me da igual!",
+        "english": "give me the same!"
+    },
+    {
+        "id": "6.1.90",
+        "spanish": "normalidad",
+        "english": "normal"
+    },
+    {
+        "id": "6.1.91",
+        "spanish": "frecuente",
+        "english": "frequent"
+    },
+    {
+        "id": "6.1.92",
+        "spanish": "raro",
+        "english": "rare, weird"
+    },
+    {
+        "id": "6.1.93",
+        "spanish": "extraño",
+        "english": "strange"
+    },
+    {
+        "id": "6.1.94",
+        "spanish": "especial",
+        "english": "special"
+    },
+    {
+        "id": "6.1.95",
+        "spanish": "único",
+        "english": "unique"
+    },
+    {
+        "id": "6.1.96",
+        "spanish": "ser/parecerle (a alguien) normal/raro",
+        "english": "to be/seem (to someone) normal/weird"
+    },
+    {
+        "id": "6.1.97",
+        "spanish": "facilidad",
+        "english": "ease, easiness"
+    },
+    {
+        "id": "6.1.98",
+        "spanish": "simple",
+        "english": "simple"
+    },
+    {
+        "id": "11.1.1",
+        "spanish": "servicio postal",
+        "english": "postal service"
+    },
+    {
+        "id": "11.1.2",
+        "spanish": "cartero",
+        "english": "postman"
+    },
+    {
+        "id": "11.1.3",
+        "spanish": "mensajero",
+        "english": "courier"
+    },
+    {
+        "id": "11.1.4",
+        "spanish": "empleado de correos",
+        "english": "postal worker"
+    },
+    {
+        "id": "11.1.5",
+        "spanish": "buzón de correos",
+        "english": "mailbox"
+    },
+    {
+        "id": "11.1.6",
+        "spanish": "servicios de transporte",
+        "english": "transportation services"
+    },
+    {
+        "id": "11.1.7",
+        "spanish": "servicios financieros",
+        "english": "financial services"
+    },
+    {
+        "id": "11.1.8",
+        "spanish": "cuenta",
+        "english": "bill, account"
+    },
+    {
+        "id": "11.1.9",
+        "spanish": "cheque de viaje",
+        "english": "travel check"
+    },
+    {
+        "id": "11.1.10",
+        "spanish": "meter/poner dinero de la cuenta",
+        "english": "to put money in the account"
+    },
+    {
+        "id": "11.1.11",
+        "spanish": "meter/poner sacar dinero de la cuenta",
+        "english": "to take money from the account"
+    },
+    {
+        "id": "11.1.12",
+        "spanish": "abrir una cuenta",
+        "english": "to open an account"
+    },
+    {
+        "id": "11.1.13",
+        "spanish": "cerrar una cuenta",
+        "english": "to close an account"
+    },
+    {
+        "id": "11.1.14",
+        "spanish": "servicios sanitarios",
+        "english": "health services"
+    },
+    {
+        "id": "11.1.15",
+        "spanish": "clínica",
+        "english": "clinic"
+    },
+    {
+        "id": "11.1.16",
+        "spanish": "urgencias",
+        "english": "emergencies"
+    },
+    {
+        "id": "11.1.17",
+        "spanish": "seguro médico",
+        "english": "health insurance"
+    },
+    {
+        "id": "11.1.18",
+        "spanish": "ir de urgencias",
+        "english": "to go to emergencies"
+    },
+    {
+        "id": "11.1.19",
+        "spanish": "estar en urgencias",
+        "english": "to be in emergencies"
+    },
+    {
+        "id": "11.1.20",
+        "spanish": "servicios educativos",
+        "english": "educational services"
+    },
+    {
+        "id": "11.1.21",
+        "spanish": "servicios de protección y seguridad",
+        "english": "protection and security services"
+    },
+    {
+        "id": "11.1.22",
+        "spanish": "vigilante",
+        "english": "vigilante"
+    },
+    {
+        "id": "11.1.23",
+        "spanish": "ladrón",
+        "english": "thief"
+    },
+    {
+        "id": "11.1.24",
+        "spanish": "asesino",
+        "english": "murderer"
+    },
+    {
+        "id": "11.1.25",
+        "spanish": "robo",
+        "english": "robbery"
+    },
+    {
+        "id": "11.1.26",
+        "spanish": "muerte",
+        "english": "death"
+    },
+    {
+        "id": "11.1.27",
+        "spanish": "robar",
+        "english": "to steal"
+    },
+    {
+        "id": "11.1.28",
+        "spanish": "matar",
+        "english": "to kill"
+    },
+    {
+        "id": "11.1.29",
+        "spanish": "servicios sociales",
+        "english": "social services"
+    },
+    {
+        "id": "11.1.30",
+        "spanish": "psicólogo",
+        "english": "psychologist"
+    },
+    {
+        "id": "11.1.31",
+        "spanish": "voluntario de ONG",
+        "english": "NGO volunteer"
+    },
+    {
+        "id": "11.1.32",
+        "spanish": "ayuda",
+        "english": "help"
+    },
+    {
+        "id": "11.1.33",
+        "spanish": "colaboración",
+        "english": "collabortion"
+    },
+    {
+        "id": "11.1.34",
+        "spanish": "ayuda econónica",
+        "english": "economic, financial help"
+    },
+    {
+        "id": "11.1.35",
+        "spanish": "cuidar",
+        "english": "care"
+    },
+    {
+        "id": "11.1.36",
+        "spanish": "ayudar",
+        "english": "to help"
+    },
+    {
+        "id": "11.1.37",
+        "spanish": "colaborar como voluntario",
+        "english": "to collaborate as a volunteer"
+    },
+    {
+        "id": "11.1.38",
+        "spanish": "recibir/ofrecer una ayuda",
+        "english": "to receive/offer help"
+    },
+    {
+        "id": "11.1.39",
+        "spanish": "recibir/ofrecer atender a personas mayores",
+        "english": "to receive/offer care for the elderly"
+    },
+    {
+        "id": "11.1.40",
+        "spanish": "servicios de abastecimiento público",
+        "english": "public suply services"
+    },
+    {
+        "id": "11.1.41",
+        "spanish": "baños/aseos públicos",
+        "english": "public baths/toilets"
+    },
+    {
+        "id": "11.1.42",
+        "spanish": "W.C.",
+        "english": "WC"
+    },
+    {
+        "id": "11.1.43",
+        "spanish": "semáforo",
+        "english": "traffic lights"
+    },
+    {
+        "id": "12.1.1",
+        "spanish": "lugares",
+        "english": "places"
+    },
+    {
+        "id": "12.1.2",
+        "spanish": "personas",
+        "english": "people"
+    },
+    {
+        "id": "12.1.3",
+        "spanish": "actividades",
+        "english": "activities"
+    },
+    {
+        "id": "12.1.4",
+        "spanish": "salida de emergencia",
+        "english": "emergency exit"
+    },
+    {
+        "id": "12.1.5",
+        "spanish": "escaleras mecánicas",
+        "english": "escalator"
+    },
+    {
+        "id": "12.1.6",
+        "spanish": "aparcamiento",
+        "english": "parking"
+    },
+    {
+        "id": "12.1.7",
+        "spanish": "descuento",
+        "english": "discount"
+    },
+    {
+        "id": "12.1.8",
+        "spanish": "garantía",
+        "english": "guarantee"
+    },
+    {
+        "id": "12.1.9",
+        "spanish": "hacer una devolución",
+        "english": "to make a return"
+    },
+    {
+        "id": "12.1.10",
+        "spanish": "hacer un cambio",
+        "english": "to make an exchange"
+    },
+    {
+        "id": "12.1.11",
+        "spanish": "salir de rebajas",
+        "english": "to leave sales"
+    },
+    {
+        "id": "12.1.12",
+        "spanish": "ir de rebajas",
+        "english": "to go to sales"
+    },
+    {
+        "id": "12.1.13",
+        "spanish": "poner rebajas",
+        "english": "to put sales"
+    },
+    {
+        "id": "12.1.14",
+        "spanish": "haber rebajas",
+        "english": "to have sales"
+    },
+    {
+        "id": "12.1.15",
+        "spanish": "tener rebajas",
+        "english": "to have sales"
+    },
+    {
+        "id": "12.1.16",
+        "spanish": "tener/hacer un descuento",
+        "english": "to have a discount"
+    },
+    {
+        "id": "12.1.17",
+        "spanish": "estar de oferta",
+        "english": "to be on sale"
+    },
+    {
+        "id": "12.1.18",
+        "spanish": "tener garantía",
+        "english": "to have a guarantee"
+    },
+    {
+        "id": "12.1.19",
+        "spanish": "tener/haber precios especiales",
+        "english": "to have special prices"
+    },
+    {
+        "id": "12.1.20",
+        "spanish": "comprar/vender por catálogo",
+        "english": "to buy/sell by catalog"
+    },
+    {
+        "id": "12.1.21",
+        "spanish": "comprar/vender por Internet",
+        "english": "to buy/sell online"
+    },
+    {
+        "id": "12.1.22",
+        "spanish": "ropa",
+        "english": "clothing"
+    },
+    {
+        "id": "12.1.23",
+        "spanish": "calzado",
+        "english": "footwear"
+    },
+    {
+        "id": "12.1.24",
+        "spanish": "complementos",
+        "english": "accessories"
+    },
+    {
+        "id": "12.1.25",
+        "spanish": "ropa interior",
+        "english": "underwear"
+    },
+    {
+        "id": "12.1.26",
+        "spanish": "ropa de verano",
+        "english": "summer clothing"
+    },
+    {
+        "id": "12.1.27",
+        "spanish": "ropa de invierno",
+        "english": "winter clothing"
+    },
+    {
+        "id": "12.1.28",
+        "spanish": "ropa de deporte",
+        "english": "sports' clothing"
+    },
+    {
+        "id": "12.1.29",
+        "spanish": "zapatos planos",
+        "english": "flat shoes"
+    },
+    {
+        "id": "12.1.30",
+        "spanish": "zapatos de tacón",
+        "english": "heeled shoes"
+    },
+    {
+        "id": "12.1.31",
+        "spanish": "zapatillas de deporte",
+        "english": "sneakers"
+    },
+    {
+        "id": "12.1.32",
+        "spanish": "vestido/traje de fiesta",
+        "english": "party dress/suit"
+    },
+    {
+        "id": "12.1.33",
+        "spanish": "vestido/traje de noche",
+        "english": "evening dress/suit"
+    },
+    {
+        "id": "12.1.34",
+        "spanish": "vestido/traje de novia",
+        "english": "wedding dress/suit"
+    },
+    {
+        "id": "12.1.35",
+        "spanish": "minifalda",
+        "english": "miniskirt"
+    },
+    {
+        "id": "12.1.36",
+        "spanish": "falda corta/larga",
+        "english": "short/long skirt"
+    },
+    {
+        "id": "12.1.37",
+        "spanish": "liso",
+        "english": "plain"
+    },
+    {
+        "id": "12.1.38",
+        "spanish": "de rayas",
+        "english": "striped"
+    },
+    {
+        "id": "12.1.39",
+        "spanish": "de cuadros",
+        "english": "plaid/with squares"
+    },
+    {
+        "id": "12.1.40",
+        "spanish": "quedar bien",
+        "english": "to fit well"
+    },
+    {
+        "id": "12.1.41",
+        "spanish": "quedar mal",
+        "english": "to fit bad"
+    },
+    {
+        "id": "12.1.42",
+        "spanish": "quedar ancho",
+        "english": "to fit wide"
+    },
+    {
+        "id": "12.1.43",
+        "spanish": "quedar estrecho",
+        "english": "to fit narrow"
+    },
+    {
+        "id": "12.1.44",
+        "spanish": "quedar grande",
+        "english": "to fit large"
+    },
+    {
+        "id": "12.1.45",
+        "spanish": "quedar pequeño",
+        "english": "to fit small"
+    },
+    {
+        "id": "12.1.46",
+        "spanish": "quedar largo",
+        "english": "to fit long"
+    },
+    {
+        "id": "12.1.47",
+        "spanish": "quedar corto",
+        "english": "to fit small"
+    },
+    {
+        "id": "12.1.48",
+        "spanish": "coser",
+        "english": "to sew"
+    },
+    {
+        "id": "12.1.49",
+        "spanish": "alimentación",
+        "english": "food"
+    },
+    {
+        "id": "12.1.50",
+        "spanish": "carro de la compra",
+        "english": "shopping cart"
+    },
+    {
+        "id": "12.1.51",
+        "spanish": "carrito de la compra",
+        "english": "little shopping cart"
+    },
+    {
+        "id": "12.1.52",
+        "spanish": "cesta de la compra",
+        "english": "shopping basket"
+    },
+    {
+        "id": "12.1.53",
+        "spanish": "bolsa de la compra",
+        "english": "shopping bag"
+    },
+    {
+        "id": "12.1.54",
+        "spanish": "sección de congelados",
+        "english": "frozen section"
+    },
+    {
+        "id": "12.1.55",
+        "spanish": "sección de lácteos",
+        "english": "dairy/milk section"
+    },
+    {
+        "id": "12.1.56",
+        "spanish": "sección de bebidas",
+        "english": "drinks section"
+    },
+    {
+        "id": "12.1.57",
+        "spanish": "loncha de jamón",
+        "english": "a slice of jamon/ham"
+    },
+    {
+        "id": "12.1.58",
+        "spanish": "loncha de queso",
+        "english": "a slice of cheese"
+    },
+    {
+        "id": "12.1.59",
+        "spanish": "trozo de tarta",
+        "english": "a piece of pie"
+    },
+    {
+        "id": "12.1.60",
+        "spanish": "trozo de pan",
+        "english": "a bread slice"
+    },
+    {
+        "id": "12.1.61",
+        "spanish": "estar malo/caducado",
+        "english": "to be bad/expired"
+    },
+    {
+        "id": "12.1.62",
+        "spanish": "tener/estar de oferta/de promoción",
+        "english": "to have/be an offer/a promotion"
+    },
+    {
+        "id": "12.1.63",
+        "spanish": "pagos",
+        "english": "payments"
+    },
+    {
+        "id": "12.1.64",
+        "spanish": "cambio",
+        "english": "change"
+    },
+    {
+        "id": "12.1.65",
+        "spanish": "vuelta",
+        "english": "turn, return"
+    },
+    {
+        "id": "12.1.66",
+        "spanish": "pagar intereses",
+        "english": "to pay interest"
+    },
+    {
+        "id": "12.1.67",
+        "spanish": "cobrar intereses",
+        "english": "to collect interest"
+    },
+    {
+        "id": "12.1.68",
+        "spanish": "pasar por la caja",
+        "english": "to proceed to checkout"
+    },
+    {
+        "id": "13.1.1",
+        "spanish": "salud",
+        "english": "health"
+    },
+    {
+        "id": "13.1.2",
+        "spanish": "enfermedades",
+        "english": "diseases"
+    },
+    {
+        "id": "13.1.3",
+        "spanish": "seguro de enfermedad",
+        "english": "medical insurance"
+    },
+    {
+        "id": "13.1.4",
+        "spanish": "seguro público",
+        "english": "public insurance"
+    },
+    {
+        "id": "13.1.5",
+        "spanish": "seguro privado",
+        "english": "private insurance"
+    },
+    {
+        "id": "13.1.6",
+        "spanish": "tener diarrea",
+        "english": "to have a diarrhea"
+    },
+    {
+        "id": "13.1.7",
+        "spanish": "tener cáncer",
+        "english": "to have a cancer"
+    },
+    {
+        "id": "13.1.8",
+        "spanish": "tener sida",
+        "english": "to have AIDS"
+    },
+    {
+        "id": "13.1.9",
+        "spanish": "ponerse enfermo/malo/bien",
+        "english": "to get sick/bad/good"
+    },
+    {
+        "id": "13.1.10",
+        "spanish": "tener buena/mala salud",
+        "english": "to have good/bad health"
+    },
+    {
+        "id": "13.1.11",
+        "spanish": "cuidar a un enfermo",
+        "english": "to care for a sick"
+    },
+    {
+        "id": "13.1.12",
+        "spanish": "curar a un enfermo",
+        "english": "to cure a sick"
+    },
+    {
+        "id": "13.1.13",
+        "spanish": "hacer un régimen",
+        "english": "to make a regimen"
+    },
+    {
+        "id": "13.1.14",
+        "spanish": "estar sano/de baja",
+        "english": "to be healthy/low"
+    },
+    {
+        "id": "13.1.15",
+        "spanish": "heridas",
+        "english": "injuries, wounds"
+    },
+    {
+        "id": "13.1.16",
+        "spanish": "traumatismos",
+        "english": "trauma"
+    },
+    {
+        "id": "13.1.17",
+        "spanish": "quemadura",
+        "english": "burn"
+    },
+    {
+        "id": "13.1.18",
+        "spanish": "corte",
+        "english": "cut"
+    },
+    {
+        "id": "13.1.19",
+        "spanish": "caer(se)",
+        "english": "to fall"
+    },
+    {
+        "id": "13.1.20",
+        "spanish": "dar(se) un golpe",
+        "english": "to give a blow"
+    },
+    {
+        "id": "13.1.21",
+        "spanish": "quemar(se)/cortar(se) un dedo/una mano",
+        "english": "to burn/cut a finger/hand"
+    },
+    {
+        "id": "13.1.22",
+        "spanish": "hacerce una herida",
+        "english": "to injure yourself"
+    },
+    {
+        "id": "13.1.23",
+        "spanish": "romperse una pierna/un brazo",
+        "english": "to break a leg/arm"
+    },
+    {
+        "id": "13.1.24",
+        "spanish": "adelgazar",
+        "english": "to lose weight"
+    },
+    {
+        "id": "13.1.25",
+        "spanish": "engordar",
+        "english": "to gain weight/fat"
+    },
+    {
+        "id": "13.1.26",
+        "spanish": "síntomas",
+        "english": "symptoms"
+    },
+    {
+        "id": "13.1.27",
+        "spanish": "estar agotado",
+        "english": "to be exhausted"
+    },
+    {
+        "id": "13.1.28",
+        "spanish": "estar estresado",
+        "english": "to be stressed"
+    },
+    {
+        "id": "13.1.29",
+        "spanish": "estar resfriado",
+        "english": "to be cold"
+    },
+    {
+        "id": "13.1.30",
+        "spanish": "estar mareado",
+        "english": "to be dizzy"
+    },
+    {
+        "id": "13.1.31",
+        "spanish": "centros de asistencia sanitaria",
+        "english": "healthcare centers"
+    },
+    {
+        "id": "13.1.32",
+        "spanish": "doctor",
+        "english": "doctor"
+    },
+    {
+        "id": "13.1.33",
+        "spanish": "enfermo",
+        "english": "sick"
+    },
+    {
+        "id": "13.1.34",
+        "spanish": "clínica",
+        "english": "clinic"
+    },
+    {
+        "id": "13.1.35",
+        "spanish": "centro de salud",
+        "english": "health center"
+    },
+    {
+        "id": "13.1.36",
+        "spanish": "médico de guardia",
+        "english": "doctor on call"
+    },
+    {
+        "id": "13.1.37",
+        "spanish": "hospital de guardia",
+        "english": "hospital on call"
+    },
+    {
+        "id": "13.1.38",
+        "spanish": "farmacia de guardia",
+        "english": "pharmacy on call"
+    },
+    {
+        "id": "13.1.39",
+        "spanish": "análisis de sangre",
+        "english": "blood analysis"
+    },
+    {
+        "id": "13.1.40",
+        "spanish": "análisis de orina",
+        "english": "urine analysis"
+    },
+    {
+        "id": "13.1.41",
+        "spanish": "dentista",
+        "english": "dentist"
+    },
+    {
+        "id": "13.1.42",
+        "spanish": "ginecólogo",
+        "english": "gynecologist"
+    },
+    {
+        "id": "13.1.43",
+        "spanish": "oculista",
+        "english": "oculist"
+    },
+    {
+        "id": "13.1.44",
+        "spanish": "psicólogo",
+        "english": "psychologist"
+    },
+    {
+        "id": "13.1.45",
+        "spanish": "cirujano",
+        "english": "surgeon"
+    },
+    {
+        "id": "13.1.46",
+        "spanish": "paciente",
+        "english": "patient"
+    },
+    {
+        "id": "13.1.47",
+        "spanish": "pedir hora/cita",
+        "english": "to request time/appointment"
+    },
+    {
+        "id": "13.1.48",
+        "spanish": "hacerce una revisión",
+        "english": "to get a checkup"
+    },
+    {
+        "id": "13.1.49",
+        "spanish": "hacerse unas pruebas de sangre/de orina",
+        "english": "to get some blood/urine tests"
+    },
+    {
+        "id": "13.1.50",
+        "spanish": "hacerce un control de sangre/de orina",
+        "english": "to get some blood/urine checkup"
+    },
+    {
+        "id": "13.1.51",
+        "spanish": "hacerce un análisis de sangre/de orina",
+        "english": "to get some blood/urine analysis"
+    },
+    {
+        "id": "13.1.52",
+        "spanish": "ingresar en un hospital/en urgencias",
+        "english": "to enter hospital/emergencies dpt"
+    },
+    {
+        "id": "13.1.53",
+        "spanish": "dar de alta/baja",
+        "english": "to register/unsubscribe"
+    },
+    {
+        "id": "13.1.54",
+        "spanish": "dar el alta/la baja (médica)",
+        "english": "to discharge/cancel"
+    },
+    {
+        "id": "13.1.55",
+        "spanish": "medicina",
+        "english": "medicine"
+    },
+    {
+        "id": "13.1.56",
+        "spanish": "medicamentos",
+        "english": "medications"
+    },
+    {
+        "id": "13.1.57",
+        "spanish": "tirita",
+        "english": "band-aid"
+    },
+    {
+        "id": "13.1.58",
+        "spanish": "alcohol",
+        "english": "alcohol"
+    },
+    {
+        "id": "13.1.59",
+        "spanish": "agua oxigenada",
+        "english": "hydrogen peroxide"
+    },
+    {
+        "id": "13.1.60",
+        "spanish": "termómetro",
+        "english": "thermometer"
+    },
+    {
+        "id": "13.1.61",
+        "spanish": "antibiótico",
+        "english": "antibiotic"
+    },
+    {
+        "id": "13.1.62",
+        "spanish": "aspirina",
+        "english": "aspirin"
+    },
+    {
+        "id": "13.1.63",
+        "spanish": "gotas",
+        "english": "drops"
+    },
+    {
+        "id": "13.1.64",
+        "spanish": "vacuna",
+        "english": "vaccine"
+    },
+    {
+        "id": "13.1.65",
+        "spanish": "pastilla",
+        "english": "pill"
+    },
+    {
+        "id": "13.1.66",
+        "spanish": "darse una crema",
+        "english": "to give yourself a cream"
+    },
+    {
+        "id": "13.1.67",
+        "spanish": "echarse unas gotas",
+        "english": "to take few drops"
+    },
+    {
+        "id": "13.1.68",
+        "spanish": "ponerse una vacuna/el termómetro",
+        "english": "to get a vaccine/thermometer"
+    },
+    {
+        "id": "13.1.69",
+        "spanish": "hacer/dar una receta (médica)",
+        "english": "to make/give a prescription"
+    },
+    {
+        "id": "13.1.70",
+        "spanish": "higiene",
+        "english": "hygiene"
+    },
+    {
+        "id": "13.1.71",
+        "spanish": "cepillo",
+        "english": "brush"
+    },
+    {
+        "id": "13.1.72",
+        "spanish": "peine",
+        "english": "comb"
+    },
+    {
+        "id": "13.1.73",
+        "spanish": "secador de pelo",
+        "english": "hair dryer"
+    },
+    {
+        "id": "13.1.74",
+        "spanish": "zapatillas",
+        "english": "slippers"
+    },
+    {
+        "id": "13.1.75",
+        "spanish": "gorro de ducha/baño",
+        "english": "shower/bath cap"
+    },
+    {
+        "id": "13.1.76",
+        "spanish": "espuma de afeitar",
+        "english": "shaving foam"
+    },
+    {
+        "id": "13.1.77",
+        "spanish": "gel de afeitar",
+        "english": "shaving gel"
+    },
+    {
+        "id": "13.1.78",
+        "spanish": "maquinilla de afeitar",
+        "english": "razor"
+    },
+    {
+        "id": "13.1.79",
+        "spanish": "cuchilla de afeitar",
+        "english": "razor blade"
+    },
+    {
+        "id": "13.1.80",
+        "spanish": "pastilla de jabón",
+        "english": "bar of soap"
+    },
+    {
+        "id": "13.1.81",
+        "spanish": "perfume",
+        "english": "perfume"
+    },
+    {
+        "id": "13.1.82",
+        "spanish": "estética",
+        "english": "esthetic"
+    },
+    {
+        "id": "13.1.83",
+        "spanish": "barra de labios",
+        "english": "lipstick"
+    },
+    {
+        "id": "13.1.84",
+        "spanish": "corte de pelo",
+        "english": "haircut"
+    },
+    {
+        "id": "13.1.85",
+        "spanish": "peinado",
+        "english": "hairstyle"
+    },
+    {
+        "id": "13.1.86",
+        "spanish": "pintarse los ojos/los labios",
+        "english": "to paint the eyes/lips"
+    },
+    {
+        "id": "13.1.87",
+        "spanish": "tener las manos/la piel suave",
+        "english": "to have soft hands/skin"
+    },
+    {
+        "id": "13.1.88",
+        "spanish": "cortarse el pelo",
+        "english": "to cut hair"
+    },
+    {
+        "id": "14.1.1",
+        "spanish": "viajes",
+        "english": "travel, trips"
+    },
+    {
+        "id": "14.1.2",
+        "spanish": "alojamiento",
+        "english": "accomodation"
+    },
+    {
+        "id": "14.1.3",
+        "spanish": "transporte",
+        "english": "transportation"
+    },
+    {
+        "id": "14.1.4",
+        "spanish": "objetos y documentos relacionados con los viajes",
+        "english": "travel related objects and documents"
+    },
+    {
+        "id": "14.1.5",
+        "spanish": "DNI (Documento Nacional de Identidad)",
+        "english": "ID card"
+    },
+    {
+        "id": "14.1.6",
+        "spanish": "visado",
+        "english": "visa"
+    },
+    {
+        "id": "14.1.7",
+        "spanish": "equipaje",
+        "english": "luggage"
+    },
+    {
+        "id": "14.1.8",
+        "spanish": "bolsa de aseo/de viaje",
+        "english": "toilet/travel bag"
+    },
+    {
+        "id": "14.1.9",
+        "spanish": "exceso de equipaje",
+        "english": "excess baggage"
+    },
+    {
+        "id": "14.1.10",
+        "spanish": "mapa de carreteras",
+        "english": "road map"
+    },
+    {
+        "id": "14.1.11",
+        "spanish": "plano turístico",
+        "english": "tourist map"
+    },
+    {
+        "id": "14.1.12",
+        "spanish": "callejero",
+        "english": "street map"
+    },
+    {
+        "id": "14.1.13",
+        "spanish": "anular/cambiar un billete",
+        "english": "to cancel/change a ticket"
+    },
+    {
+        "id": "14.1.14",
+        "spanish": "facturar/perder el equipaje/las maletas",
+        "english": "to check in/lose luggage/suitcases"
+    },
+    {
+        "id": "14.1.15",
+        "spanish": "tipos de viajes",
+        "english": "types of trips"
+    },
+    {
+        "id": "14.1.16",
+        "spanish": "hacer un crucero/un safari",
+        "english": "to go on a cruise/safari"
+    },
+    {
+        "id": "14.1.17",
+        "spanish": "viaje de trabaje",
+        "english": "work trip"
+    },
+    {
+        "id": "14.1.18",
+        "spanish": "viaje de estudios",
+        "english": "study trip"
+    },
+    {
+        "id": "14.1.19",
+        "spanish": "viaje de negocios",
+        "english": "business trip"
+    },
+    {
+        "id": "14.1.20",
+        "spanish": "viaje de larga duración",
+        "english": "long-term trip"
+    },
+    {
+        "id": "14.1.21",
+        "spanish": "viajar en familia/en grupo",
+        "english": "family/group trip"
+    },
+    {
+        "id": "14.1.22",
+        "spanish": "irse/marcharse/salir de puente",
+        "english": "to go off/get off the bridge"
+    },
+    {
+        "id": "14.1.23",
+        "spanish": "irse/marcharse/salir de fin de semana",
+        "english": "to go away/out for the weekend"
+    },
+    {
+        "id": "14.1.24",
+        "spanish": "hacer/contratar un viaje organizado",
+        "english": "to make/hire an organised trip"
+    },
+    {
+        "id": "14.1.25",
+        "spanish": "hacer turismo",
+        "english": "sightseeing"
+    },
+    {
+        "id": "14.1.26",
+        "spanish": "subir(se) a/bajar(se) de un tren/un autobús/un avión",
+        "english": "to get on/off a train/bus/plane"
+    },
+    {
+        "id": "14.1.27",
+        "spanish": "playa",
+        "english": "beach"
+    },
+    {
+        "id": "14.1.28",
+        "spanish": "arena",
+        "english": "sand"
+    },
+    {
+        "id": "14.1.29",
+        "spanish": "olas",
+        "english": "waves"
+    },
+    {
+        "id": "14.1.30",
+        "spanish": "sandalias",
+        "english": "flip flops"
+    },
+    {
+        "id": "14.1.31",
+        "spanish": "sombrilla",
+        "english": "parasol, umbrella from sun"
+    },
+    {
+        "id": "14.1.32",
+        "spanish": "pelota",
+        "english": "ball"
+    },
+    {
+        "id": "14.1.33",
+        "spanish": "buceador",
+        "english": "diver"
+    },
+    {
+        "id": "14.1.34",
+        "spanish": "tomar el sol",
+        "english": "to sunbathe"
+    },
+    {
+        "id": "14.1.35",
+        "spanish": "pasear por la orilla",
+        "english": "to stroll along the shore"
+    },
+    {
+        "id": "14.1.36",
+        "spanish": "jugar en la arena",
+        "english": "to play in the sand"
+    },
+    {
+        "id": "14.1.37",
+        "spanish": "montaña",
+        "english": "mountain"
+    },
+    {
+        "id": "14.1.38",
+        "spanish": "paseo",
+        "english": "walk"
+    },
+    {
+        "id": "14.1.39",
+        "spanish": "montañero",
+        "english": "mountaineer"
+    },
+    {
+        "id": "14.1.40",
+        "spanish": "senderista",
+        "english": "hiker"
+    },
+    {
+        "id": "14.1.41",
+        "spanish": "escalador",
+        "english": "climber"
+    },
+    {
+        "id": "14.1.42",
+        "spanish": "cazador",
+        "english": "hunter"
+    },
+    {
+        "id": "14.1.43",
+        "spanish": "dar un/ir de paseo",
+        "english": "to take a walk"
+    },
+    {
+        "id": "14.1.44",
+        "spanish": "hacer una marcha/una excursión",
+        "english": "to do a walk/an excursion"
+    },
+    {
+        "id": "14.1.45",
+        "spanish": "hacer senderismo/escalada",
+        "english": "to do hiking/climbing"
+    },
+    {
+        "id": "14.1.46",
+        "spanish": "hostal",
+        "english": "hostel"
+    },
+    {
+        "id": "14.1.47",
+        "spanish": "pensión",
+        "english": "pension"
+    },
+    {
+        "id": "14.1.48",
+        "spanish": "tienda de campaña",
+        "english": "tent"
+    },
+    {
+        "id": "14.1.49",
+        "spanish": "recepción",
+        "english": "reception"
+    },
+    {
+        "id": "14.1.50",
+        "spanish": "entrada",
+        "english": "entrance"
+    },
+    {
+        "id": "14.1.51",
+        "spanish": "salida de emergencia",
+        "english": "emergency exit"
+    },
+    {
+        "id": "14.1.52",
+        "spanish": "recepcionista",
+        "english": "receptionist"
+    },
+    {
+        "id": "14.1.53",
+        "spanish": "conserje",
+        "english": "concierge"
+    },
+    {
+        "id": "14.1.54",
+        "spanish": "saco de dormir",
+        "english": "sleeping bag"
+    },
+    {
+        "id": "14.1.55",
+        "spanish": "manta",
+        "english": "blanket"
+    },
+    {
+        "id": "14.1.56",
+        "spanish": "nevera portátil",
+        "english": "cooler, portable fridge"
+    },
+    {
+        "id": "14.1.57",
+        "spanish": "ir de/hacer camping",
+        "english": "to go to/do camping"
+    },
+    {
+        "id": "14.1.58",
+        "spanish": "haber servicio de habitaciones",
+        "english": "to have room service"
+    },
+    {
+        "id": "14.1.59",
+        "spanish": "haber sala de reuniones",
+        "english": "to have a meeting room"
+    },
+    {
+        "id": "14.1.60",
+        "spanish": "haber instalaciones para minusválidos",
+        "english": "to have facilities for the disabled"
+    },
+    {
+        "id": "14.1.61",
+        "spanish": "haber aparcamiento",
+        "english": "to have parking"
+    },
+    {
+        "id": "14.1.62",
+        "spanish": "estar completo",
+        "english": "to be complete"
+    },
+    {
+        "id": "14.1.63",
+        "spanish": "haber plazas libres",
+        "english": "to have free places"
+    },
+    {
+        "id": "14.1.64",
+        "spanish": "sistema de transporte",
+        "english": "transport system"
+    },
+    {
+        "id": "14.1.65",
+        "spanish": "red de transportes",
+        "english": "transport network"
+    },
+    {
+        "id": "14.1.66",
+        "spanish": "autopista",
+        "english": "highway"
+    },
+    {
+        "id": "14.1.67",
+        "spanish": "vía",
+        "english": "road"
+    },
+    {
+        "id": "14.1.68",
+        "spanish": "andén",
+        "english": "platform"
+    },
+    {
+        "id": "14.1.69",
+        "spanish": "túnel",
+        "english": "tunnel"
+    },
+    {
+        "id": "14.1.70",
+        "spanish": "paso de cebra/de peatones",
+        "english": "crosswalk"
+    },
+    {
+        "id": "14.1.71",
+        "spanish": "carril bus/bici",
+        "english": "bus/bike lane"
+    },
+    {
+        "id": "14.1.72",
+        "spanish": "haber caravana/un atasco/un embotellamiento",
+        "english": "to have a caravan/traffic jam"
+    },
+    {
+        "id": "14.1.73",
+        "spanish": "ir/salir/llegar con retraso",
+        "english": "to go/leave/arrive late"
+    },
+    {
+        "id": "14.1.74",
+        "spanish": "parar",
+        "english": "to stop"
+    },
+    {
+        "id": "14.1.75",
+        "spanish": "transporte por tierra",
+        "english": "land transport"
+    },
+    {
+        "id": "14.1.76",
+        "spanish": "viajero",
+        "english": "traveler"
+    },
+    {
+        "id": "14.1.77",
+        "spanish": "tranvía",
+        "english": "tram"
+    },
+    {
+        "id": "14.1.78",
+        "spanish": "moto",
+        "english": "motorcycle"
+    },
+    {
+        "id": "14.1.79",
+        "spanish": "camión",
+        "english": "truck"
+    },
+    {
+        "id": "14.1.80",
+        "spanish": "asiento",
+        "english": "seat"
+    },
+    {
+        "id": "14.1.81",
+        "spanish": "fila",
+        "english": "row"
+    },
+    {
+        "id": "14.1.82",
+        "spanish": "pasillo",
+        "english": "aisle"
+    },
+    {
+        "id": "14.1.83",
+        "spanish": "maletero",
+        "english": "trunk"
+    },
+    {
+        "id": "14.1.84",
+        "spanish": "cinturón",
+        "english": "belt"
+    },
+    {
+        "id": "14.1.85",
+        "spanish": "conducir",
+        "english": "to drive"
+    },
+    {
+        "id": "14.1.86",
+        "spanish": "aparcar",
+        "english": "to park"
+    },
+    {
+        "id": "14.1.87",
+        "spanish": "girar",
+        "english": "to turn"
+    },
+    {
+        "id": "14.1.88",
+        "spanish": "subir(se) a/montar(se)/bajar(se) de una bicicleta/una moto/un coche",
+        "english": "to get on/off/ride a bike/motorcycle/car"
+    },
+    {
+        "id": "14.1.89",
+        "spanish": "hacer transbordo",
+        "english": "to transfer"
+    },
+    {
+        "id": "14.1.90",
+        "spanish": "perder el tren/el autobús",
+        "english": "to miss train/bus"
+    },
+    {
+        "id": "14.1.91",
+        "spanish": "transporte marítimo y fluvial",
+        "english": "sea and river transport"
+    },
+    {
+        "id": "14.1.92",
+        "spanish": "barca",
+        "english": "boat"
+    },
+    {
+        "id": "14.1.93",
+        "spanish": "piragua",
+        "english": "canoe"
+    },
+    {
+        "id": "14.1.94",
+        "spanish": "marinero",
+        "english": "sailor"
+    },
+    {
+        "id": "14.1.95",
+        "spanish": "capitán",
+        "english": "captain"
+    },
+    {
+        "id": "14.1.96",
+        "spanish": "navegar",
+        "english": "to surf"
+    },
+    {
+        "id": "14.1.97",
+        "spanish": "subir(se) a/bajar(se) de un barco",
+        "english": "to get on/off a ship"
+    },
+    {
+        "id": "14.1.98",
+        "spanish": "transporte aéreo",
+        "english": "air transport"
+    },
+    {
+        "id": "14.1.99",
+        "spanish": "helicóptero",
+        "english": "helicopter"
+    },
+    {
+        "id": "14.1.100",
+        "spanish": "globo",
+        "english": "globe"
+    },
+    {
+        "id": "14.1.101",
+        "spanish": "ala delta",
+        "english": "hang glider"
+    },
+    {
+        "id": "14.1.102",
+        "spanish": "parapente",
+        "english": "paragliding"
+    },
+    {
+        "id": "14.1.103",
+        "spanish": "terminal",
+        "english": "terminal"
+    },
+    {
+        "id": "14.1.104",
+        "spanish": "punto de información/de encuentro",
+        "english": "information/meeting point"
+    },
+    {
+        "id": "14.1.105",
+        "spanish": "tarjeta/puerta de embarque",
+        "english": "boarding pass/gate"
+    },
+    {
+        "id": "14.1.106",
+        "spanish": "sala de llegadas/de embarque",
+        "english": "arrival/departure hall"
+    },
+    {
+        "id": "14.1.107",
+        "spanish": "ventanilla",
+        "english": "window"
+    },
+    {
+        "id": "14.1.108",
+        "spanish": "despegar",
+        "english": "to take off"
+    },
+    {
+        "id": "14.1.109",
+        "spanish": "aterrizar",
+        "english": "to land"
+    },
+    {
+        "id": "14.1.110",
+        "spanish": "hacer escala",
+        "english": "to stop"
+    },
+    {
+        "id": "14.1.111",
+        "spanish": "fracturar/recoger el equipaje/las maletas",
+        "english": "to check in/pick up luggage/suitcases"
+    },
+    {
+        "id": "14.1.112",
+        "spanish": "subir(se) a/bajar(se) de un avión",
+        "english": "to get on/off a plane"
+    },
+    {
+        "id": "14.1.113",
+        "spanish": "conducción",
+        "english": "driving"
+    },
+    {
+        "id": "14.1.114",
+        "spanish": "normas de circulación",
+        "english": "traffic rules"
+    },
+    {
+        "id": "14.1.115",
+        "spanish": "tráfico",
+        "english": "traffic"
+    },
+    {
+        "id": "14.1.116",
+        "spanish": "policía de tráfico",
+        "english": "traffic cop, police"
+    },
+    {
+        "id": "14.1.117",
+        "spanish": "incidentes relacionados con la conducción",
+        "english": "driving related incidents"
+    },
+    {
+        "id": "14.1.118",
+        "spanish": "accidente de tráfico/de coche",
+        "english": "traffic/car accident"
+    },
+    {
+        "id": "14.1.119",
+        "spanish": "haber/tener/ver un accidente",
+        "english": "to have/see an accident"
+    },
+    {
+        "id": "14.1.120",
+        "spanish": "reparación y mantenimiento",
+        "english": "repair and maintenance"
+    },
+    {
+        "id": "14.1.121",
+        "spanish": "gasolinera",
+        "english": "gas station"
+    },
+    {
+        "id": "14.1.122",
+        "spanish": "gasolina sin plomo/normal/súper",
+        "english": "gasoline without lead/normal/super"
+    },
+    {
+        "id": "14.1.123",
+        "spanish": "gasoil",
+        "english": "diesel"
+    },
+    {
+        "id": "14.1.124",
+        "spanish": "estar estropeado",
+        "english": "to be broken"
+    },
+    {
+        "id": "14.1.125",
+        "spanish": "arreglar el coche",
+        "english": "to fix the car"
+    },
+    {
+        "id": "14.1.126",
+        "spanish": "seguros",
+        "english": "insurance"
+    },
+    {
+        "id": "14.1.127",
+        "spanish": "seguro del coche/obligatorio",
+        "english": "car/mandatory insurance"
+    },
+    {
+        "id": "15.1.1",
+        "spanish": "economía",
+        "english": "aconomy"
+    },
+    {
+        "id": "15.1.2",
+        "spanish": "industria",
+        "english": "industry"
+    },
+    {
+        "id": "15.1.3",
+        "spanish": "finanzas",
+        "english": "finance"
+    },
+    {
+        "id": "15.1.4",
+        "spanish": "dinero",
+        "english": "money"
+    },
+    {
+        "id": "15.1.5",
+        "spanish": "economista",
+        "english": "economist"
+    },
+    {
+        "id": "15.1.6",
+        "spanish": "hipoteca",
+        "english": "mortgage"
+    },
+    {
+        "id": "15.1.7",
+        "spanish": "pobreza",
+        "english": "poverty"
+    },
+    {
+        "id": "15.1.8",
+        "spanish": "riqueza",
+        "english": "wealth"
+    },
+    {
+        "id": "15.1.9",
+        "spanish": "Tercer Mundo",
+        "english": "Third World"
+    },
+    {
+        "id": "15.1.10",
+        "spanish": "paises ricos/pobres/en vias de desarrollo",
+        "english": "rich/poor/developing countries"
+    },
+    {
+        "id": "15.1.11",
+        "spanish": "tener/llevar cambio/suelto",
+        "english": "to have/carry change/loose money"
+    },
+    {
+        "id": "15.1.12",
+        "spanish": "pagar en metálico/en efectivo",
+        "english": "to pay in cash/cash"
+    },
+    {
+        "id": "15.1.13",
+        "spanish": "gastar",
+        "english": "to spend"
+    },
+    {
+        "id": "15.1.14",
+        "spanish": "mercado financiero",
+        "english": "financial market"
+    },
+    {
+        "id": "15.1.15",
+        "spanish": "subir/bajar los intereses",
+        "english": "to raise/lower interest"
+    },
+    {
+        "id": "15.1.16",
+        "spanish": "renta",
+        "english": "rent"
+    },
+    {
+        "id": "15.1.17",
+        "spanish": "pagar impuestos",
+        "english": "to pay taxes"
+    },
+    {
+        "id": "15.1.18",
+        "spanish": "comercio",
+        "english": "commerce"
+    },
+    {
+        "id": "15.1.19",
+        "spanish": "transacciones comerciales y mercados",
+        "english": "commercial transactions and markets"
+    },
+    {
+        "id": "15.1.20",
+        "spanish": "compra",
+        "english": "purchase"
+    },
+    {
+        "id": "15.1.21",
+        "spanish": "venta",
+        "english": "sale"
+    },
+    {
+        "id": "15.1.22",
+        "spanish": "importación",
+        "english": "import"
+    },
+    {
+        "id": "15.1.23",
+        "spanish": "exportación",
+        "english": "export"
+    },
+    {
+        "id": "15.1.24",
+        "spanish": "deber dinero",
+        "english": "to owe money"
+    },
+    {
+        "id": "15.1.25",
+        "spanish": "tener/hacer un descuento",
+        "english": "to have/make a discount"
+    },
+    {
+        "id": "15.1.26",
+        "spanish": "subir/bajar/aumentar/disminuir el precio",
+        "english": "to raise/lower/increase/decrease price"
+    },
+    {
+        "id": "15.1.27",
+        "spanish": "comercio exterior",
+        "english": "foreign trade"
+    },
+    {
+        "id": "15.1.28",
+        "spanish": "importar",
+        "english": "to import"
+    },
+    {
+        "id": "15.1.29",
+        "spanish": "exportar",
+        "english": "to export"
+    },
+    {
+        "id": "15.1.30",
+        "spanish": "publicidad",
+        "english": "advertising"
+    },
+    {
+        "id": "15.1.31",
+        "spanish": "mercadotecnia",
+        "english": "marketing"
+    },
+    {
+        "id": "15.1.32",
+        "spanish": "márquetin",
+        "english": "marketing"
+    },
+    {
+        "id": "15.1.33",
+        "spanish": "cartel",
+        "english": "poster"
+    },
+    {
+        "id": "15.1.34",
+        "spanish": "folleto",
+        "english": "brochure"
+    },
+    {
+        "id": "15.1.35",
+        "spanish": "catálogo",
+        "english": "catalog"
+    },
+    {
+        "id": "15.1.36",
+        "spanish": "exhibición",
+        "english": "display, exhibition"
+    },
+    {
+        "id": "15.1.37",
+        "spanish": "publicitario",
+        "english": "advertising agent"
+    },
+    {
+        "id": "15.1.38",
+        "spanish": "entidades",
+        "english": "entities"
+    },
+    {
+        "id": "15.1.39",
+        "spanish": "empresas",
+        "english": "companies"
+    },
+    {
+        "id": "15.1.40",
+        "spanish": "organización",
+        "english": "organisation"
+    },
+    {
+        "id": "15.1.41",
+        "spanish": "compañía",
+        "english": "company"
+    },
+    {
+        "id": "15.1.42",
+        "spanish": "agencia",
+        "english": "agency"
+    },
+    {
+        "id": "15.1.43",
+        "spanish": "laboratorio",
+        "english": "lab"
+    },
+    {
+        "id": "15.1.44",
+        "spanish": "empleado",
+        "english": "employee"
+    },
+    {
+        "id": "15.1.45",
+        "spanish": "actividad",
+        "english": "activity"
+    },
+    {
+        "id": "15.1.46",
+        "spanish": "producción",
+        "english": "production"
+    },
+    {
+        "id": "15.1.47",
+        "spanish": "fabricación",
+        "english": "manufacturing"
+    },
+    {
+        "id": "15.1.48",
+        "spanish": "puesto de trabajo",
+        "english": "work station"
+    },
+    {
+        "id": "15.1.49",
+        "spanish": "huelga",
+        "english": "strike"
+    },
+    {
+        "id": "15.1.50",
+        "spanish": "trabajador",
+        "english": "employee, worker"
+    },
+    {
+        "id": "15.1.51",
+        "spanish": "producir",
+        "english": "to produce"
+    },
+    {
+        "id": "15.1.52",
+        "spanish": "fabricar",
+        "english": "to manufacture"
+    },
+    {
+        "id": "15.1.53",
+        "spanish": "energía",
+        "english": "energy"
+    },
+    {
+        "id": "15.1.54",
+        "spanish": "construcción",
+        "english": "construction"
+    },
+    {
+        "id": "15.1.55",
+        "spanish": "industria pesada",
+        "english": "heavy industry"
+    },
+    {
+        "id": "15.1.56",
+        "spanish": "industria ligera",
+        "english": "light industry"
+    },
+    {
+        "id": "15.1.57",
+        "spanish": "agricultura",
+        "english": "agriculture"
+    },
+    {
+        "id": "15.1.58",
+        "spanish": "ganadería",
+        "english": "animal breeding/raising"
+    },
+    {
+        "id": "15.1.59",
+        "spanish": "pesca",
+        "english": "fishing"
+    },
+    {
+        "id": "15.1.60",
+        "spanish": "materia prima",
+        "english": "raw material"
+    },
+    {
+        "id": "15.1.61",
+        "spanish": "pescador",
+        "english": "fisherman"
+    },
+    {
+        "id": "15.1.62",
+        "spanish": "barco de pesca",
+        "english": "fishing boat"
+    },
+    {
+        "id": "15.1.63",
+        "spanish": "marisco",
+        "english": "shellfish"
+    }
+]

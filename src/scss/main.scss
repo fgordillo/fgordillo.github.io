@@ -1,0 +1,58 @@
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+}
+
+#nav {
+  padding: 30px;
+}
+
+#nav a {
+  font-weight: bold;
+  color: #2c3e50;
+}
+
+#nav a.router-link-exact-active {
+  color: #42b983;
+}
+
+.flex-centered {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
+
+.mlsp-20 + .mlsp-20 {
+    margin-left: 20px;
+}
+.mlsp-10 + .mlsp-10 {
+    margin-left: 10px;
+}
+.p-10 {
+    padding: 10px;
+}
+.btn {
+    padding: 15px 20px;
+    background-color: #1368CE;
+    opacity: 0.6;
+    transition: 0.3s;
+    font-weight: 800;
+    font-size: 120%;
+    color: white;
+    cursor: pointer;
+}
+.btn:hover {
+    opacity: 1;
+}
+
+.text-danger {
+    color: #f01010;
+}
+.text-success {
+    color: #26890C;
+}
+
