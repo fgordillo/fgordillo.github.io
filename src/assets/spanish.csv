@@ -1,627 +1,3 @@
-id,spanish,english
-5.1.1,forma,form
-5.1.2,figura,figure
-5.1.3,punto,point
-5.1.4,l√≠nea,line
-5.1.5,lado,side
-5.1.6,c√≠rculo,circle
-5.1.7,cuadrado,square
-5.1.8,rect√°ngulo,rectangle
-5.1.9,tri√°ngulo,triangle
-5.1.10,rectangular,rectangular
-5.1.11,triangular,triangular
-5.1.12,horizontal,horizontal
-5.1.13,vertical,vertical
-5.1.14,diagonal,diagonal
-5.1.15,plano,flat
-5.1.16,recto,straight
-5.1.17,igual,equal
-5.1.18,regular,regular
-5.1.19,parecer,looks like
-5.1.20,tener forma de,to have a shape of
-5.1.21,cambiar de forma,to change the form
-5.1.22,consistencia,consistency
-5.1.23,resistencia,resistance
-5.1.24,s√≥lido,solid
-5.1.25,l√≠quido,liquid
-5.1.26,fr√°gil,fragile
-5.1.27,duro,hard
-5.1.28,blando,soft
-5.1.29,flexible,flexible
-5.1.30,romper(se),to break
-5.1.31,textura,texture
-5.1.32,suave,soft
-5.1.33,liso,straight
-5.1.34,rizado,curly
-5.1.35,tocar,to play
-5.1.36,acabado,finish
-5.1.37,proteger,to protect
-5.1.38,envolver,to involve
-5.1.39,pintar,paint
-5.1.40,pintado,painted
-5.1.41,humedad,"moisture, humidity"
-5.1.42,sequedad,dryness
-5.1.43,h√∫medo,wet
-5.1.44,mojado,wet
-5.1.45,hidratante,moisturising
-5.1.46,secar(se),to dry
-5.1.47,mojar(se),to wet
-5.1.48,regar,to water
-5.1.49,materia,matter
-5.1.50,acero,steel
-5.1.51,aluminio,aluminium
-5.1.52,hierro,iron
-5.1.53,oro,gold
-5.1.54,plata,silver
-5.1.55,piedra,stone
-5.1.56,cuero,leather
-5.1.57,cart√≥n,cardboard
-5.1.58,algod√≥n,cotton
-5.1.59,lana,wool
-5.1.60,lino,linen
-5.1.61,nailon,nylon
-5.1.62,seda,silk
-5.1.63,sint√©tico,synthetic
-5.1.64,natural,natural
-5.1.65,fabricar,"to manufacture, to make"
-5.1.66,estar hecho de + material,to be made of + material
-5.1.67,visibilidad,visibility
-5.1.68,visi√≥n,vision
-5.1.69,punto de visto,point of view
-5.1.70,(in)visible,(in)visible
-5.1.71,luminoso,bright
-5.1.72,observar,to observe
-5.1.73,ver bien,to see good
-5.1.74,ver mal,to see bad
-5.1.75,ver nada,to see nothing
-5.1.76,tener buenas vistas,to have good views
-5.1.77,tener malas vistas,to have bad views
-5.1.78,audibilidad,audibility
-5.1.79,audici√≥n,hearing
-5.1.80,silencio,silence
-5.1.81,sonido,sound
-5.1.82,voz,voice
-5.1.83,grito,scream
-5.1.84,silencioso,silent
-5.1.85,ruidoso,noisy
-5.1.86,fuerte,loud
-5.1.87,gritar,to scream
-5.1.88,o√≠r bien,to hear good
-5.1.89,o√≠r mal,to hear bad
-5.1.90,o√≠r nada,to hear nothing
-5.1.91,sonar el tel√©fono,to call the phone
-5.1.92,sonar la m√∫sica,to play the music
-5.1.93,estar alto,to be loud
-5.1.94,estar bajo,to be silent
-5.1.95,hablar alto,to speak loud
-5.1.96,hablar bajo,to speak softly
-5.1.97,sonar alto,to call loudly
-5.1.98,sonar bajo,to call softly
-5.1.99,ser callado,to be quiet
-5.1.100,estar callado,to be quiet
-5.1.101,en voz alta,aloud
-5.1.102,en voz baja,quietly
-5.1.103,sabor,"taste, flavor"
-5.1.104,dulce,sweet
-5.1.105,salado,salty
-5.1.106,amargo,bitter
-5.1.107,picante,spicy
-5.1.108,suave,smooth
-5.1.109,fuerte,strong
-5.1.110,probar,to try
-5.1.111,saber bien,to know well
-5.1.112,saber mal,to know bad
-5.1.113,saber fenomenal,to know phenomenal
-5.1.114,saber fatal,to know fatal
-5.1.115,tener sabor a,tp have a flavor
-5.1.116,saber a,to know
-5.1.117,no saber a nada,to know nothing
-5.1.118,olor,odor
-5.1.119,olor a,to smell of
-5.1.120,perfume,perfume
-5.1.121,olor suave,mild smell
-5.1.122,olor fuerte,strong smell
-5.1.123,oler bien,to smell good
-5.1.124,oler mal,to smell bad
-5.1.125,color,colour
-5.1.126,pintura,painting
-5.1.127,vino rosado,pink wine
-5.1.128,pintado de + color,painted in + colour
-5.1.129,edad,age
-5.1.130,vejez,old age
-5.1.131,aniversario,anniversary
-5.1.132,parecer un ni√±o,to look like a child
-5.1.133,parecer un adolescente,to look like an adult
-5.1.134,parecer un viejo,to look like an old man
-5.1.135,cumplir + NC meses/a√±os,to become NC months/years (HBD)
-5.1.136,accesibilidad,accessibility
-5.1.137,atasco,traffic jam
-5.1.138,limpieza,cleaning
-5.1.139,basura,garbage
-6.1.1,evaluaci√≥n general,general evaluation
-6.1.2,desastre,disaster
-6.1.3,maravilla,wonder
-6.1.4,nota,"note, mark, grade"
-6.1.5,buenisimo,terrific
-6.1.6,mal√≠simo,terrible
-6.1.7,original,original
-6.1.8,fant√°stico,fantastic
-6.1.9,horrible,horrible
-6.1.10,estupendo,great
-6.1.11,fatal,fatal
-6.1.12,fenomenal,phenomenal
-6.1.13,parecerle algo (a alguien),to seem something (to someone)
-6.1.14,encontrar (algo),to find (something)
-6.1.15,ver (algo),to see (something)
-6.1.16,valor,value
-6.1.17,precio,price
-6.1.18,rebajas,sales
-6.1.19,oferta,offer
-6.1.20,estar a,to be at
-6.1.21,subir/bajar el precio,to raise/lower the price
-6.1.22,pagar en met√°lico,to pay in cash
-6.1.23,pagar con cheque,to pay by check
-6.1.24,en d√≥lares/libras,in dollars/pounds
-6.1.25,atractivo,attractive
-6.1.26,precioso,precious
-6.1.27,encontrar algo bonito/feo,to find something pretty/ugly
-6.1.28,parecerle a alguien bonito/feo,to seem to someone pretty/ugly
-6.1.29,calidad,quality
-6.1.30,perfecto,perfect
-6.1.31,aceptabilidad,acceptability
-6.1.32,estar mal/bien/perfecto,to be bad/well/perfect
-6.1.33,parecerle a alguien mal/bien/perfecto,to seem to someone bad/well/perfect
-6.1.34,aceptar,to accept
-6.1.35,adecuaci√≥n,adequacy
-6.1.36,ser suficiente,to be enough
-6.1.37,conformidad,accordance
-6.1.38,correcto,right
-6.1.39,est√° bien as√≠,it's fine like that
-6.1.40,gracias,thanks
-6.1.41,nada m√°s,nothing else
-6.1.42,correcci√≥n,correction
-6.1.43,error,error
-6.1.44,corregir,to correct
-6.1.45,repasar,to review
-6.1.46,precisi√≥n,"accuracy, precision"
-6.1.47,claridad,clarity
-6.1.48,claro,clear
-6.1.49,sencillo,simple
-6.1.50,complicado,complicated
-6.1.51,(des)orden,(dis)order
-6.1.52,(des)organizaci√≥n,(dis)organisation
-6.1.53,(des)ordenado,organised/messy
-6.1.54,(des)organizado,(dis)organised
-6.1.55,(des)ordenar,(dis)order
-6.1.56,(des)organizar,(dis)organise
-6.1.57,inter√©s,interest
-6.1.58,rollo,roll
-6.1.59,√©xito,success
-6.1.60,logro,achievement
-6.1.61,completici√≥n,competition
-6.1.62,concurso,contest
-6.1.63,victoria,victory
-6.1.64,premio,award
-6.1.65,resultado,result
-6.1.66,ganador,winner
-6.1.67,perdedor,loser
-6.1.68,intentar,to try
-6.1.69,conseguir,"to get, aquire, achieve"
-6.1.70,ganar,to win
-6.1.71,perder,to lose
-6.1.72,utilidad,utility
-6.1.73,uso,use
-6.1.74,pr√°ctico,practical
-6.1.75,√∫til,useful
-6.1.76,ser para,to be for/to
-6.1.77,servir para,to serve for/to
-6.1.78,utilizar(se) para,to utilise for/to
-6.1.79,usar(se) para,to use for/to
-6.1.80,funcionar,to function
-6.1.81,capacidad,capacity
-6.1.82,competencia,competence
-6.1.83,ser bueno/malo en/para/con,to be well/bad in/for/to
-6.1.84,ser un genio/un desastre para,to be a genius/a disaster to/for
-6.1.85,practicar,to practice
-6.1.86,importancia,importance
-6.1.87,importar,to import
-6.1.88,dar igual,to do not care
-6.1.89,¬°me da igual!,give me the same!
-6.1.90,normalidad,normal
-6.1.91,frecuente,frequent
-6.1.92,raro,"rare, weird"
-6.1.93,extra√±o,strange
-6.1.94,especial,special
-6.1.95,√∫nico,unique
-6.1.96,ser/parecerle (a alguien) normal/raro,to be/seem (to someone) normal/weird
-6.1.97,facilidad,"ease, easiness"
-6.1.98,simple,simple
-11.1.1,servicio postal,postal service
-11.1.2,cartero,postman
-11.1.3,mensajero,courier
-11.1.4,empleado de correos,postal worker
-11.1.5,buz√≥n de correos,mailbox
-11.1.6,servicios de transporte,transportation services
-11.1.7,servicios financieros,financial services
-11.1.8,cuenta,"bill, account"
-11.1.9,cheque de viaje,travel check
-11.1.10,meter/poner dinero de la cuenta,to put money in the account
-11.1.11,meter/poner sacar dinero de la cuenta,to take money from the account
-11.1.12,abrir una cuenta,to open an account
-11.1.13,cerrar una cuenta,to close an account
-11.1.14,servicios sanitarios,health services
-11.1.15,cl√≠nica,clinic
-11.1.16,urgencias,emergencies
-11.1.17,seguro m√©dico,health insurance
-11.1.18,ir de urgencias,to go to emergencies
-11.1.19,estar en urgencias,to be in emergencies
-11.1.20,servicios educativos,educational services
-11.1.21,servicios de protecci√≥n y seguridad,protection and security services
-11.1.22,vigilante,vigilante
-11.1.23,ladr√≥n,thief
-11.1.24,asesino,murderer
-11.1.25,robo,robbery
-11.1.26,muerte,death
-11.1.27,robar,to steal
-11.1.28,matar,to kill
-11.1.29,servicios sociales,social services
-11.1.30,psic√≥logo,psychologist
-11.1.31,voluntario de ONG,NGO volunteer
-11.1.32,ayuda,help
-11.1.33,colaboraci√≥n,collabortion
-11.1.34,ayuda econ√≥nica,"economic, financial help"
-11.1.35,cuidar,care
-11.1.36,ayudar,to help
-11.1.37,colaborar como voluntario,to collaborate as a volunteer
-11.1.38,recibir/ofrecer una ayuda,to receive/offer help
-11.1.39,recibir/ofrecer atender a personas mayores,to receive/offer care for the elderly
-11.1.40,servicios de abastecimiento p√∫blico,public suply services
-11.1.41,ba√±os/aseos p√∫blicos,public baths/toilets
-11.1.42,W.C.,WC
-11.1.43,sem√°foro,traffic lights
-12.1.1,lugares,places
-12.1.2,personas,people
-12.1.3,actividades,activities
-12.1.4,salida de emergencia,emergency exit
-12.1.5,escaleras mec√°nicas,escalator
-12.1.6,aparcamiento,parking
-12.1.7,descuento,discount
-12.1.8,garant√≠a,guarantee
-12.1.9,hacer una devoluci√≥n,to make a return
-12.1.10,hacer un cambio,to make an exchange
-12.1.11,salir de rebajas,to leave sales
-12.1.12,ir de rebajas,to go to sales
-12.1.13,poner rebajas,to put sales
-12.1.14,haber rebajas,to have sales
-12.1.15,tener rebajas,to have sales
-12.1.16,tener/hacer un descuento,to have a discount
-12.1.17,estar de oferta,to be on sale
-12.1.18,tener garant√≠a,to have a guarantee
-12.1.19,tener/haber precios especiales,to have special prices
-12.1.20,comprar/vender por cat√°logo,to buy/sell by catalog
-12.1.21,comprar/vender por Internet,to buy/sell online
-12.1.22,ropa,clothing
-12.1.23,calzado,footwear
-12.1.24,complementos,accessories
-12.1.25,ropa interior,underwear
-12.1.26,ropa de verano,summer clothing
-12.1.27,ropa de invierno,winter clothing
-12.1.28,ropa de deporte,sports' clothing
-12.1.29,zapatos planos,flat shoes
-12.1.30,zapatos de tac√≥n,heeled shoes
-12.1.31,zapatillas de deporte,sneakers
-12.1.32,vestido/traje de fiesta,party dress/suit
-12.1.33,vestido/traje de noche,evening dress/suit
-12.1.34,vestido/traje de novia,wedding dress/suit
-12.1.35,minifalda,miniskirt
-12.1.36,falda corta/larga,short/long skirt
-12.1.37,liso,plain
-12.1.38,de rayas,striped
-12.1.39,de cuadros,plaid/with squares
-12.1.40,quedar bien,to fit well
-12.1.41,quedar mal,to fit bad
-12.1.42,quedar ancho,to fit wide
-12.1.43,quedar estrecho,to fit narrow
-12.1.44,quedar grande,to fit large
-12.1.45,quedar peque√±o,to fit small
-12.1.46,quedar largo,to fit long
-12.1.47,quedar corto,to fit small
-12.1.48,coser,to sew
-12.1.49,alimentaci√≥n,food
-12.1.50,carro de la compra,shopping cart
-12.1.51,carrito de la compra,little shopping cart
-12.1.52,cesta de la compra,shopping basket
-12.1.53,bolsa de la compra,shopping bag
-12.1.54,secci√≥n de congelados,frozen section
-12.1.55,secci√≥n de l√°cteos,dairy/milk section
-12.1.56,secci√≥n de bebidas,drinks section
-12.1.57,loncha de jam√≥n,a slice of jamon/ham
-12.1.58,loncha de queso,a slice of cheese
-12.1.59,trozo de tarta,a piece of pie
-12.1.60,trozo de pan,a bread slice
-12.1.61,estar malo/caducado,to be bad/expired
-12.1.62,tener/estar de oferta/de promoci√≥n,to have/be an offer/a promotion
-12.1.63,pagos,payments
-12.1.64,cambio,change
-12.1.65,vuelta,"turn, return"
-12.1.66,pagar intereses,to pay interest
-12.1.67,cobrar intereses,to collect interest
-12.1.68,pasar por la caja,to proceed to checkout
-13.1.1,salud,health
-13.1.2,enfermedades,diseases
-13.1.3,seguro de enfermedad,medical insurance
-13.1.4,seguro p√∫blico,public insurance
-13.1.5,seguro privado,private insurance
-13.1.6,tener diarrea,to have a diarrhea
-13.1.7,tener c√°ncer ,to have a cancer
-13.1.8,tener sida,to have AIDS
-13.1.9,ponerse enfermo/malo/bien,to get sick/bad/good
-13.1.10,tener buena/mala salud,to have good/bad health
-13.1.11,cuidar a un enfermo,to care for a sick
-13.1.12,curar a un enfermo,to cure a sick
-13.1.13,hacer un r√©gimen,to make a regimen
-13.1.14,estar sano/de baja,to be healthy/low
-13.1.15,heridas,"injuries, wounds"
-13.1.16,traumatismos,trauma
-13.1.17,quemadura,burn
-13.1.18,corte,cut
-13.1.19,caer(se),to fall
-13.1.20,dar(se) un golpe,to give a blow
-13.1.21,quemar(se)/cortar(se) un dedo/una mano,to burn/cut a finger/hand
-13.1.22,hacerce una herida,to injure yourself
-13.1.23,romperse una pierna/un brazo,to break a leg/arm
-13.1.24,adelgazar,to lose weight
-13.1.25,engordar,to gain weight/fat
-13.1.26,s√≠ntomas,symptoms
-13.1.27,estar agotado,to be exhausted
-13.1.28,estar estresado,to be stressed
-13.1.29,estar resfriado,to be cold
-13.1.30,estar mareado,to be dizzy
-13.1.31,centros de asistencia sanitaria,healthcare centers
-13.1.32,doctor,doctor
-13.1.33,enfermo,sick
-13.1.34,cl√≠nica,clinic
-13.1.35,centro de salud,health center
-13.1.36,m√©dico de guardia,doctor on call
-13.1.37,hospital de guardia,hospital on call
-13.1.38,farmacia de guardia,pharmacy on call
-13.1.39,an√°lisis de sangre,blood analysis
-13.1.40,an√°lisis de orina,urine analysis
-13.1.41,dentista,dentist
-13.1.42,ginec√≥logo,gynecologist
-13.1.43,oculista,oculist
-13.1.44,psic√≥logo,psychologist
-13.1.45,cirujano,surgeon
-13.1.46,paciente,patient
-13.1.47,pedir hora/cita,to request time/appointment
-13.1.48,hacerce una revisi√≥n,to get a checkup
-13.1.49,hacerse unas pruebas de sangre/de orina,to get some blood/urine tests
-13.1.50,hacerce un control de sangre/de orina,to get some blood/urine checkup
-13.1.51,hacerce un an√°lisis de sangre/de orina,to get some blood/urine analysis
-13.1.52,ingresar en un hospital/en urgencias,to enter hospital/emergencies dpt
-13.1.53,dar de alta/baja,to register/unsubscribe
-13.1.54,dar el alta/la baja (m√©dica),to discharge/cancel
-13.1.55,medicina,medicine
-13.1.56,medicamentos,medications
-13.1.57,tirita,band-aid
-13.1.58,alcohol,alcohol
-13.1.59,agua oxigenada,hydrogen peroxide
-13.1.60,term√≥metro,thermometer
-13.1.61,antibi√≥tico,antibiotic
-13.1.62,aspirina,aspirin
-13.1.63,gotas,drops
-13.1.64,vacuna,vaccine
-13.1.65,pastilla,pill
-13.1.66,darse una crema,to give yourself a cream
-13.1.67,echarse unas gotas,to take few drops
-13.1.68,ponerse una vacuna/el term√≥metro,to get a vaccine/thermometer
-13.1.69,hacer/dar una receta (m√©dica),to make/give a prescription
-13.1.70,higiene,hygiene
-13.1.71,cepillo,brush
-13.1.72,peine,comb
-13.1.73,secador de pelo,hair dryer
-13.1.74,zapatillas,slippers
-13.1.75,gorro de ducha/ba√±o,shower/bath cap
-13.1.76,espuma de afeitar,shaving foam
-13.1.77,gel de afeitar,shaving gel
-13.1.78,maquinilla de afeitar,razor
-13.1.79,cuchilla de afeitar,razor blade
-13.1.80,pastilla de jab√≥n,bar of soap
-13.1.81,perfume,perfume
-13.1.82,est√©tica,esthetic
-13.1.83,barra de labios,lipstick
-13.1.84,corte de pelo,haircut
-13.1.85,peinado,hairstyle
-13.1.86,pintarse los ojos/los labios,to paint the eyes/lips
-13.1.87,tener las manos/la piel suave,to have soft hands/skin
-13.1.88,cortarse el pelo,to cut hair
-14.1.1,viajes,"travel, trips"
-14.1.2,alojamiento,accomodation
-14.1.3,transporte,transportation
-14.1.4,objetos y documentos relacionados con los viajes,travel related objects and documents
-14.1.5,DNI (Documento Nacional de Identidad),ID card
-14.1.6,visado,visa
-14.1.7,equipaje,luggage
-14.1.8,bolsa de aseo/de viaje,toilet/travel bag
-14.1.9,exceso de equipaje,excess baggage
-14.1.10,mapa de carreteras,road map
-14.1.11,plano tur√≠stico,tourist map
-14.1.12,callejero,street map
-14.1.13,anular/cambiar un billete,to cancel/change a ticket
-14.1.14,facturar/perder el equipaje/las maletas,to check in/lose luggage/suitcases
-14.1.15,tipos de viajes,types of trips
-14.1.16,hacer un crucero/un safari,to go on a cruise/safari
-14.1.17,viaje de trabaje,work trip
-14.1.18,viaje de estudios,study trip
-14.1.19,viaje de negocios,business trip
-14.1.20,viaje de larga duraci√≥n,long-term trip
-14.1.21,viajar en familia/en grupo,family/group trip
-14.1.22,irse/marcharse/salir de puente,to go off/get off the bridge
-14.1.23,irse/marcharse/salir de fin de semana,to go away/out for the weekend
-14.1.24,hacer/contratar un viaje organizado,to make/hire an organised trip
-14.1.25,hacer turismo,sightseeing
-14.1.26,subir(se) a/bajar(se) de un tren/un autob√∫s/un avi√≥n,to get on/off a train/bus/plane
-14.1.27,playa,beach
-14.1.28,arena,sand
-14.1.29,olas,waves
-14.1.30,sandalias,flip flops
-14.1.31,sombrilla,"parasol, umbrella from sun"
-14.1.32,pelota,ball
-14.1.33,buceador,diver
-14.1.34,tomar el sol,to sunbathe
-14.1.35,pasear por la orilla,to stroll along the shore
-14.1.36,jugar en la arena,to play in the sand
-14.1.37,monta√±a,mountain
-14.1.38,paseo,walk
-14.1.39,monta√±ero,mountaineer
-14.1.40,senderista,hiker
-14.1.41,escalador,climber
-14.1.42,cazador,hunter
-14.1.43,dar un/ir de paseo,to take a walk
-14.1.44,hacer una marcha/una excursi√≥n,to do a walk/an excursion
-14.1.45,hacer senderismo/escalada,to do hiking/climbing
-14.1.46,hostal,hostel
-14.1.47,pensi√≥n,pension
-14.1.48,tienda de campa√±a,tent
-14.1.49,recepci√≥n,reception
-14.1.50,entrada,entrance
-14.1.51,salida de emergencia,emergency exit
-14.1.52,recepcionista,receptionist
-14.1.53,conserje,concierge
-14.1.54,saco de dormir,sleeping bag
-14.1.55,manta,blanket
-14.1.56,nevera port√°til,"cooler, portable fridge"
-14.1.57,ir de/hacer camping,to go to/do camping
-14.1.58,haber servicio de habitaciones,to have room service
-14.1.59,haber sala de reuniones,to have a meeting room
-14.1.60,haber instalaciones para minusv√°lidos,to have facilities for the disabled
-14.1.61,haber aparcamiento,to have parking
-14.1.62,estar completo,to be complete
-14.1.63,haber plazas libres,to have free places
-14.1.64,sistema de transporte,transport system
-14.1.65,red de transportes,transport network
-14.1.66,autopista,highway
-14.1.67,v√≠a,road
-14.1.68,and√©n,platform
-14.1.69,t√∫nel,tunnel
-14.1.70,paso de cebra/de peatones,crosswalk
-14.1.71,carril bus/bici,bus/bike lane
-14.1.72,haber caravana/un atasco/un embotellamiento,to have a caravan/traffic jam
-14.1.73,ir/salir/llegar con retraso,to go/leave/arrive late
-14.1.74,parar,to stop
-14.1.75,transporte por tierra,land transport
-14.1.76,viajero,traveler
-14.1.77,tranv√≠a,tram
-14.1.78,moto,motorcycle
-14.1.79,cami√≥n,truck
-14.1.80,asiento,seat
-14.1.81,fila,row
-14.1.82,pasillo,aisle
-14.1.83,maletero,trunk
-14.1.84,cintur√≥n,belt
-14.1.85,conducir,to drive
-14.1.86,aparcar,to park
-14.1.87,girar,to turn
-14.1.88,subir(se) a/montar(se)/bajar(se) de una bicicleta/una moto/un coche,to get on/off/ride a bike/motorcycle/car
-14.1.89,hacer transbordo,to transfer
-14.1.90,perder el tren/el autob√∫s,to miss train/bus
-14.1.91,transporte mar√≠timo y fluvial,sea and river transport
-14.1.92,barca,boat
-14.1.93,piragua,canoe
-14.1.94,marinero,sailor
-14.1.95,capit√°n,captain
-14.1.96,navegar,to surf
-14.1.97,subir(se) a/bajar(se) de un barco,to get on/off a ship
-14.1.98,transporte a√©reo,air transport
-14.1.99,helic√≥ptero,helicopter
-14.1.100,globo,globe
-14.1.101,ala delta,hang glider
-14.1.102,parapente,paragliding
-14.1.103,terminal,terminal
-14.1.104,punto de informaci√≥n/de encuentro,information/meeting point
-14.1.105,tarjeta/puerta de embarque,boarding pass/gate
-14.1.106,sala de llegadas/de embarque,arrival/departure hall
-14.1.107,ventanilla,window
-14.1.108,despegar,to take off
-14.1.109,aterrizar,to land
-14.1.110,hacer escala,to stop
-14.1.111,fracturar/recoger el equipaje/las maletas,to check in/pick up luggage/suitcases
-14.1.112,subir(se) a/bajar(se) de un avi√≥n,to get on/off a plane
-14.1.113,conducci√≥n,driving
-14.1.114,normas de circulaci√≥n,traffic rules
-14.1.115,tr√°fico,traffic
-14.1.116,polic√≠a de tr√°fico,"traffic cop, police"
-14.1.117,incidentes relacionados con la conducci√≥n,driving related incidents
-14.1.118,accidente de tr√°fico/de coche,traffic/car accident
-14.1.119,haber/tener/ver un accidente,to have/see an accident
-14.1.120,reparaci√≥n y mantenimiento,repair and maintenance
-14.1.121,gasolinera,gas station
-14.1.122,gasolina sin plomo/normal/s√∫per,gasoline without lead/normal/super
-14.1.123,gasoil,diesel
-14.1.124,estar estropeado,to be broken
-14.1.125,arreglar el coche,to fix the car
-14.1.126,seguros,insurance
-14.1.127,seguro del coche/obligatorio,car/mandatory insurance
-15.1.1,econom√≠a,aconomy
-15.1.2,industria,industry
-15.1.3,finanzas,finance
-15.1.4,dinero,money
-15.1.5,economista,economist
-15.1.6,hipoteca,mortgage
-15.1.7,pobreza,poverty
-15.1.8,riqueza,wealth
-15.1.9,Tercer Mundo,Third World
-15.1.10,paises ricos/pobres/en vias de desarrollo,rich/poor/developing countries
-15.1.11,tener/llevar cambio/suelto,to have/carry change/loose money
-15.1.12,pagar en met√°lico/en efectivo,to pay in cash/cash
-15.1.13,gastar,to spend
-15.1.14,mercado financiero,financial market
-15.1.15,subir/bajar los intereses,to raise/lower interest
-15.1.16,renta,rent
-15.1.17,pagar impuestos,to pay taxes
-15.1.18,comercio,commerce
-15.1.19,transacciones comerciales y mercados,commercial transactions and markets
-15.1.20,compra,purchase
-15.1.21,venta,sale
-15.1.22,importaci√≥n,import
-15.1.23,exportaci√≥n,export
-15.1.24,deber dinero,to owe money
-15.1.25,tener/hacer un descuento,to have/make a discount
-15.1.26,subir/bajar/aumentar/disminuir el precio,to raise/lower/increase/decrease price
-15.1.27,comercio exterior,foreign trade
-15.1.28,importar,to import
-15.1.29,exportar,to export
-15.1.30,publicidad,advertising
-15.1.31,mercadotecnia,marketing
-15.1.32,m√°rquetin,marketing
-15.1.33,cartel,poster
-15.1.34,folleto,brochure
-15.1.35,cat√°logo,catalog
-15.1.36,exhibici√≥n,"display, exhibition"
-15.1.37,publicitario,advertising agent
-15.1.38,entidades,entities
-15.1.39,empresas,companies
-15.1.40,organizaci√≥n,organisation
-15.1.41,compa√±√≠a,company
-15.1.42,agencia,agency
-15.1.43,laboratorio,lab
-15.1.44,empleado,employee
-15.1.45,actividad,activity
-15.1.46,producci√≥n,production
-15.1.47,fabricaci√≥n,manufacturing
-15.1.48,puesto de trabajo,work station
-15.1.49,huelga,strike
-15.1.50,trabajador,"employee, worker"
-15.1.51,producir,to produce
-15.1.52,fabricar,to manufacture
-15.1.53,energ√≠a,energy
-15.1.54,construcci√≥n,construction
-15.1.55,industria pesada,heavy industry
-15.1.56,industria ligera,light industry
-15.1.57,agricultura,agriculture
-15.1.58,ganader√≠a,animal breeding/raising
-15.1.59,pesca,fishing
-15.1.60,materia prima,raw material
-15.1.61,pescador,fisherman
-15.1.62,barco de pesca,fishing boat
-15.1.63,marisco,shellfish
+id;spanish;english5.1.1;forma;form, shape5.1.2;figura;figure5.1.3;punto;point5.1.4;línea;line5.1.5;lado;side5.1.6;círculo;circle5.1.7;cuadrado;square5.1.8;rectángulo;rectangle5.1.9;triángulo;triangle5.1.10;rectangular;rectangular5.1.11;triangular;triangular5.1.12;horizontal;horizontal5.1.13;vertical;vertical5.1.14;diagonal;diagonal5.1.15;plano;flat5.1.16;recto;straight5.1.17;igual;equal5.1.18;regular;regular5.1.19;parecer;to look like5.1.20;tener forma de;to have a shape of5.1.21;cambiar de forma;to change the form5.1.22;consistencia;consistency5.1.23;resistencia;resistance5.1.24;sólido;solid5.1.25;líquido;liquid5.1.26;frágil;fragile5.1.27;duro;hard5.1.28;blando;soft5.1.29;flexible;flexible5.1.30;romper(se);to break5.1.31;textura;texture5.1.32;suave;soft5.1.33;liso;straight5.1.34;rizado;curly5.1.35;tocar;to play5.1.36;acabado;finish5.1.37;proteger;to protect5.1.38;envolver;to wrap up (something)5.1.39;pintar;to paint5.1.40;pintado;painted5.1.41;humedad;moisture, humidity5.1.42;sequedad;dryness5.1.43;húmedo;moist5.1.44;mojado;wet5.1.45;hidratante;moisturising5.1.46;secar(se);to dry5.1.47;mojar(se);to wet5.1.48;regar;to water5.1.49;materia;matter, material5.1.50;acero;steel5.1.51;aluminio;aluminium5.1.52;hierro;iron5.1.53;oro;gold5.1.54;plata;silver5.1.55;piedra;stone5.1.56;cuero;leather5.1.57;cartón;cardboard5.1.58;algodón;cotton5.1.59;lana;wool5.1.60;lino;linen5.1.61;nailon;nylon5.1.62;seda;silk5.1.63;sintético;synthetic5.1.64;natural;natural5.1.65;fabricar;to manufacture, to make5.1.66;estar hecho de + material;to be made of + material5.1.67;visibilidad;visibility5.1.68;visión;vision5.1.69;punto de vista;point of view5.1.70;(in)visible;(in)visible5.1.71;luminoso;bright5.1.72;observar;to observe5.1.73;ver bien;to see well5.1.74;ver mal;to see badly5.1.75;ver nada;to see nothing5.1.76;tener buenas vistas;to have good views5.1.77;tener malas vistas;to have bad views5.1.78;audibilidad;audibility5.1.79;audición;hearing5.1.80;silencio;silence5.1.81;sonido;sound5.1.82;voz;voice5.1.83;grito;scream5.1.84;silencioso;silent5.1.85;ruidoso;noisy5.1.86;fuerte;loud5.1.87;gritar;to scream5.1.88;oír bien;to hear well5.1.89;oír mal;to hear badly5.1.90;oír nada;to hear nothing5.1.91;sonar el teléfono;the phone rings5.1.92;sonar la música;to play the music5.1.93;estar alto;to be loud5.1.94;estar bajo;to be silent, quiet5.1.95;hablar alto;to speak loud5.1.96;hablar bajo;to speak softly, quietly5.1.97;sonar alto;to sound loud5.1.98;sonar bajo;to sound quiet5.1.99;ser callado;to be quiet5.1.100;estar callado;to be quiet5.1.101;en voz alta;aloud5.1.102;en voz baja;quietly5.1.103;sabor;taste, flavor5.1.104;dulce;sweet5.1.105;salado;salty5.1.106;amargo;bitter5.1.107;picante;spicy5.1.108;suave;smooth5.1.109;fuerte;strong5.1.110;probar;to try, taste5.1.111;saber bien;to know/taste well5.1.112;saber mal;to know/taste bad5.1.113;saber fenomenal;to know/taste phenomenal/great5.1.114;saber fatal;to know/taste fatal/horrible5.1.115;tener sabor a;to have a flavor/taste like5.1.116;saber a;to know/taste like5.1.117;no saber a nada;to know nothing/have no taste5.1.118;olor;odor, smell5.1.119;olor a;to smell of5.1.120;perfume;perfume5.1.121;olor suave;mild smell5.1.122;olor fuerte;strong smell5.1.123;oler bien;to smell good5.1.124;oler mal;to smell bad5.1.125;color;colour5.1.126;pintura;painting5.1.127;vino rosado;pink/rose wine5.1.128;pintado de + color;painted in + colour5.1.129;edad;age5.1.130;vejez;old age5.1.131;aniversario;anniversary5.1.132;parecer un niño;to look like a child5.1.133;parecer un adolescente;to look like an teenager5.1.134;parecer un viejo;to look like an old man5.1.135;cumplir + NC meses/años;to become NC months/years (HBD)5.1.136;accesibilidad;accessibility5.1.137;atasco;traffic jam5.1.138;limpieza;cleaning5.1.139;basura;garbage6.1.1;evaluación general;general evaluation6.1.2;desastre;disaster6.1.3;maravilla;wonder6.1.4;nota;note, mark, grade6.1.5;buenísimo;terrific6.1.6;malísimo;terrible6.1.7;original;original6.1.8;fantástico;fantastic6.1.9;horrible;horrible6.1.10;estupendo;great6.1.11;fatal;fatal6.1.12;fenomenal;phenomenal6.1.13;parecerle algo (a alguien);to seem something (to someone)6.1.14;encontrar (algo);to find (something)6.1.15;ver (algo);to see (something)6.1.16;valor;value6.1.17;precio;price6.1.18;rebajas;sales6.1.19;oferta;offer6.1.20;estar a;to be at6.1.21;subir/bajar el precio;to raise/lower the price6.1.22;pagar en metálico;to pay in cash6.1.23;pagar con cheque;to pay by check6.1.24;en dólares/libras;in dollars/pounds6.1.25;atractivo;attractive6.1.26;precioso;precious6.1.27;encontrar algo bonito/feo;to find something pretty/ugly6.1.28;parecerle a alguien bonito/feo;to seem to someone pretty/ugly6.1.29;calidad;quality6.1.30;perfecto;perfect6.1.31;aceptabilidad;acceptability6.1.32;estar mal/bien/perfecto;to be bad/well/perfect6.1.33;parecerle a alguien mal/bien/perfecto;to seem to someone bad/well/perfect6.1.34;aceptar;to accept6.1.35;adecuación;adequacy6.1.36;ser suficiente;to be enough6.1.37;conformidad;accordance6.1.38;correcto;right6.1.39;está bien así;it's fine like that6.1.40;gracias;thanks6.1.41;nada más;nothing else6.1.42;corrección;correction6.1.43;error;error6.1.44;corregir;to correct6.1.45;repasar;to review6.1.46;precisión;accuracy, precision6.1.47;claridad;clarity6.1.48;claro;clear6.1.49;sencillo;simple6.1.50;complicado;complicated6.1.51;(des)orden;(dis)order6.1.52;(des)organización;(dis)organisation6.1.53;(des)ordenado;organised/messy6.1.54;(des)organizado;(dis)organised6.1.55;(des)ordenar;(dis)order6.1.56;(des)organizar;(dis)organise6.1.57;interés;interest6.1.58;rollo;roll6.1.59;éxito;success6.1.60;logro;achievement6.1.61;competición;competition6.1.62;concurso;contest6.1.63;victoria;victory6.1.64;premio;award6.1.65;resultado;result6.1.66;ganador;winner6.1.67;perdedor;loser6.1.68;intentar;to try6.1.69;conseguir;to get, aquire, achieve6.1.70;ganar;to win6.1.71;perder;to lose6.1.72;utilidad;utility6.1.73;uso;use6.1.74;práctico;practical6.1.75;útil;useful6.1.76;ser para;to be for/to6.1.77;servir para;to serve for/to6.1.78;utilizar(se) para;to utilise for/to6.1.79;usar(se) para;to use for/to6.1.80;funcionar;to function6.1.81;capacidad;capacity6.1.82;competencia;competence6.1.83;ser bueno/malo en/para/con;to be well/bad in/for/to6.1.84;ser un genio/un desastre para;to be a genius/a disaster to/for6.1.85;practicar;to practice6.1.86;importancia;importance6.1.87;importar;to import6.1.88;dar igual;not to care6.1.89;¡me da igual!;give me the same!//I don't care!6.1.90;normalidad;normal, normality6.1.91;frecuente;frequent6.1.92;raro;rare, weird6.1.93;extraño;strange6.1.94;especial;special6.1.95;único;unique6.1.96;ser/parecerle (a alguien) normal/raro;to be/seem (to someone) normal/weird6.1.97;facilidad;ease, easiness6.1.98;simple;simple7.1.1;reflexión;reflection7.1.2;conocimiento;knowledge7.1.3;idea;idea7.1.4;duda;doubt7.1.5;imaginación;imagination7.1.6;sueño;a dream7.1.7;inteligente;intelligent7.1.8;entender;to understand7.1.9;comprender;to understand7.1.10;conocer;to know7.1.11;acordarse de;to remember of7.1.12;soñar;to dream7.1.13;imaginar;to imagine7.1.14;advinar;to guess7.1.15;suponer;to suppose7.1.16;creer en;to believe in7.1.17;estar seguro de;to be sure of7.1.18;darse cuenta de;to realise of7.2.1;palabra;word7.2.2;frase;phrase7.2.3;expresión;expression7.2.4;texto;text7.2.5;diálogo;dialogue7.2.6;explicación;explanation7.2.7;conversación;conversation7.2.8;datos;data7.2.9;redacción;wording7.2.10;resumen;summary7.2.11;historia;history7.2.12;noticia;news7.2.13;cuento;fairytale7.2.14;entrevista;interview7.2.15;chiste;joke7.2.16;callado;quiet7.2.17;gritar;to shout7.2.18;explicar;to explain7.2.19;entrevistar;to interview7.2.20;dar una respuesta/opinión;to give an answer/opinion7.2.21;pedir una respuesta/opinión;to ask an answer/opinion7.2.22;escuchar una respuesta/opinión;to hear an answer/opinion7.2.23;esperar una respuesta/opinión;to wait an answer/opinion7.2.24;contar un chiste/cuento/una historia;to tell a joke/story7.2.25;poner un correo/una nota;to put an email/note7.2.26;escribir un correo/una nota;to write an email/note7.2.27;mandar un correo/una nota;to send an email/note7.2.28;enviar un correo/una nota;to send an email/note7.2.29;dejar un mensaje/un recado;to leave a message (w/ a task)11.1.1;servicio postal;postal service11.1.2;cartero;postman11.1.3;mensajero;courier, delivery man, messenger11.1.4;empleado de correos;postal worker11.1.5;buzón de correos;mailbox11.1.6;servicios de transporte;transportation services11.1.7;servicios financieros;financial services11.1.8;cuenta;bill, account11.1.9;cheque de viaje;travel check11.1.10;meter/poner dinero de la cuenta;to put money in the account11.1.11;meter/poner sacar dinero de la cuenta;to take money from the account11.1.12;abrir una cuenta;to open an account11.1.13;cerrar una cuenta;to close an account11.1.14;servicios sanitarios;health services11.1.15;clínica;clinic11.1.16;urgencias;emergencies11.1.17;seguro médico;health insurance11.1.18;ir de urgencias;to go to emergencies11.1.19;estar en urgencias;to be in emergencies11.1.20;servicios educativos;educational services11.1.21;servicios de protección y seguridad;protection and security services11.1.22;vigilante;vigilant, watchman, security guard11.1.23;ladrón;thief11.1.24;asesino;murderer11.1.25;robo;robbery11.1.26;muerte;death11.1.27;robar;to steal11.1.28;matar;to kill11.1.29;servicios sociales;social services11.1.30;psicólogo;psychologist11.1.31;voluntario de ONG;NGO volunteer11.1.32;ayuda;help11.1.33;colaboración;collaboration11.1.34;ayuda económica;economic, financial help11.1.35;cuidar;to care/to take care11.1.36;ayudar;to help11.1.37;colaborar como voluntario;to collaborate as a volunteer11.1.38;recibir/ofrecer una ayuda;to receive/offer help11.1.39;recibir/ofrecer atender a personas mayores;to receive/offer care for the elderly11.1.40;servicios de abastecimiento público;public supply services11.1.41;baños/aseos públicos;public bathrooms/toilets11.1.42;W.C.;WC11.1.43;semáforo;traffic lights12.1.1;lugares;places12.1.2;personas;people12.1.3;actividades;activities12.1.4;salida de emergencia;emergency exit12.1.5;escaleras mecánicas;escalator12.1.6;aparcamiento;parking lot12.1.7;descuento;discount12.1.8;garantía;guarantee12.1.9;hacer una devolución;to make a return12.1.10;hacer un cambio;to make an exchange12.1.11;salir de rebajas;to go shopping on sales12.1.12;ir de rebajas;to go to sales12.1.13;poner rebajas;to put sales12.1.14;haber rebajas;to have sales12.1.15;tener rebajas;to have sales12.1.16;tener/hacer un descuento;to have/offer a discount12.1.17;estar de oferta;to be on sale12.1.18;tener garantía;to have a guarantee12.1.19;tener/haber precios especiales;to have special prices12.1.20;comprar/vender por catálogo;to buy/sell by catalog12.1.21;comprar/vender por Internet;to buy/sell online12.1.22;ropa;clothing12.1.23;calzado;footwear12.1.24;complementos;accessories12.1.25;ropa interior;underwear12.1.26;ropa de verano;summer clothing12.1.27;ropa de invierno;winter clothing12.1.28;ropa de deporte;sports' clothing12.1.29;zapatos planos;flat shoes12.1.30;zapatos de tacón;heeled shoes12.1.31;zapatillas de deporte;sneakers12.1.32;vestido/traje de fiesta;party dress/suit12.1.33;vestido/traje de noche;evening dress/suit12.1.34;vestido/traje de novia;wedding dress/suit12.1.35;minifalda;miniskirt12.1.36;falda corta/larga;short/long skirt12.1.37;liso;plain12.1.38;de rayas;striped12.1.39;de cuadros;plaid/with squares12.1.40;quedar bien;to fit well12.1.41;quedar mal;to look bad12.1.42;quedar ancho;to fit wide12.1.43;quedar estrecho;to fit tight12.1.44;quedar grande;to fit big12.1.45;quedar pequeño;to fit small12.1.46;quedar largo;to fit long12.1.47;quedar corto;to fit short12.1.48;coser;to sew12.1.49;alimentación;food12.1.50;carro de la compra;shopping cart12.1.51;carrito de la compra;little shopping cart12.1.52;cesta de la compra;shopping basket12.1.53;bolsa de la compra;shopping bag12.1.54;sección de congelados;frozen section12.1.55;sección de lácteos;dairy/milk section12.1.56;sección de bebidas;drinks section12.1.57;loncha de jamón;a slice of jamon/ham12.1.58;loncha de queso;a slice of cheese12.1.59;trozo de tarta;a piece of pie12.1.60;trozo de pan;a piece of bread12.1.61;estar malo/caducado;to be bad/expired12.1.62;tener/estar de oferta;to have/be an offer/on sale12.1.63;tener/estar de promoción;to have/be a/on promotion12.1.64;pagos;payments12.1.65;cambio;change12.1.66;vuelta;change12.1.67;pagar intereses;to pay interest12.1.68;cobrar intereses;to collect interest12.1.69;pasar por la caja;to checkout13.1.1;salud;health13.1.2;enfermedades;diseases13.1.3;seguro de enfermedad;medical insurance13.1.4;seguro público;public insurance13.1.5;seguro privado;private insurance13.1.6;tener diarrea;to have a diarrhea13.1.7;tener cáncer;to have a cancer13.1.8;tener sida;to have AIDS13.1.9;ponerse enfermo/malo/bien;to get sick/bad/well13.1.10;tener buena/mala salud;to have good/bad health13.1.11;cuidar a un enfermo;to care for a sick person13.1.12;curar a un enfermo;to cure/treat/heal a sick person13.1.13;hacer un régimen;to be on a diet13.1.14;estar sano/de baja;to be healthy/on a sick leave13.1.15;heridas;wounds13.1.16;traumatismos;trauma13.1.17;quemadura;burn13.1.18;corte;cut13.1.19;caer(se);to fall13.1.20;dar(se) un golpe;to get hit13.1.21;quemar(se)/cortar(se) un dedo/una mano;to burn/cut a finger/hand13.1.22;hacerce una herida;to injure yourself13.1.23;romperse una pierna/un brazo;to break a leg/arm13.1.24;adelgazar;to lose weight13.1.25;engordar;to gain weight/fat13.1.26;síntomas;symptoms13.1.27;estar agotado;to be exhausted13.1.28;estar estresado;to be stressed13.1.29;estar resfriado;to have/get a cold13.1.30;estar mareado;to feel dizzy13.1.31;centros de asistencia sanitaria;healthcare centers13.1.32;doctor;doctor13.1.33;enfermo;sick13.1.34;clínica;clinic13.1.35;centro de salud;health center13.1.36;médico de guardia;doctor on call13.1.37;hospital de guardia;hospital on call13.1.38;farmacia de guardia;pharmacy on call13.1.39;análisis de sangre;blood analysis13.1.40;análisis de orina;urine analysis13.1.41;dentista;dentist13.1.42;ginecólogo;gynecologist13.1.43;oculista;oculist, eye doctor13.1.44;psicólogo;psychologist13.1.45;cirujano;surgeon13.1.46;paciente;patient13.1.47;pedir hora/cita;to request an appointment13.1.48;hacerce una revisión;to get a checkup13.1.49;hacerse unas pruebas de sangre/de orina;to get some blood/urine tests13.1.50;hacerce un control de sangre/de orina;to get some blood/urine checkup13.1.51;hacerce un análisis de sangre/de orina;to get some blood/urine analysis13.1.52;ingresar en un hospital/en urgencias;to enter hospital/emergencies dpt13.1.53;dar de alta/baja;to register/unsubscribe13.1.54;dar el alta/la baja (médica);to discharge/cancel13.1.55;medicina;medicine13.1.56;medicamentos;medications13.1.57;tirita;band-aid13.1.58;alcohol;alcohol13.1.59;agua oxigenada;hydrogen peroxide13.1.60;termómetro;thermometer13.1.61;antibiótico;antibiotic13.1.62;aspirina;aspirin13.1.63;gotas;drops13.1.64;vacuna;vaccine13.1.65;pastilla;pill13.1.66;darse una crema;to spread some cream13.1.67;echarse unas gotas;to take few drops13.1.68;ponerse una vacuna/el termómetro;to get a vaccine/put a thermometer13.1.69;hacer/dar una receta (médica);to make/give a prescription13.1.70;higiene;hygiene13.1.71;cepillo;brush13.1.72;peine;comb13.1.73;secador de pelo;hair dryer13.1.74;zapatillas;slippers13.1.75;gorro de ducha/baño;shower/bath cap13.1.76;espuma de afeitar;shaving foam13.1.77;gel de afeitar;shaving gel13.1.78;maquinilla de afeitar;razor13.1.79;cuchilla de afeitar;razor blade13.1.80;pastilla de jabón;bar of soap13.1.81;perfume;perfume13.1.82;estética;aesthetic13.1.83;barra de labios;lipstick13.1.84;corte de pelo;haircut13.1.85;peinado;hairstyle13.1.86;pintarse los ojos/los labios;to paint the eyes/lips13.1.87;tener las manos/la piel suave;to have soft hands/skin13.1.88;cortarse el pelo;to cut your hair14.1.1;viajes;travel, trips14.1.2;alojamiento;accomodation14.1.3;transporte;transportation14.1.4;objetos y documentos relacionados con los viajes;travel related objects and documents14.1.5;DNI (Documento Nacional de Identidad);ID card14.1.6;visado;visa14.1.7;equipaje;luggage14.1.8;bolsa de aseo/de viaje;toilet/travel bag14.1.9;exceso de equipaje;excess baggage14.1.10;mapa de carreteras;road map14.1.11;plano turístico;tourist map14.1.12;callejero;street map14.1.13;anular/cambiar un billete;to cancel/change a ticket14.1.14;facturar/perder el equipaje/las maletas;to check in/lose luggage/suitcases14.1.15;tipos de viajes;types of trips14.1.16;hacer un crucero/un safari;to go on a cruise/safari14.1.17;viaje de trabajo;work trip14.1.18;viaje de estudios;study trip14.1.19;viaje de negocios;business trip14.1.20;viaje de larga duración;long-term trip14.1.21;viajar en familia/en grupo;family/group trip14.1.22;irse/marcharse/salir de puente;to go on a long weekend14.1.23;irse/marcharse/salir de fin de semana;to go away/out for the weekend14.1.24;hacer/contratar un viaje organizado;to make/hire an organised trip14.1.25;hacer turismo;sightseeing14.1.26;subir(se) a/bajar(se) de un tren/un autobús/un avión;to get on/off a train/bus/plane14.1.27;playa;beach14.1.28;arena;sand14.1.29;olas;waves14.1.30;sandalias;flip flops14.1.31;sombrilla;parasol, beach umbrella14.1.32;pelota;ball14.1.33;buceador;diver14.1.34;tomar el sol;to sunbathe14.1.35;pasear por la orilla;to stroll along the shore14.1.36;jugar en la arena;to play in the sand14.1.37;montaña;mountain14.1.38;paseo;walk14.1.39;montañero;mountaineer14.1.40;senderista;hiker14.1.41;escalador;climber14.1.42;cazador;hunter14.1.43;dar un/ir de paseo;to take a walk14.1.44;hacer una marcha/una excursión;to do a walk/an excursion14.1.45;hacer senderismo/escalada;to do hiking/climbing14.1.46;hostal;hostel14.1.47;pensión;pension14.1.48;tienda de campaña;tent14.1.49;recepción;reception14.1.50;entrada;entrance14.1.51;salida de emergencia;emergency exit14.1.52;recepcionista;receptionist14.1.53;conserje;concierge14.1.54;saco de dormir;sleeping bag14.1.55;manta;blanket14.1.56;nevera portátil;cooler, portable fridge14.1.57;ir de/hacer camping;to go to/do camping14.1.58;haber servicio de habitaciones;to have room service14.1.59;haber sala de reuniones;to have a meeting room14.1.60;haber instalaciones para minusválidos;to have facilities for the disabled14.1.61;haber aparcamiento;to have parking14.1.62;estar completo;to be complete14.1.63;haber plazas libres;to have free places14.1.64;sistema de transporte;transport system14.1.65;red de transportes;transport network14.1.66;autopista;highway14.1.67;vía;road14.1.68;andén;platform14.1.69;túnel;tunnel14.1.70;paso de cebra/de peatones;crosswalk14.1.71;carril bus/bici;bus/bike lane14.1.72;haber caravana/un atasco/un embotellamiento;to have a traffic jam14.1.73;ir/salir/llegar con retraso;to go/leave/arrive late14.1.74;parar;to stop14.1.75;transporte por tierra;land transport14.1.76;viajero;traveler14.1.77;tranvía;tram14.1.78;moto;motorcycle14.1.79;camión;truck14.1.80;asiento;seat14.1.81;fila;row14.1.82;pasillo;aisle14.1.83;maletero;trunk14.1.84;cinturón;belt14.1.85;conducir;to drive14.1.86;aparcar;to park14.1.87;girar;to turn14.1.88;subir(se) a/montar(se)/bajar(se) de una bicicleta/una moto/un coche;to get on/off a bike/motorcycle/car14.1.89;hacer transbordo;to transfer14.1.90;perder el tren/el autobús;to miss train/bus14.1.91;transporte marítimo y fluvial;sea and river transport14.1.92;barca;boat14.1.93;piragua;canoe14.1.94;marinero;sailor14.1.95;capitán;captain14.1.96;navegar;to sail14.1.97;subir(se) a/bajar(se) de un barco;to get on/off a ship14.1.98;transporte aéreo;air transport14.1.99;helicóptero;helicopter14.1.100;globo;globe, hot-air baloon14.1.101;ala delta;hang glider14.1.102;parapente;paragliding14.1.103;terminal;terminal14.1.104;punto de información/de encuentro;information/meeting point14.1.105;tarjeta/puerta de embarque;boarding pass/gate14.1.106;sala de llegadas/de embarque;arrival/departure hall14.1.107;ventanilla;window14.1.108;despegar;to take off14.1.109;aterrizar;to land14.1.110;hacer escala;to stop over, to make a stop14.1.111;fracturar/recoger el equipaje/las maletas;to check in/pick up luggage/suitcases14.1.112;subir(se) a/bajar(se) de un avión;to get on/off a plane14.1.113;conducción;driving14.1.114;normas de circulación;traffic rules14.1.115;tráfico;traffic14.1.116;policía de tráfico;traffic cop, police14.1.117;incidentes relacionados con la conducción;driving-related incidents14.1.118;accidente de tráfico/de coche;traffic/car accident14.1.119;haber/tener/ver un accidente;to have/see an accident14.1.120;reparación y mantenimiento;repair and maintenance14.1.121;gasolinera;gas station14.1.122;gasolina sin plomo/normal/súper;gasoline without lead/normal/super14.1.123;gasoil;diesel14.1.124;estar estropeado;to be broken14.1.125;arreglar el coche;to fix the car14.1.126;seguros;insurance14.1.127;seguro del coche/obligatorio;car/mandatory insurance15.1.1;economía;economy15.1.2;industria;industry15.1.3;finanzas;finance15.1.4;dinero;money15.1.5;economista;economist15.1.6;hipoteca;mortgage15.1.7;pobreza;poverty15.1.8;riqueza;wealth15.1.9;Tercer Mundo;Third World15.1.10;paises ricos/pobres/en vias de desarrollo;rich/poor/developing countries15.1.11;tener/llevar cambio/suelto;to have/carry change/loose money (change)15.1.12;pagar en metálico/en efectivo;to pay in cash15.1.13;gastar;to spend15.1.14;mercado financiero;financial market15.1.15;subir/bajar los intereses;to raise/lower interest15.1.16;renta;rent15.1.17;pagar impuestos;to pay taxes15.1.18;comercio;commerce15.1.19;transacciones comerciales y mercados;commercial transactions and markets15.1.20;compra;purchase15.1.21;venta;sale15.1.22;importación;import15.1.23;exportación;export15.1.24;deber dinero;to owe money15.1.25;tener/hacer un descuento;to have/make a discount15.1.26;subir/bajar/aumentar/disminuir el precio;to raise/lower/increase/decrease price15.1.27;comercio exterior;foreign trade15.1.28;importar;to import15.1.29;exportar;to export15.1.30;publicidad;advertising15.1.31;mercadotecnia;marketing15.1.32;márquetin;marketing15.1.33;cartel;poster15.1.34;folleto;brochure15.1.35;catálogo;catalog15.1.36;exhibición;display, exhibition15.1.37;publicitario;advertising agent15.1.38;entidades;entities15.1.39;empresas;companies15.1.40;organización;organisation15.1.41;compañía;company15.1.42;agencia;agency15.1.43;laboratorio;lab15.1.44;empleado;employee15.1.45;actividad;activity15.1.46;producción;production15.1.47;fabricación;manufacturing15.1.48;puesto de trabajo;work station15.1.49;huelga;strike15.1.50;trabajador;employee, worker15.1.51;producir;to produce15.1.52;fabricar;to manufacture15.1.53;energía;energy15.1.54;construcción;construction15.1.55;industria pesada;heavy industry15.1.56;industria ligera;light industry15.1.57;agricultura;agriculture15.1.58;ganadería;animal breeding/raising, livestock farming15.1.59;pesca;fishing15.1.60;materia prima;raw material15.1.61;pescador;fisherman15.1.62;barco de pesca;fishing boat15.1.63;marisco;shellfish16.1.1;ciencia;science16.1.2;tecnología;technology16.1.3;estudio;study16.1.4;análisis;analysis16.1.5;método;method16.1.6;materia;matter16.1.7;invento;invention16.1.8;descubrimiento;discovery16.1.9;experimento;experiment16.1.10;inventar;to invent16.2.1;biología;biology16.2.2;ecología;ecology16.2.3;veterinaria;veterinary16.2.4;genética;genetics16.2.5;biólogo;biologist16.2.6;veterinario;vet16.2.7;ecológico;ecological16.3.1;matemáticas;math16.3.2;sumar;add16.3.3;restar;substract16.3.4;multiplicar;multiply16.3.5;dividir;divide16.4.1;informática;computer science, IT16.4.2;nuevas tecnologías;new technologies16.4.3;teclado;keyboard16.4.4;tecla;key (button)16.4.5;pantalla;screen16.4.6;ratón;mouse16.4.7;cibercafé;internet cafe16.4.8;impresora láser/en color;laser/color printer16.4.9;antivirus;antivirus16.4.10;hacer clic (con el ratón);to click (with a mouse)16.4.11;pulsar;to press16.4.12;abrir/cerrar/guardar/eliminar un documiento;to open/close/save/delete a document16.4.13;copiar/cortar/pegar/insertar/seleccionar/buscar una palabra;to copy/cut/paste/insert/select/search a word16.4.14;(des)instalar un programa;(un)install a program16.4.15;usuario;user16.4.16;contraseña;password16.4.17;bajar(se) un programa;download a program16.4.18;descargar(se) un programa;download a program16.5.1;física;physics16.5.2;química;chemistry16.5.3;electricidad;electricity16.5.4;oro;gold16.5.5;plata;silver16.5.6;hierro;iron16.5.7;físico;physical16.5.8;químico;chemical16.5.9;electrónico;electronic16.5.10;(in)orgánico;(in)organic16.5.11;símbolo/elemento químico;chemical symbol/element16.5.12;estado sólido/liquido/gaseoso;solid/liquid/gas state16.5.13;congelar(se);to freeze16.5.14;evaporarse;to evaporate17.1.1;gobierno;government17.1.2;política;politics17.1.3;sociedad;society17.1.4;comunidad;community17.1.5;sociología;sociology17.1.6;sociólogo;sociologist17.1.7;historiador;historian17.1.8;político;politician17.1.9;ciudadano;citizen17.1.10;club;club17.1.11;historia antigua/medieval/universal/conteporánea/del arte;ancient/medieval/universal/contemporary/art history17.1.12;derechos;rights17.1.13;deberes;duties17.1.14;crisis;crisis17.1.15;progreso;progress17.1.16;privado;private17.1.17;conducta social;social conduct17.1.18;ayuda;help17.1.19;cortesía;courtesy17.1.20;amabilidad;kindness17.1.21;educado;educated17.1.22;buena persona;good person17.1.23;respetar;to respect17.2.1;instuticiones políticas;political institutions17.2.2;órganos de gobierno;governing bodies17.2.3;nación;nation17.2.4;estado;state17.2.5;provincia;province17.2.6;distrito;district17.2.7;ministro de Interior/de Defensa/de Educación/de Asuntos Exteriores;Minister of Interior/Defense/Education/Foreign Affairs17.2.8;jefe de Estado;Head of State17.2.9;vicepresidente;Vice President17.2.10;alcalde;Mayor17.2.11;senado;senate17.2.12;congreso;congress17.2.13;parlamento;parlament17.2.14;Ministerio;ministry17.2.15;Unión Europea (UE);EU17.2.16;Organización de las Naciones Unidas (ONU);United Nations (UN)17.2.17;embajador;ambassador17.2.18;cónsul;consul17.2.19;embajada;embassy17.2.20;consulado;consulate17.2.21;república;republic17.2.22;monarquía;monarchy17.2.23;democracia;democracy17.2.24;dictadura;dictatorship17.2.25;sindicato;union17.2.26;partido de izquierdas/de derechas/de centro/de la oposición;left/right/center/oposition party17.2.27;comunista;communist17.2.28;socialista;socialist17.2.29;conservador;conservative17.2.30;demócrata;democrat17.2.31;liberal republicano;liberal17.2.32;gobernar;to govern, rule17.3.1;ley;law17.3.2;justicia;justice17.3.3;constitución;constitution17.3.4;ladrón;thief17.3.5;terrorista;terrorist17.3.6;asesino;murderer17.3.7;robo;robbery17.3.8;terrorismo;terrorism17.3.9;grupo terrorista;terrorist group17.3.10;atentado terrorista;terrorist attack17.3.11;robar;to steal17.3.12;matar;to kill17.3.13;ser (i)legal;to be (il)legal17.3.14;ir a la cárcel;to go to jail17.4.1;ejército;army17.4.2;capitán;captain17.4.3;general;general17.4.4;militar;military17.4.5;soldado;soldier17.4.6;guerra civil/mundial/de independencia;civil/world/independence war17.4.7;pistola;gun17.4.8;bomba;bomb17.4.9;estar en guerra;to be at war18.1.1;diciplinas;disciplines18.1.2;cualidades artisticas;artistic qualities18.1.3;obra/galería de arte;art work/gallery18.1.4;arquitectura;architecture18.1.5;arte/estilo clásico/moderno;classic/modern art/style18.1.6;crear;to create18.1.7;diseñar;to design18.1.8;fotografiar;to photograph18.1.9;artístico;artistic18.1.10;ser un genio;to be a genius18.2.1;música;music18.2.2;danza;dance18.2.3;baile;dance18.2.4;bailarín;dancer18.2.5;ballet;ballet18.2.6;orquesta;orchestra18.2.7;grupo (musical);(musical) group18.2.8;letra (de una canción);lyrics (of a song)18.2.9;compositor;composer18.2.10;director de orquesta;conductor18.2.11;guitarrista;guitarist18.2.12;pianista;pianist18.2.13;violinista;violonist18.3.1;escultura;sculpture18.3.2;pintura;painting18.3.3;diseñador;designer18.3.4;escultor;sculptor18.3.5;pintar un cuadro/paisaje/retrato;to paint a picture/landscape/portrait18.3.6;construir un acueducto/una muralla/mezquita/sinagoga;to build an aqueduct/wall/mosque/synagogue18.4.1;literatura;literature18.4.2;poeta;poet18.4.3;novelista;novelist18.4.4;traductor;translator18.4.5;personaje;character18.4.6;protagonista;protagonist18.4.7;poema;poem18.4.8;(auto)biografía;(auto)biography18.4.9;literatura clásica/moderna;classic/modern literature18.4.10;novela policiaca/histórica/de amor/de ciencia ficción/de aventuras;detective/historical/love/science fiction/adventure novel18.4.11;contar (la historia de);to tell (the story of)18.4.12;tratar de;to try to18.5.1;fotografía;photography18.5.2;cámara digital;digital camera18.5.3;foto(grafía) digital/en color/en blanco y negro;digital/color/black and white photo(graphy)18.5.4;flash;flash18.5.5;zum;zoom18.5.6;álbum de fotos;photo album18.5.7;tomar/sacar una foto;to take a photo18.5.8;hacer una copia;to make a copy18.5.9;imprimir;to print18.6.1;cine;cinema18.6.2;teatro;theater18.6.3;cartelera;billboard18.6.4;día del espectador;audience day18.6.5;espectáculo;show18.6.6;comedia;comedy18.6.7;drama;drama18.6.8;asiento;seat18.6.9;escenario;stage18.6.10;película policiaca/romántica/de amor/de terror/de risa/de ciencia ficción/de acción/de aventuras/de guerra/de dibujos animados;"detective/romantic/love/horror/comedy/
+science fiction/action/adventure/war/
+cartoon movie"18.6.11;película en versión original/doblada/subtitulada;original/dubbed/subtitled movie18.6.12;final feliz/triste/abierto;happy/sad/open ending18.6.13;hacer una película;to make/shoot a movie18.6.14;poner una película/una obra de teatro;to watch a movie/theater play19.1.1;religión;religion19.1.2;el Papa;Pope19.1.3;san;saint19.1.4;santo;holy19.1.5;creyente;believer19.1.6;ateo;atheist19.1.7;sacerdote;priest19.1.8;ir a misa;to go to Mass19.1.9;Iglesia católica/anglicana/evangélica;Catholic/Anglican/Evangelical Church19.1.10;Biblia;Bible19.1.11;Corán;Koran19.1.12;Torá;Torah19.1.13;cielo;heaven19.1.14;infierno;hell19.1.15;cristiano;Christian19.1.16;católico;Catholic19.1.17;protestante;Protestant19.1.18;ortodoxo;Orthodox19.1.19;practicar la religión;to practise a religion19.1.20;celebrar una boda;to celebrate a wedding19.1.21;rezar;to pray19.2.1;filosofía;philosophy19.2.2;pensar;to think20.1.1;geografía;geography20.1.2;naturaleza;nature20.1.3;universo;universe20.1.4;espacio;space20.1.5;horóscopo;horoscope20.1.6;atmósfera;atmosphere20.1.7;astronauta;astronaut20.1.8;cohete;rocket20.1.9;satélite;satelite20.1.10;viaje espacial;space travel20.1.11;universal;universal20.1.12;mundial;global20.1.13;aterrizar;to land20.1.14;paisaje;landscape20.1.15;comunidad autónoma;autonomous community20.1.16;población;population20.1.17;hemisferio/polo norte/sur;north/south hemisphere/pole20.1.18;Oriente;East20.1.19;Occidente;West20.1.20;oriental;oriental20.1.21;occidental;western20.1.22;(inter)nacional;(inter)national20.1.23;regional;regional20.1.24;emi/inmigrante;emi/immigrant20.1.25;geográfico;geographical20.1.26;vista;view20.1.27;continente;mainland, continent20.1.28;península;peninsula20.1.29;valle;valley20.1.30;lago;lake20.1.31;selva;jungle20.1.32;océano;ocean20.1.33;mar;sea20.1.34;tierra/suelo húmedo/seco;wet/dry earth/soil20.3.1;espacios urbanos o rústicos;urban or rustic spaces20.3.2;ciudad;city20.3.3;(las) afueras;(the) outskirts20.3.4;comisaría de policía;police station20.3.5;parque de bomberos;fire station20.3.6;barrio/zona comercial/residencial/industrial;commercial/residential/industrial neighbourhood/area20.3.7;casco histórico/antiguo;old/historic town20.3.8;céntrico;centre20.3.9;campo;countryside20.3.10;camino;road20.3.11;huerta;orchard20.3.12;prado;meadow20.3.13;tierra;land20.3.14;cultivo;cultivation20.3.15;plantar;to plant20.3.16;cultivar;to cultivate20.3.17;regar;to water20.4.1;clima;climate20.4.2;tiempo atmosférico;weather20.4.3;estación (del año);season (of year)20.4.4;granizo;hail20.4.5;hielo;ice20.4.6;huracán;hurricane20.4.7;clima seco/húmedo;dry/wet climate20.4.8;nublarse;to get cloudy20.4.9;salir el sol;to get out the sun20.4.10;estar (el cielo) despejado/nublado;to be (sky) clear/cloudy20.5.1;fauna;fauna20.5.2;mamifero;mammal20.5.3;insecto;insect20.5.4;ave;bird20.5.5;reptil;reptile20.5.6;animal doméstico/salvaje/de compañía;domestic/wild/companion (pet) animal20.5.7;animales de granja;farm animals20.5.8;conejo;rabbit20.5.9;oveja;sheep20.5.10;cordero;lamb20.5.11;gallo;rooster20.5.12;gallina;hen20.5.13;animales salvajes;wild animals20.5.14;león;lion20.5.15;tigre;tiger20.5.16;elefante;elephant20.5.17;serpiente;snake20.5.18;cocodrilo;crocodile20.6.1;flora;flora20.6.2;parque natural;natural park20.6.3;hierba;grass20.6.4;césped;lawn20.6.5;tronco;trunk20.6.6;hoja;leaf20.6.7;rama;branch20.6.8;raíz;root20.6.9;planta de interior/exterior;indoor/outdoor plant20.6.10;árbol frutal;fruit tree20.6.11;plantar un árbol;to plant a tree20.6.12;regar las plantas/el jardin;to water plants/garden20.6.13;caerse/secarse las hojas;to fall off/dry leaves20.6.14;cortar una flor;to cut a flower20.7.1;problemas medioambientales;environmental problems20.7.2;desastres naturales;natural disasters20.7.3;contaminación;pollution20.7.4;polución;pollution20.7.5;terremonto;earthquake20.7.6;ecologista;ecologist20.7.7;reciclaje;recycling20.7.8;papel/cartón/vidrio reciclado;recycled paper/cardboard/glass20.7.9;contenedor de papel/de vidrio;paper/glass container20.7.10;cambio climático;climate change20.7.11;energía alternativa;alternative energy20.7.12;recursos naturales;natural resources20.7.13;agujero de la capa de ozono;ozone layer hole20.7.14;contaminado;polluted20.7.15;contaminante;polluting20.7.16;tóxico;toxic20.7.17;cuidar/respetar/proteger/conservar el medio ambiente/la naturaleza;to care/respect/protect/conserve the environment/nature20.7.18;reciclar vidrio/pilas/papel/cartón/latas;to recycle glass/batteries/paper/cardboard/cans

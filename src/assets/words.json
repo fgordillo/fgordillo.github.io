@@ -2,7 +2,7 @@
     {
         "id": "5.1.1",
         "spanish": "forma",
-        "english": "form"
+        "english": "form, shape"
     },
     {
         "id": "5.1.2",
@@ -92,7 +92,7 @@
     {
         "id": "5.1.19",
         "spanish": "parecer",
-        "english": "looks like"
+        "english": "to look like"
     },
     {
         "id": "5.1.20",
@@ -187,12 +187,12 @@
     {
         "id": "5.1.38",
         "spanish": "envolver",
-        "english": "to involve"
+        "english": "to wrap up (something)"
     },
     {
         "id": "5.1.39",
         "spanish": "pintar",
-        "english": "paint"
+        "english": "to paint"
     },
     {
         "id": "5.1.40",
@@ -212,7 +212,7 @@
     {
         "id": "5.1.43",
         "spanish": "húmedo",
-        "english": "wet"
+        "english": "moist"
     },
     {
         "id": "5.1.44",
@@ -242,7 +242,7 @@
     {
         "id": "5.1.49",
         "spanish": "materia",
-        "english": "matter"
+        "english": "matter, material"
     },
     {
         "id": "5.1.50",
@@ -341,7 +341,7 @@
     },
     {
         "id": "5.1.69",
-        "spanish": "punto de visto",
+        "spanish": "punto de vista",
         "english": "point of view"
     },
     {
@@ -362,12 +362,12 @@
     {
         "id": "5.1.73",
         "spanish": "ver bien",
-        "english": "to see good"
+        "english": "to see well"
     },
     {
         "id": "5.1.74",
         "spanish": "ver mal",
-        "english": "to see bad"
+        "english": "to see badly"
     },
     {
         "id": "5.1.75",
@@ -437,12 +437,12 @@
     {
         "id": "5.1.88",
         "spanish": "oír bien",
-        "english": "to hear good"
+        "english": "to hear well"
     },
     {
         "id": "5.1.89",
         "spanish": "oír mal",
-        "english": "to hear bad"
+        "english": "to hear badly"
     },
     {
         "id": "5.1.90",
@@ -452,7 +452,7 @@
     {
         "id": "5.1.91",
         "spanish": "sonar el teléfono",
-        "english": "to call the phone"
+        "english": "the phone rings"
     },
     {
         "id": "5.1.92",
@@ -467,7 +467,7 @@
     {
         "id": "5.1.94",
         "spanish": "estar bajo",
-        "english": "to be silent"
+        "english": "to be silent, quiet"
     },
     {
         "id": "5.1.95",
@@ -477,17 +477,17 @@
     {
         "id": "5.1.96",
         "spanish": "hablar bajo",
-        "english": "to speak softly"
+        "english": "to speak softly, quietly"
     },
     {
         "id": "5.1.97",
         "spanish": "sonar alto",
-        "english": "to call loudly"
+        "english": "to sound loud"
     },
     {
         "id": "5.1.98",
         "spanish": "sonar bajo",
-        "english": "to call softly"
+        "english": "to sound quiet"
     },
     {
         "id": "5.1.99",
@@ -547,47 +547,47 @@
     {
         "id": "5.1.110",
         "spanish": "probar",
-        "english": "to try"
+        "english": "to try, taste"
     },
     {
         "id": "5.1.111",
         "spanish": "saber bien",
-        "english": "to know well"
+        "english": "to know/taste well"
     },
     {
         "id": "5.1.112",
         "spanish": "saber mal",
-        "english": "to know bad"
+        "english": "to know/taste bad"
     },
     {
         "id": "5.1.113",
         "spanish": "saber fenomenal",
-        "english": "to know phenomenal"
+        "english": "to know/taste phenomenal/great"
     },
     {
         "id": "5.1.114",
         "spanish": "saber fatal",
-        "english": "to know fatal"
+        "english": "to know/taste fatal/horrible"
     },
     {
         "id": "5.1.115",
         "spanish": "tener sabor a",
-        "english": "tp have a flavor"
+        "english": "to have a flavor/taste like"
     },
     {
         "id": "5.1.116",
         "spanish": "saber a",
-        "english": "to know"
+        "english": "to know/taste like"
     },
     {
         "id": "5.1.117",
         "spanish": "no saber a nada",
-        "english": "to know nothing"
+        "english": "to know nothing/have no taste"
     },
     {
         "id": "5.1.118",
         "spanish": "olor",
-        "english": "odor"
+        "english": "odor, smell"
     },
     {
         "id": "5.1.119",
@@ -632,7 +632,7 @@
     {
         "id": "5.1.127",
         "spanish": "vino rosado",
-        "english": "pink wine"
+        "english": "pink/rose wine"
     },
     {
         "id": "5.1.128",
@@ -662,7 +662,7 @@
     {
         "id": "5.1.133",
         "spanish": "parecer un adolescente",
-        "english": "to look like an adult"
+        "english": "to look like an teenager"
     },
     {
         "id": "5.1.134",
@@ -716,7 +716,7 @@
     },
     {
         "id": "6.1.5",
-        "spanish": "buenisimo",
+        "spanish": "buenísimo",
         "english": "terrific"
     },
     {
@@ -996,7 +996,7 @@
     },
     {
         "id": "6.1.61",
-        "spanish": "completición",
+        "spanish": "competición",
         "english": "competition"
     },
     {
@@ -1132,17 +1132,17 @@
     {
         "id": "6.1.88",
         "spanish": "dar igual",
-        "english": "to do not care"
+        "english": "not to care"
     },
     {
         "id": "6.1.89",
         "spanish": "¡me da igual!",
-        "english": "give me the same!"
+        "english": "give me the same!//I don't care!"
     },
     {
         "id": "6.1.90",
         "spanish": "normalidad",
-        "english": "normal"
+        "english": "normal, normality"
     },
     {
         "id": "6.1.91",
@@ -1185,6 +1185,241 @@
         "english": "simple"
     },
     {
+        "id": "7.1.1",
+        "spanish": "reflexión",
+        "english": "reflection"
+    },
+    {
+        "id": "7.1.2",
+        "spanish": "conocimiento",
+        "english": "knowledge"
+    },
+    {
+        "id": "7.1.3",
+        "spanish": "idea",
+        "english": "idea"
+    },
+    {
+        "id": "7.1.4",
+        "spanish": "duda",
+        "english": "doubt"
+    },
+    {
+        "id": "7.1.5",
+        "spanish": "imaginación",
+        "english": "imagination"
+    },
+    {
+        "id": "7.1.6",
+        "spanish": "sueño",
+        "english": "a dream"
+    },
+    {
+        "id": "7.1.7",
+        "spanish": "inteligente",
+        "english": "intelligent"
+    },
+    {
+        "id": "7.1.8",
+        "spanish": "entender",
+        "english": "to understand"
+    },
+    {
+        "id": "7.1.9",
+        "spanish": "comprender",
+        "english": "to understand"
+    },
+    {
+        "id": "7.1.10",
+        "spanish": "conocer",
+        "english": "to know"
+    },
+    {
+        "id": "7.1.11",
+        "spanish": "acordarse de",
+        "english": "to remember of"
+    },
+    {
+        "id": "7.1.12",
+        "spanish": "soñar",
+        "english": "to dream"
+    },
+    {
+        "id": "7.1.13",
+        "spanish": "imaginar",
+        "english": "to imagine"
+    },
+    {
+        "id": "7.1.14",
+        "spanish": "advinar",
+        "english": "to guess"
+    },
+    {
+        "id": "7.1.15",
+        "spanish": "suponer",
+        "english": "to suppose"
+    },
+    {
+        "id": "7.1.16",
+        "spanish": "creer en",
+        "english": "to believe in"
+    },
+    {
+        "id": "7.1.17",
+        "spanish": "estar seguro de",
+        "english": "to be sure of"
+    },
+    {
+        "id": "7.1.18",
+        "spanish": "darse cuenta de",
+        "english": "to realise of"
+    },
+    {
+        "id": "7.2.1",
+        "spanish": "palabra",
+        "english": "word"
+    },
+    {
+        "id": "7.2.2",
+        "spanish": "frase",
+        "english": "phrase"
+    },
+    {
+        "id": "7.2.3",
+        "spanish": "expresión",
+        "english": "expression"
+    },
+    {
+        "id": "7.2.4",
+        "spanish": "texto",
+        "english": "text"
+    },
+    {
+        "id": "7.2.5",
+        "spanish": "diálogo",
+        "english": "dialogue"
+    },
+    {
+        "id": "7.2.6",
+        "spanish": "explicación",
+        "english": "explanation"
+    },
+    {
+        "id": "7.2.7",
+        "spanish": "conversación",
+        "english": "conversation"
+    },
+    {
+        "id": "7.2.8",
+        "spanish": "datos",
+        "english": "data"
+    },
+    {
+        "id": "7.2.9",
+        "spanish": "redacción",
+        "english": "wording"
+    },
+    {
+        "id": "7.2.10",
+        "spanish": "resumen",
+        "english": "summary"
+    },
+    {
+        "id": "7.2.11",
+        "spanish": "historia",
+        "english": "history"
+    },
+    {
+        "id": "7.2.12",
+        "spanish": "noticia",
+        "english": "news"
+    },
+    {
+        "id": "7.2.13",
+        "spanish": "cuento",
+        "english": "fairytale"
+    },
+    {
+        "id": "7.2.14",
+        "spanish": "entrevista",
+        "english": "interview"
+    },
+    {
+        "id": "7.2.15",
+        "spanish": "chiste",
+        "english": "joke"
+    },
+    {
+        "id": "7.2.16",
+        "spanish": "callado",
+        "english": "quiet"
+    },
+    {
+        "id": "7.2.17",
+        "spanish": "gritar",
+        "english": "to shout"
+    },
+    {
+        "id": "7.2.18",
+        "spanish": "explicar",
+        "english": "to explain"
+    },
+    {
+        "id": "7.2.19",
+        "spanish": "entrevistar",
+        "english": "to interview"
+    },
+    {
+        "id": "7.2.20",
+        "spanish": "dar una respuesta/opinión",
+        "english": "to give an answer/opinion"
+    },
+    {
+        "id": "7.2.21",
+        "spanish": "pedir una respuesta/opinión",
+        "english": "to ask an answer/opinion"
+    },
+    {
+        "id": "7.2.22",
+        "spanish": "escuchar una respuesta/opinión",
+        "english": "to hear an answer/opinion"
+    },
+    {
+        "id": "7.2.23",
+        "spanish": "esperar una respuesta/opinión",
+        "english": "to wait an answer/opinion"
+    },
+    {
+        "id": "7.2.24",
+        "spanish": "contar un chiste/cuento/una historia",
+        "english": "to tell a joke/story"
+    },
+    {
+        "id": "7.2.25",
+        "spanish": "poner un correo/una nota",
+        "english": "to put an email/note"
+    },
+    {
+        "id": "7.2.26",
+        "spanish": "escribir un correo/una nota",
+        "english": "to write an email/note"
+    },
+    {
+        "id": "7.2.27",
+        "spanish": "mandar un correo/una nota",
+        "english": "to send an email/note"
+    },
+    {
+        "id": "7.2.28",
+        "spanish": "enviar un correo/una nota",
+        "english": "to send an email/note"
+    },
+    {
+        "id": "7.2.29",
+        "spanish": "dejar un mensaje/un recado",
+        "english": "to leave a message (w/ a task)"
+    },
+    {
         "id": "11.1.1",
         "spanish": "servicio postal",
         "english": "postal service"
@@ -1197,7 +1432,7 @@
     {
         "id": "11.1.3",
         "spanish": "mensajero",
-        "english": "courier"
+        "english": "courier, delivery man, messenger"
     },
     {
         "id": "11.1.4",
@@ -1292,7 +1527,7 @@
     {
         "id": "11.1.22",
         "spanish": "vigilante",
-        "english": "vigilante"
+        "english": "vigilant, watchman, security guard"
     },
     {
         "id": "11.1.23",
@@ -1347,17 +1582,17 @@
     {
         "id": "11.1.33",
         "spanish": "colaboración",
-        "english": "collabortion"
+        "english": "collaboration"
     },
     {
         "id": "11.1.34",
-        "spanish": "ayuda econónica",
+        "spanish": "ayuda económica",
         "english": "economic, financial help"
     },
     {
         "id": "11.1.35",
         "spanish": "cuidar",
-        "english": "care"
+        "english": "to care/to take care"
     },
     {
         "id": "11.1.36",
@@ -1382,12 +1617,12 @@
     {
         "id": "11.1.40",
         "spanish": "servicios de abastecimiento público",
-        "english": "public suply services"
+        "english": "public supply services"
     },
     {
         "id": "11.1.41",
         "spanish": "baños/aseos públicos",
-        "english": "public baths/toilets"
+        "english": "public bathrooms/toilets"
     },
     {
         "id": "11.1.42",
@@ -1427,7 +1662,7 @@
     {
         "id": "12.1.6",
         "spanish": "aparcamiento",
-        "english": "parking"
+        "english": "parking lot"
     },
     {
         "id": "12.1.7",
@@ -1452,7 +1687,7 @@
     {
         "id": "12.1.11",
         "spanish": "salir de rebajas",
-        "english": "to leave sales"
+        "english": "to go shopping on sales"
     },
     {
         "id": "12.1.12",
@@ -1477,7 +1712,7 @@
     {
         "id": "12.1.16",
         "spanish": "tener/hacer un descuento",
-        "english": "to have a discount"
+        "english": "to have/offer a discount"
     },
     {
         "id": "12.1.17",
@@ -1602,7 +1837,7 @@
     {
         "id": "12.1.41",
         "spanish": "quedar mal",
-        "english": "to fit bad"
+        "english": "to look bad"
     },
     {
         "id": "12.1.42",
@@ -1612,12 +1847,12 @@
     {
         "id": "12.1.43",
         "spanish": "quedar estrecho",
-        "english": "to fit narrow"
+        "english": "to fit tight"
     },
     {
         "id": "12.1.44",
         "spanish": "quedar grande",
-        "english": "to fit large"
+        "english": "to fit big"
     },
     {
         "id": "12.1.45",
@@ -1632,7 +1867,7 @@
     {
         "id": "12.1.47",
         "spanish": "quedar corto",
-        "english": "to fit small"
+        "english": "to fit short"
     },
     {
         "id": "12.1.48",
@@ -1697,7 +1932,7 @@
     {
         "id": "12.1.60",
         "spanish": "trozo de pan",
-        "english": "a bread slice"
+        "english": "a piece of bread"
     },
     {
         "id": "12.1.61",
@@ -1706,38 +1941,43 @@
     },
     {
         "id": "12.1.62",
-        "spanish": "tener/estar de oferta/de promoción",
-        "english": "to have/be an offer/a promotion"
+        "spanish": "tener/estar de oferta",
+        "english": "to have/be an offer/on sale"
     },
     {
         "id": "12.1.63",
+        "spanish": "tener/estar de promoción",
+        "english": "to have/be a/on promotion"
+    },
+    {
+        "id": "12.1.64",
         "spanish": "pagos",
         "english": "payments"
     },
     {
-        "id": "12.1.64",
+        "id": "12.1.65",
         "spanish": "cambio",
         "english": "change"
     },
     {
-        "id": "12.1.65",
+        "id": "12.1.66",
         "spanish": "vuelta",
-        "english": "turn, return"
+        "english": "change"
     },
     {
-        "id": "12.1.66",
+        "id": "12.1.67",
         "spanish": "pagar intereses",
         "english": "to pay interest"
     },
     {
-        "id": "12.1.67",
+        "id": "12.1.68",
         "spanish": "cobrar intereses",
         "english": "to collect interest"
     },
     {
-        "id": "12.1.68",
+        "id": "12.1.69",
         "spanish": "pasar por la caja",
-        "english": "to proceed to checkout"
+        "english": "to checkout"
     },
     {
         "id": "13.1.1",
@@ -1782,7 +2022,7 @@
     {
         "id": "13.1.9",
         "spanish": "ponerse enfermo/malo/bien",
-        "english": "to get sick/bad/good"
+        "english": "to get sick/bad/well"
     },
     {
         "id": "13.1.10",
@@ -1792,27 +2032,27 @@
     {
         "id": "13.1.11",
         "spanish": "cuidar a un enfermo",
-        "english": "to care for a sick"
+        "english": "to care for a sick person"
     },
     {
         "id": "13.1.12",
         "spanish": "curar a un enfermo",
-        "english": "to cure a sick"
+        "english": "to cure/treat/heal a sick person"
     },
     {
         "id": "13.1.13",
         "spanish": "hacer un régimen",
-        "english": "to make a regimen"
+        "english": "to be on a diet"
     },
     {
         "id": "13.1.14",
         "spanish": "estar sano/de baja",
-        "english": "to be healthy/low"
+        "english": "to be healthy/on a sick leave"
     },
     {
         "id": "13.1.15",
         "spanish": "heridas",
-        "english": "injuries, wounds"
+        "english": "wounds"
     },
     {
         "id": "13.1.16",
@@ -1837,7 +2077,7 @@
     {
         "id": "13.1.20",
         "spanish": "dar(se) un golpe",
-        "english": "to give a blow"
+        "english": "to get hit"
     },
     {
         "id": "13.1.21",
@@ -1882,12 +2122,12 @@
     {
         "id": "13.1.29",
         "spanish": "estar resfriado",
-        "english": "to be cold"
+        "english": "to have/get a cold"
     },
     {
         "id": "13.1.30",
         "spanish": "estar mareado",
-        "english": "to be dizzy"
+        "english": "to feel dizzy"
     },
     {
         "id": "13.1.31",
@@ -1952,7 +2192,7 @@
     {
         "id": "13.1.43",
         "spanish": "oculista",
-        "english": "oculist"
+        "english": "oculist, eye doctor"
     },
     {
         "id": "13.1.44",
@@ -1972,7 +2212,7 @@
     {
         "id": "13.1.47",
         "spanish": "pedir hora/cita",
-        "english": "to request time/appointment"
+        "english": "to request an appointment"
     },
     {
         "id": "13.1.48",
@@ -2067,7 +2307,7 @@
     {
         "id": "13.1.66",
         "spanish": "darse una crema",
-        "english": "to give yourself a cream"
+        "english": "to spread some cream"
     },
     {
         "id": "13.1.67",
@@ -2077,7 +2317,7 @@
     {
         "id": "13.1.68",
         "spanish": "ponerse una vacuna/el termómetro",
-        "english": "to get a vaccine/thermometer"
+        "english": "to get a vaccine/put a thermometer"
     },
     {
         "id": "13.1.69",
@@ -2147,7 +2387,7 @@
     {
         "id": "13.1.82",
         "spanish": "estética",
-        "english": "esthetic"
+        "english": "aesthetic"
     },
     {
         "id": "13.1.83",
@@ -2177,7 +2417,7 @@
     {
         "id": "13.1.88",
         "spanish": "cortarse el pelo",
-        "english": "to cut hair"
+        "english": "to cut your hair"
     },
     {
         "id": "14.1.1",
@@ -2261,7 +2501,7 @@
     },
     {
         "id": "14.1.17",
-        "spanish": "viaje de trabaje",
+        "spanish": "viaje de trabajo",
         "english": "work trip"
     },
     {
@@ -2287,7 +2527,7 @@
     {
         "id": "14.1.22",
         "spanish": "irse/marcharse/salir de puente",
-        "english": "to go off/get off the bridge"
+        "english": "to go on a long weekend"
     },
     {
         "id": "14.1.23",
@@ -2332,7 +2572,7 @@
     {
         "id": "14.1.31",
         "spanish": "sombrilla",
-        "english": "parasol, umbrella from sun"
+        "english": "parasol, beach umbrella"
     },
     {
         "id": "14.1.32",
@@ -2537,7 +2777,7 @@
     {
         "id": "14.1.72",
         "spanish": "haber caravana/un atasco/un embotellamiento",
-        "english": "to have a caravan/traffic jam"
+        "english": "to have a traffic jam"
     },
     {
         "id": "14.1.73",
@@ -2617,7 +2857,7 @@
     {
         "id": "14.1.88",
         "spanish": "subir(se) a/montar(se)/bajar(se) de una bicicleta/una moto/un coche",
-        "english": "to get on/off/ride a bike/motorcycle/car"
+        "english": "to get on/off a bike/motorcycle/car"
     },
     {
         "id": "14.1.89",
@@ -2657,7 +2897,7 @@
     {
         "id": "14.1.96",
         "spanish": "navegar",
-        "english": "to surf"
+        "english": "to sail"
     },
     {
         "id": "14.1.97",
@@ -2677,7 +2917,7 @@
     {
         "id": "14.1.100",
         "spanish": "globo",
-        "english": "globe"
+        "english": "globe, hot-air baloon"
     },
     {
         "id": "14.1.101",
@@ -2727,7 +2967,7 @@
     {
         "id": "14.1.110",
         "spanish": "hacer escala",
-        "english": "to stop"
+        "english": "to stop over, to make a stop"
     },
     {
         "id": "14.1.111",
@@ -2762,7 +3002,7 @@
     {
         "id": "14.1.117",
         "spanish": "incidentes relacionados con la conducción",
-        "english": "driving related incidents"
+        "english": "driving-related incidents"
     },
     {
         "id": "14.1.118",
@@ -2817,7 +3057,7 @@
     {
         "id": "15.1.1",
         "spanish": "economía",
-        "english": "aconomy"
+        "english": "economy"
     },
     {
         "id": "15.1.2",
@@ -2867,12 +3107,12 @@
     {
         "id": "15.1.11",
         "spanish": "tener/llevar cambio/suelto",
-        "english": "to have/carry change/loose money"
+        "english": "to have/carry change/loose money (change)"
     },
     {
         "id": "15.1.12",
         "spanish": "pagar en metálico/en efectivo",
-        "english": "to pay in cash/cash"
+        "english": "to pay in cash"
     },
     {
         "id": "15.1.13",
@@ -3102,7 +3342,7 @@
     {
         "id": "15.1.58",
         "spanish": "ganadería",
-        "english": "animal breeding/raising"
+        "english": "animal breeding/raising, livestock farming"
     },
     {
         "id": "15.1.59",
@@ -3128,5 +3368,1655 @@
         "id": "15.1.63",
         "spanish": "marisco",
         "english": "shellfish"
+    },
+    {
+        "id": "16.1.1",
+        "spanish": "ciencia",
+        "english": "science"
+    },
+    {
+        "id": "16.1.2",
+        "spanish": "tecnología",
+        "english": "technology"
+    },
+    {
+        "id": "16.1.3",
+        "spanish": "estudio",
+        "english": "study"
+    },
+    {
+        "id": "16.1.4",
+        "spanish": "análisis",
+        "english": "analysis"
+    },
+    {
+        "id": "16.1.5",
+        "spanish": "método",
+        "english": "method"
+    },
+    {
+        "id": "16.1.6",
+        "spanish": "materia",
+        "english": "matter"
+    },
+    {
+        "id": "16.1.7",
+        "spanish": "invento",
+        "english": "invention"
+    },
+    {
+        "id": "16.1.8",
+        "spanish": "descubrimiento",
+        "english": "discovery"
+    },
+    {
+        "id": "16.1.9",
+        "spanish": "experimento",
+        "english": "experiment"
+    },
+    {
+        "id": "16.1.10",
+        "spanish": "inventar",
+        "english": "to invent"
+    },
+    {
+        "id": "16.2.1",
+        "spanish": "biología",
+        "english": "biology"
+    },
+    {
+        "id": "16.2.2",
+        "spanish": "ecología",
+        "english": "ecology"
+    },
+    {
+        "id": "16.2.3",
+        "spanish": "veterinaria",
+        "english": "veterinary"
+    },
+    {
+        "id": "16.2.4",
+        "spanish": "genética",
+        "english": "genetics"
+    },
+    {
+        "id": "16.2.5",
+        "spanish": "biólogo",
+        "english": "biologist"
+    },
+    {
+        "id": "16.2.6",
+        "spanish": "veterinario",
+        "english": "vet"
+    },
+    {
+        "id": "16.2.7",
+        "spanish": "ecológico",
+        "english": "ecological"
+    },
+    {
+        "id": "16.3.1",
+        "spanish": "matemáticas",
+        "english": "math"
+    },
+    {
+        "id": "16.3.2",
+        "spanish": "sumar",
+        "english": "add"
+    },
+    {
+        "id": "16.3.3",
+        "spanish": "restar",
+        "english": "substract"
+    },
+    {
+        "id": "16.3.4",
+        "spanish": "multiplicar",
+        "english": "multiply"
+    },
+    {
+        "id": "16.3.5",
+        "spanish": "dividir",
+        "english": "divide"
+    },
+    {
+        "id": "16.4.1",
+        "spanish": "informática",
+        "english": "computer science, IT"
+    },
+    {
+        "id": "16.4.2",
+        "spanish": "nuevas tecnologías",
+        "english": "new technologies"
+    },
+    {
+        "id": "16.4.3",
+        "spanish": "teclado",
+        "english": "keyboard"
+    },
+    {
+        "id": "16.4.4",
+        "spanish": "tecla",
+        "english": "key (button)"
+    },
+    {
+        "id": "16.4.5",
+        "spanish": "pantalla",
+        "english": "screen"
+    },
+    {
+        "id": "16.4.6",
+        "spanish": "ratón",
+        "english": "mouse"
+    },
+    {
+        "id": "16.4.7",
+        "spanish": "cibercafé",
+        "english": "internet cafe"
+    },
+    {
+        "id": "16.4.8",
+        "spanish": "impresora láser/en color",
+        "english": "laser/color printer"
+    },
+    {
+        "id": "16.4.9",
+        "spanish": "antivirus",
+        "english": "antivirus"
+    },
+    {
+        "id": "16.4.10",
+        "spanish": "hacer clic (con el ratón)",
+        "english": "to click (with a mouse)"
+    },
+    {
+        "id": "16.4.11",
+        "spanish": "pulsar",
+        "english": "to press"
+    },
+    {
+        "id": "16.4.12",
+        "spanish": "abrir/cerrar/guardar/eliminar un documiento",
+        "english": "to open/close/save/delete a document"
+    },
+    {
+        "id": "16.4.13",
+        "spanish": "copiar/cortar/pegar/insertar/seleccionar/buscar una palabra",
+        "english": "to copy/cut/paste/insert/select/search a word"
+    },
+    {
+        "id": "16.4.14",
+        "spanish": "(des)instalar un programa",
+        "english": "(un)install a program"
+    },
+    {
+        "id": "16.4.15",
+        "spanish": "usuario",
+        "english": "user"
+    },
+    {
+        "id": "16.4.16",
+        "spanish": "contraseña",
+        "english": "password"
+    },
+    {
+        "id": "16.4.17",
+        "spanish": "bajar(se) un programa",
+        "english": "download a program"
+    },
+    {
+        "id": "16.4.18",
+        "spanish": "descargar(se) un programa",
+        "english": "download a program"
+    },
+    {
+        "id": "16.5.1",
+        "spanish": "física",
+        "english": "physics"
+    },
+    {
+        "id": "16.5.2",
+        "spanish": "química",
+        "english": "chemistry"
+    },
+    {
+        "id": "16.5.3",
+        "spanish": "electricidad",
+        "english": "electricity"
+    },
+    {
+        "id": "16.5.4",
+        "spanish": "oro",
+        "english": "gold"
+    },
+    {
+        "id": "16.5.5",
+        "spanish": "plata",
+        "english": "silver"
+    },
+    {
+        "id": "16.5.6",
+        "spanish": "hierro",
+        "english": "iron"
+    },
+    {
+        "id": "16.5.7",
+        "spanish": "físico",
+        "english": "physical"
+    },
+    {
+        "id": "16.5.8",
+        "spanish": "químico",
+        "english": "chemical"
+    },
+    {
+        "id": "16.5.9",
+        "spanish": "electrónico",
+        "english": "electronic"
+    },
+    {
+        "id": "16.5.10",
+        "spanish": "(in)orgánico",
+        "english": "(in)organic"
+    },
+    {
+        "id": "16.5.11",
+        "spanish": "símbolo/elemento químico",
+        "english": "chemical symbol/element"
+    },
+    {
+        "id": "16.5.12",
+        "spanish": "estado sólido/liquido/gaseoso",
+        "english": "solid/liquid/gas state"
+    },
+    {
+        "id": "16.5.13",
+        "spanish": "congelar(se)",
+        "english": "to freeze"
+    },
+    {
+        "id": "16.5.14",
+        "spanish": "evaporarse",
+        "english": "to evaporate"
+    },
+    {
+        "id": "17.1.1",
+        "spanish": "gobierno",
+        "english": "government"
+    },
+    {
+        "id": "17.1.2",
+        "spanish": "política",
+        "english": "politics"
+    },
+    {
+        "id": "17.1.3",
+        "spanish": "sociedad",
+        "english": "society"
+    },
+    {
+        "id": "17.1.4",
+        "spanish": "comunidad",
+        "english": "community"
+    },
+    {
+        "id": "17.1.5",
+        "spanish": "sociología",
+        "english": "sociology"
+    },
+    {
+        "id": "17.1.6",
+        "spanish": "sociólogo",
+        "english": "sociologist"
+    },
+    {
+        "id": "17.1.7",
+        "spanish": "historiador",
+        "english": "historian"
+    },
+    {
+        "id": "17.1.8",
+        "spanish": "político",
+        "english": "politician"
+    },
+    {
+        "id": "17.1.9",
+        "spanish": "ciudadano",
+        "english": "citizen"
+    },
+    {
+        "id": "17.1.10",
+        "spanish": "club",
+        "english": "club"
+    },
+    {
+        "id": "17.1.11",
+        "spanish": "historia antigua/medieval/universal/conteporánea/del arte",
+        "english": "ancient/medieval/universal/contemporary/art history"
+    },
+    {
+        "id": "17.1.12",
+        "spanish": "derechos",
+        "english": "rights"
+    },
+    {
+        "id": "17.1.13",
+        "spanish": "deberes",
+        "english": "duties"
+    },
+    {
+        "id": "17.1.14",
+        "spanish": "crisis",
+        "english": "crisis"
+    },
+    {
+        "id": "17.1.15",
+        "spanish": "progreso",
+        "english": "progress"
+    },
+    {
+        "id": "17.1.16",
+        "spanish": "privado",
+        "english": "private"
+    },
+    {
+        "id": "17.1.17",
+        "spanish": "conducta social",
+        "english": "social conduct"
+    },
+    {
+        "id": "17.1.18",
+        "spanish": "ayuda",
+        "english": "help"
+    },
+    {
+        "id": "17.1.19",
+        "spanish": "cortesía",
+        "english": "courtesy"
+    },
+    {
+        "id": "17.1.20",
+        "spanish": "amabilidad",
+        "english": "kindness"
+    },
+    {
+        "id": "17.1.21",
+        "spanish": "educado",
+        "english": "educated"
+    },
+    {
+        "id": "17.1.22",
+        "spanish": "buena persona",
+        "english": "good person"
+    },
+    {
+        "id": "17.1.23",
+        "spanish": "respetar",
+        "english": "to respect"
+    },
+    {
+        "id": "17.2.1",
+        "spanish": "instuticiones políticas",
+        "english": "political institutions"
+    },
+    {
+        "id": "17.2.2",
+        "spanish": "órganos de gobierno",
+        "english": "governing bodies"
+    },
+    {
+        "id": "17.2.3",
+        "spanish": "nación",
+        "english": "nation"
+    },
+    {
+        "id": "17.2.4",
+        "spanish": "estado",
+        "english": "state"
+    },
+    {
+        "id": "17.2.5",
+        "spanish": "provincia",
+        "english": "province"
+    },
+    {
+        "id": "17.2.6",
+        "spanish": "distrito",
+        "english": "district"
+    },
+    {
+        "id": "17.2.7",
+        "spanish": "ministro de Interior/de Defensa/de Educación/de Asuntos Exteriores",
+        "english": "Minister of Interior/Defense/Education/Foreign Affairs"
+    },
+    {
+        "id": "17.2.8",
+        "spanish": "jefe de Estado",
+        "english": "Head of State"
+    },
+    {
+        "id": "17.2.9",
+        "spanish": "vicepresidente",
+        "english": "Vice President"
+    },
+    {
+        "id": "17.2.10",
+        "spanish": "alcalde",
+        "english": "Mayor"
+    },
+    {
+        "id": "17.2.11",
+        "spanish": "senado",
+        "english": "senate"
+    },
+    {
+        "id": "17.2.12",
+        "spanish": "congreso",
+        "english": "congress"
+    },
+    {
+        "id": "17.2.13",
+        "spanish": "parlamento",
+        "english": "parlament"
+    },
+    {
+        "id": "17.2.14",
+        "spanish": "Ministerio",
+        "english": "ministry"
+    },
+    {
+        "id": "17.2.15",
+        "spanish": "Unión Europea (UE)",
+        "english": "EU"
+    },
+    {
+        "id": "17.2.16",
+        "spanish": "Organización de las Naciones Unidas (ONU)",
+        "english": "United Nations (UN)"
+    },
+    {
+        "id": "17.2.17",
+        "spanish": "embajador",
+        "english": "ambassador"
+    },
+    {
+        "id": "17.2.18",
+        "spanish": "cónsul",
+        "english": "consul"
+    },
+    {
+        "id": "17.2.19",
+        "spanish": "embajada",
+        "english": "embassy"
+    },
+    {
+        "id": "17.2.20",
+        "spanish": "consulado",
+        "english": "consulate"
+    },
+    {
+        "id": "17.2.21",
+        "spanish": "república",
+        "english": "republic"
+    },
+    {
+        "id": "17.2.22",
+        "spanish": "monarquía",
+        "english": "monarchy"
+    },
+    {
+        "id": "17.2.23",
+        "spanish": "democracia",
+        "english": "democracy"
+    },
+    {
+        "id": "17.2.24",
+        "spanish": "dictadura",
+        "english": "dictatorship"
+    },
+    {
+        "id": "17.2.25",
+        "spanish": "sindicato",
+        "english": "union"
+    },
+    {
+        "id": "17.2.26",
+        "spanish": "partido de izquierdas/de derechas/de centro/de la oposición",
+        "english": "left/right/center/oposition party"
+    },
+    {
+        "id": "17.2.27",
+        "spanish": "comunista",
+        "english": "communist"
+    },
+    {
+        "id": "17.2.28",
+        "spanish": "socialista",
+        "english": "socialist"
+    },
+    {
+        "id": "17.2.29",
+        "spanish": "conservador",
+        "english": "conservative"
+    },
+    {
+        "id": "17.2.30",
+        "spanish": "demócrata",
+        "english": "democrat"
+    },
+    {
+        "id": "17.2.31",
+        "spanish": "liberal republicano",
+        "english": "liberal"
+    },
+    {
+        "id": "17.2.32",
+        "spanish": "gobernar",
+        "english": "to govern, rule"
+    },
+    {
+        "id": "17.3.1",
+        "spanish": "ley",
+        "english": "law"
+    },
+    {
+        "id": "17.3.2",
+        "spanish": "justicia",
+        "english": "justice"
+    },
+    {
+        "id": "17.3.3",
+        "spanish": "constitución",
+        "english": "constitution"
+    },
+    {
+        "id": "17.3.4",
+        "spanish": "ladrón",
+        "english": "thief"
+    },
+    {
+        "id": "17.3.5",
+        "spanish": "terrorista",
+        "english": "terrorist"
+    },
+    {
+        "id": "17.3.6",
+        "spanish": "asesino",
+        "english": "murderer"
+    },
+    {
+        "id": "17.3.7",
+        "spanish": "robo",
+        "english": "robbery"
+    },
+    {
+        "id": "17.3.8",
+        "spanish": "terrorismo",
+        "english": "terrorism"
+    },
+    {
+        "id": "17.3.9",
+        "spanish": "grupo terrorista",
+        "english": "terrorist group"
+    },
+    {
+        "id": "17.3.10",
+        "spanish": "atentado terrorista",
+        "english": "terrorist attack"
+    },
+    {
+        "id": "17.3.11",
+        "spanish": "robar",
+        "english": "to steal"
+    },
+    {
+        "id": "17.3.12",
+        "spanish": "matar",
+        "english": "to kill"
+    },
+    {
+        "id": "17.3.13",
+        "spanish": "ser (i)legal",
+        "english": "to be (il)legal"
+    },
+    {
+        "id": "17.3.14",
+        "spanish": "ir a la cárcel",
+        "english": "to go to jail"
+    },
+    {
+        "id": "17.4.1",
+        "spanish": "ejército",
+        "english": "army"
+    },
+    {
+        "id": "17.4.2",
+        "spanish": "capitán",
+        "english": "captain"
+    },
+    {
+        "id": "17.4.3",
+        "spanish": "general",
+        "english": "general"
+    },
+    {
+        "id": "17.4.4",
+        "spanish": "militar",
+        "english": "military"
+    },
+    {
+        "id": "17.4.5",
+        "spanish": "soldado",
+        "english": "soldier"
+    },
+    {
+        "id": "17.4.6",
+        "spanish": "guerra civil/mundial/de independencia",
+        "english": "civil/world/independence war"
+    },
+    {
+        "id": "17.4.7",
+        "spanish": "pistola",
+        "english": "gun"
+    },
+    {
+        "id": "17.4.8",
+        "spanish": "bomba",
+        "english": "bomb"
+    },
+    {
+        "id": "17.4.9",
+        "spanish": "estar en guerra",
+        "english": "to be at war"
+    },
+    {
+        "id": "18.1.1",
+        "spanish": "diciplinas",
+        "english": "disciplines"
+    },
+    {
+        "id": "18.1.2",
+        "spanish": "cualidades artisticas",
+        "english": "artistic qualities"
+    },
+    {
+        "id": "18.1.3",
+        "spanish": "obra/galería de arte",
+        "english": "art work/gallery"
+    },
+    {
+        "id": "18.1.4",
+        "spanish": "arquitectura",
+        "english": "architecture"
+    },
+    {
+        "id": "18.1.5",
+        "spanish": "arte/estilo clásico/moderno",
+        "english": "classic/modern art/style"
+    },
+    {
+        "id": "18.1.6",
+        "spanish": "crear",
+        "english": "to create"
+    },
+    {
+        "id": "18.1.7",
+        "spanish": "diseñar",
+        "english": "to design"
+    },
+    {
+        "id": "18.1.8",
+        "spanish": "fotografiar",
+        "english": "to photograph"
+    },
+    {
+        "id": "18.1.9",
+        "spanish": "artístico",
+        "english": "artistic"
+    },
+    {
+        "id": "18.1.10",
+        "spanish": "ser un genio",
+        "english": "to be a genius"
+    },
+    {
+        "id": "18.2.1",
+        "spanish": "música",
+        "english": "music"
+    },
+    {
+        "id": "18.2.2",
+        "spanish": "danza",
+        "english": "dance"
+    },
+    {
+        "id": "18.2.3",
+        "spanish": "baile",
+        "english": "dance"
+    },
+    {
+        "id": "18.2.4",
+        "spanish": "bailarín",
+        "english": "dancer"
+    },
+    {
+        "id": "18.2.5",
+        "spanish": "ballet",
+        "english": "ballet"
+    },
+    {
+        "id": "18.2.6",
+        "spanish": "orquesta",
+        "english": "orchestra"
+    },
+    {
+        "id": "18.2.7",
+        "spanish": "grupo (musical)",
+        "english": "(musical) group"
+    },
+    {
+        "id": "18.2.8",
+        "spanish": "letra (de una canción)",
+        "english": "lyrics (of a song)"
+    },
+    {
+        "id": "18.2.9",
+        "spanish": "compositor",
+        "english": "composer"
+    },
+    {
+        "id": "18.2.10",
+        "spanish": "director de orquesta",
+        "english": "conductor"
+    },
+    {
+        "id": "18.2.11",
+        "spanish": "guitarrista",
+        "english": "guitarist"
+    },
+    {
+        "id": "18.2.12",
+        "spanish": "pianista",
+        "english": "pianist"
+    },
+    {
+        "id": "18.2.13",
+        "spanish": "violinista",
+        "english": "violonist"
+    },
+    {
+        "id": "18.3.1",
+        "spanish": "escultura",
+        "english": "sculpture"
+    },
+    {
+        "id": "18.3.2",
+        "spanish": "pintura",
+        "english": "painting"
+    },
+    {
+        "id": "18.3.3",
+        "spanish": "diseñador",
+        "english": "designer"
+    },
+    {
+        "id": "18.3.4",
+        "spanish": "escultor",
+        "english": "sculptor"
+    },
+    {
+        "id": "18.3.5",
+        "spanish": "pintar un cuadro/paisaje/retrato",
+        "english": "to paint a picture/landscape/portrait"
+    },
+    {
+        "id": "18.3.6",
+        "spanish": "construir un acueducto/una muralla/mezquita/sinagoga",
+        "english": "to build an aqueduct/wall/mosque/synagogue"
+    },
+    {
+        "id": "18.4.1",
+        "spanish": "literatura",
+        "english": "literature"
+    },
+    {
+        "id": "18.4.2",
+        "spanish": "poeta",
+        "english": "poet"
+    },
+    {
+        "id": "18.4.3",
+        "spanish": "novelista",
+        "english": "novelist"
+    },
+    {
+        "id": "18.4.4",
+        "spanish": "traductor",
+        "english": "translator"
+    },
+    {
+        "id": "18.4.5",
+        "spanish": "personaje",
+        "english": "character"
+    },
+    {
+        "id": "18.4.6",
+        "spanish": "protagonista",
+        "english": "protagonist"
+    },
+    {
+        "id": "18.4.7",
+        "spanish": "poema",
+        "english": "poem"
+    },
+    {
+        "id": "18.4.8",
+        "spanish": "(auto)biografía",
+        "english": "(auto)biography"
+    },
+    {
+        "id": "18.4.9",
+        "spanish": "literatura clásica/moderna",
+        "english": "classic/modern literature"
+    },
+    {
+        "id": "18.4.10",
+        "spanish": "novela policiaca/histórica/de amor/de ciencia ficción/de aventuras",
+        "english": "detective/historical/love/science fiction/adventure novel"
+    },
+    {
+        "id": "18.4.11",
+        "spanish": "contar (la historia de)",
+        "english": "to tell (the story of)"
+    },
+    {
+        "id": "18.4.12",
+        "spanish": "tratar de",
+        "english": "to try to"
+    },
+    {
+        "id": "18.5.1",
+        "spanish": "fotografía",
+        "english": "photography"
+    },
+    {
+        "id": "18.5.2",
+        "spanish": "cámara digital",
+        "english": "digital camera"
+    },
+    {
+        "id": "18.5.3",
+        "spanish": "foto(grafía) digital/en color/en blanco y negro",
+        "english": "digital/color/black and white photo(graphy)"
+    },
+    {
+        "id": "18.5.4",
+        "spanish": "flash",
+        "english": "flash"
+    },
+    {
+        "id": "18.5.5",
+        "spanish": "zum",
+        "english": "zoom"
+    },
+    {
+        "id": "18.5.6",
+        "spanish": "álbum de fotos",
+        "english": "photo album"
+    },
+    {
+        "id": "18.5.7",
+        "spanish": "tomar/sacar una foto",
+        "english": "to take a photo"
+    },
+    {
+        "id": "18.5.8",
+        "spanish": "hacer una copia",
+        "english": "to make a copy"
+    },
+    {
+        "id": "18.5.9",
+        "spanish": "imprimir",
+        "english": "to print"
+    },
+    {
+        "id": "18.6.1",
+        "spanish": "cine",
+        "english": "cinema"
+    },
+    {
+        "id": "18.6.2",
+        "spanish": "teatro",
+        "english": "theater"
+    },
+    {
+        "id": "18.6.3",
+        "spanish": "cartelera",
+        "english": "billboard"
+    },
+    {
+        "id": "18.6.4",
+        "spanish": "día del espectador",
+        "english": "audience day"
+    },
+    {
+        "id": "18.6.5",
+        "spanish": "espectáculo",
+        "english": "show"
+    },
+    {
+        "id": "18.6.6",
+        "spanish": "comedia",
+        "english": "comedy"
+    },
+    {
+        "id": "18.6.7",
+        "spanish": "drama",
+        "english": "drama"
+    },
+    {
+        "id": "18.6.8",
+        "spanish": "asiento",
+        "english": "seat"
+    },
+    {
+        "id": "18.6.9",
+        "spanish": "escenario",
+        "english": "stage"
+    },
+    {
+        "id": "18.6.10",
+        "spanish": "película policiaca/romántica/de amor/de terror/de risa/de ciencia ficción/de acción/de aventuras/de guerra/de dibujos animados",
+        "english": "detective/romantic/love/horror/comedy/\nscience fiction/action/adventure/war/\ncartoon movie"
+    },
+    {
+        "id": "18.6.11",
+        "spanish": "película en versión original/doblada/subtitulada",
+        "english": "original/dubbed/subtitled movie"
+    },
+    {
+        "id": "18.6.12",
+        "spanish": "final feliz/triste/abierto",
+        "english": "happy/sad/open ending"
+    },
+    {
+        "id": "18.6.13",
+        "spanish": "hacer una película",
+        "english": "to make/shoot a movie"
+    },
+    {
+        "id": "18.6.14",
+        "spanish": "poner una película/una obra de teatro",
+        "english": "to watch a movie/theater play"
+    },
+    {
+        "id": "19.1.1",
+        "spanish": "religión",
+        "english": "religion"
+    },
+    {
+        "id": "19.1.2",
+        "spanish": "el Papa",
+        "english": "Pope"
+    },
+    {
+        "id": "19.1.3",
+        "spanish": "san",
+        "english": "saint"
+    },
+    {
+        "id": "19.1.4",
+        "spanish": "santo",
+        "english": "holy"
+    },
+    {
+        "id": "19.1.5",
+        "spanish": "creyente",
+        "english": "believer"
+    },
+    {
+        "id": "19.1.6",
+        "spanish": "ateo",
+        "english": "atheist"
+    },
+    {
+        "id": "19.1.7",
+        "spanish": "sacerdote",
+        "english": "priest"
+    },
+    {
+        "id": "19.1.8",
+        "spanish": "ir a misa",
+        "english": "to go to Mass"
+    },
+    {
+        "id": "19.1.9",
+        "spanish": "Iglesia católica/anglicana/evangélica",
+        "english": "Catholic/Anglican/Evangelical Church"
+    },
+    {
+        "id": "19.1.10",
+        "spanish": "Biblia",
+        "english": "Bible"
+    },
+    {
+        "id": "19.1.11",
+        "spanish": "Corán",
+        "english": "Koran"
+    },
+    {
+        "id": "19.1.12",
+        "spanish": "Torá",
+        "english": "Torah"
+    },
+    {
+        "id": "19.1.13",
+        "spanish": "cielo",
+        "english": "heaven"
+    },
+    {
+        "id": "19.1.14",
+        "spanish": "infierno",
+        "english": "hell"
+    },
+    {
+        "id": "19.1.15",
+        "spanish": "cristiano",
+        "english": "Christian"
+    },
+    {
+        "id": "19.1.16",
+        "spanish": "católico",
+        "english": "Catholic"
+    },
+    {
+        "id": "19.1.17",
+        "spanish": "protestante",
+        "english": "Protestant"
+    },
+    {
+        "id": "19.1.18",
+        "spanish": "ortodoxo",
+        "english": "Orthodox"
+    },
+    {
+        "id": "19.1.19",
+        "spanish": "practicar la religión",
+        "english": "to practise a religion"
+    },
+    {
+        "id": "19.1.20",
+        "spanish": "celebrar una boda",
+        "english": "to celebrate a wedding"
+    },
+    {
+        "id": "19.1.21",
+        "spanish": "rezar",
+        "english": "to pray"
+    },
+    {
+        "id": "19.2.1",
+        "spanish": "filosofía",
+        "english": "philosophy"
+    },
+    {
+        "id": "19.2.2",
+        "spanish": "pensar",
+        "english": "to think"
+    },
+    {
+        "id": "20.1.1",
+        "spanish": "geografía",
+        "english": "geography"
+    },
+    {
+        "id": "20.1.2",
+        "spanish": "naturaleza",
+        "english": "nature"
+    },
+    {
+        "id": "20.1.3",
+        "spanish": "universo",
+        "english": "universe"
+    },
+    {
+        "id": "20.1.4",
+        "spanish": "espacio",
+        "english": "space"
+    },
+    {
+        "id": "20.1.5",
+        "spanish": "horóscopo",
+        "english": "horoscope"
+    },
+    {
+        "id": "20.1.6",
+        "spanish": "atmósfera",
+        "english": "atmosphere"
+    },
+    {
+        "id": "20.1.7",
+        "spanish": "astronauta",
+        "english": "astronaut"
+    },
+    {
+        "id": "20.1.8",
+        "spanish": "cohete",
+        "english": "rocket"
+    },
+    {
+        "id": "20.1.9",
+        "spanish": "satélite",
+        "english": "satelite"
+    },
+    {
+        "id": "20.1.10",
+        "spanish": "viaje espacial",
+        "english": "space travel"
+    },
+    {
+        "id": "20.1.11",
+        "spanish": "universal",
+        "english": "universal"
+    },
+    {
+        "id": "20.1.12",
+        "spanish": "mundial",
+        "english": "global"
+    },
+    {
+        "id": "20.1.13",
+        "spanish": "aterrizar",
+        "english": "to land"
+    },
+    {
+        "id": "20.1.14",
+        "spanish": "paisaje",
+        "english": "landscape"
+    },
+    {
+        "id": "20.1.15",
+        "spanish": "comunidad autónoma",
+        "english": "autonomous community"
+    },
+    {
+        "id": "20.1.16",
+        "spanish": "población",
+        "english": "population"
+    },
+    {
+        "id": "20.1.17",
+        "spanish": "hemisferio/polo norte/sur",
+        "english": "north/south hemisphere/pole"
+    },
+    {
+        "id": "20.1.18",
+        "spanish": "Oriente",
+        "english": "East"
+    },
+    {
+        "id": "20.1.19",
+        "spanish": "Occidente",
+        "english": "West"
+    },
+    {
+        "id": "20.1.20",
+        "spanish": "oriental",
+        "english": "oriental"
+    },
+    {
+        "id": "20.1.21",
+        "spanish": "occidental",
+        "english": "western"
+    },
+    {
+        "id": "20.1.22",
+        "spanish": "(inter)nacional",
+        "english": "(inter)national"
+    },
+    {
+        "id": "20.1.23",
+        "spanish": "regional",
+        "english": "regional"
+    },
+    {
+        "id": "20.1.24",
+        "spanish": "emi/inmigrante",
+        "english": "emi/immigrant"
+    },
+    {
+        "id": "20.1.25",
+        "spanish": "geográfico",
+        "english": "geographical"
+    },
+    {
+        "id": "20.1.26",
+        "spanish": "vista",
+        "english": "view"
+    },
+    {
+        "id": "20.1.27",
+        "spanish": "continente",
+        "english": "mainland, continent"
+    },
+    {
+        "id": "20.1.28",
+        "spanish": "península",
+        "english": "peninsula"
+    },
+    {
+        "id": "20.1.29",
+        "spanish": "valle",
+        "english": "valley"
+    },
+    {
+        "id": "20.1.30",
+        "spanish": "lago",
+        "english": "lake"
+    },
+    {
+        "id": "20.1.31",
+        "spanish": "selva",
+        "english": "jungle"
+    },
+    {
+        "id": "20.1.32",
+        "spanish": "océano",
+        "english": "ocean"
+    },
+    {
+        "id": "20.1.33",
+        "spanish": "mar",
+        "english": "sea"
+    },
+    {
+        "id": "20.1.34",
+        "spanish": "tierra/suelo húmedo/seco",
+        "english": "wet/dry earth/soil"
+    },
+    {
+        "id": "20.3.1",
+        "spanish": "espacios urbanos o rústicos",
+        "english": "urban or rustic spaces"
+    },
+    {
+        "id": "20.3.2",
+        "spanish": "ciudad",
+        "english": "city"
+    },
+    {
+        "id": "20.3.3",
+        "spanish": "(las) afueras",
+        "english": "(the) outskirts"
+    },
+    {
+        "id": "20.3.4",
+        "spanish": "comisaría de policía",
+        "english": "police station"
+    },
+    {
+        "id": "20.3.5",
+        "spanish": "parque de bomberos",
+        "english": "fire station"
+    },
+    {
+        "id": "20.3.6",
+        "spanish": "barrio/zona comercial/residencial/industrial",
+        "english": "commercial/residential/industrial neighbourhood/area"
+    },
+    {
+        "id": "20.3.7",
+        "spanish": "casco histórico/antiguo",
+        "english": "old/historic town"
+    },
+    {
+        "id": "20.3.8",
+        "spanish": "céntrico",
+        "english": "centre"
+    },
+    {
+        "id": "20.3.9",
+        "spanish": "campo",
+        "english": "countryside"
+    },
+    {
+        "id": "20.3.10",
+        "spanish": "camino",
+        "english": "road"
+    },
+    {
+        "id": "20.3.11",
+        "spanish": "huerta",
+        "english": "orchard"
+    },
+    {
+        "id": "20.3.12",
+        "spanish": "prado",
+        "english": "meadow"
+    },
+    {
+        "id": "20.3.13",
+        "spanish": "tierra",
+        "english": "land"
+    },
+    {
+        "id": "20.3.14",
+        "spanish": "cultivo",
+        "english": "cultivation"
+    },
+    {
+        "id": "20.3.15",
+        "spanish": "plantar",
+        "english": "to plant"
+    },
+    {
+        "id": "20.3.16",
+        "spanish": "cultivar",
+        "english": "to cultivate"
+    },
+    {
+        "id": "20.3.17",
+        "spanish": "regar",
+        "english": "to water"
+    },
+    {
+        "id": "20.4.1",
+        "spanish": "clima",
+        "english": "climate"
+    },
+    {
+        "id": "20.4.2",
+        "spanish": "tiempo atmosférico",
+        "english": "weather"
+    },
+    {
+        "id": "20.4.3",
+        "spanish": "estación (del año)",
+        "english": "season (of year)"
+    },
+    {
+        "id": "20.4.4",
+        "spanish": "granizo",
+        "english": "hail"
+    },
+    {
+        "id": "20.4.5",
+        "spanish": "hielo",
+        "english": "ice"
+    },
+    {
+        "id": "20.4.6",
+        "spanish": "huracán",
+        "english": "hurricane"
+    },
+    {
+        "id": "20.4.7",
+        "spanish": "clima seco/húmedo",
+        "english": "dry/wet climate"
+    },
+    {
+        "id": "20.4.8",
+        "spanish": "nublarse",
+        "english": "to get cloudy"
+    },
+    {
+        "id": "20.4.9",
+        "spanish": "salir el sol",
+        "english": "to get out the sun"
+    },
+    {
+        "id": "20.4.10",
+        "spanish": "estar (el cielo) despejado/nublado",
+        "english": "to be (sky) clear/cloudy"
+    },
+    {
+        "id": "20.5.1",
+        "spanish": "fauna",
+        "english": "fauna"
+    },
+    {
+        "id": "20.5.2",
+        "spanish": "mamifero",
+        "english": "mammal"
+    },
+    {
+        "id": "20.5.3",
+        "spanish": "insecto",
+        "english": "insect"
+    },
+    {
+        "id": "20.5.4",
+        "spanish": "ave",
+        "english": "bird"
+    },
+    {
+        "id": "20.5.5",
+        "spanish": "reptil",
+        "english": "reptile"
+    },
+    {
+        "id": "20.5.6",
+        "spanish": "animal doméstico/salvaje/de compañía",
+        "english": "domestic/wild/companion (pet) animal"
+    },
+    {
+        "id": "20.5.7",
+        "spanish": "animales de granja",
+        "english": "farm animals"
+    },
+    {
+        "id": "20.5.8",
+        "spanish": "conejo",
+        "english": "rabbit"
+    },
+    {
+        "id": "20.5.9",
+        "spanish": "oveja",
+        "english": "sheep"
+    },
+    {
+        "id": "20.5.10",
+        "spanish": "cordero",
+        "english": "lamb"
+    },
+    {
+        "id": "20.5.11",
+        "spanish": "gallo",
+        "english": "rooster"
+    },
+    {
+        "id": "20.5.12",
+        "spanish": "gallina",
+        "english": "hen"
+    },
+    {
+        "id": "20.5.13",
+        "spanish": "animales salvajes",
+        "english": "wild animals"
+    },
+    {
+        "id": "20.5.14",
+        "spanish": "león",
+        "english": "lion"
+    },
+    {
+        "id": "20.5.15",
+        "spanish": "tigre",
+        "english": "tiger"
+    },
+    {
+        "id": "20.5.16",
+        "spanish": "elefante",
+        "english": "elephant"
+    },
+    {
+        "id": "20.5.17",
+        "spanish": "serpiente",
+        "english": "snake"
+    },
+    {
+        "id": "20.5.18",
+        "spanish": "cocodrilo",
+        "english": "crocodile"
+    },
+    {
+        "id": "20.6.1",
+        "spanish": "flora",
+        "english": "flora"
+    },
+    {
+        "id": "20.6.2",
+        "spanish": "parque natural",
+        "english": "natural park"
+    },
+    {
+        "id": "20.6.3",
+        "spanish": "hierba",
+        "english": "grass"
+    },
+    {
+        "id": "20.6.4",
+        "spanish": "césped",
+        "english": "lawn"
+    },
+    {
+        "id": "20.6.5",
+        "spanish": "tronco",
+        "english": "trunk"
+    },
+    {
+        "id": "20.6.6",
+        "spanish": "hoja",
+        "english": "leaf"
+    },
+    {
+        "id": "20.6.7",
+        "spanish": "rama",
+        "english": "branch"
+    },
+    {
+        "id": "20.6.8",
+        "spanish": "raíz",
+        "english": "root"
+    },
+    {
+        "id": "20.6.9",
+        "spanish": "planta de interior/exterior",
+        "english": "indoor/outdoor plant"
+    },
+    {
+        "id": "20.6.10",
+        "spanish": "árbol frutal",
+        "english": "fruit tree"
+    },
+    {
+        "id": "20.6.11",
+        "spanish": "plantar un árbol",
+        "english": "to plant a tree"
+    },
+    {
+        "id": "20.6.12",
+        "spanish": "regar las plantas/el jardin",
+        "english": "to water plants/garden"
+    },
+    {
+        "id": "20.6.13",
+        "spanish": "caerse/secarse las hojas",
+        "english": "to fall off/dry leaves"
+    },
+    {
+        "id": "20.6.14",
+        "spanish": "cortar una flor",
+        "english": "to cut a flower"
+    },
+    {
+        "id": "20.7.1",
+        "spanish": "problemas medioambientales",
+        "english": "environmental problems"
+    },
+    {
+        "id": "20.7.2",
+        "spanish": "desastres naturales",
+        "english": "natural disasters"
+    },
+    {
+        "id": "20.7.3",
+        "spanish": "contaminación",
+        "english": "pollution"
+    },
+    {
+        "id": "20.7.4",
+        "spanish": "polución",
+        "english": "pollution"
+    },
+    {
+        "id": "20.7.5",
+        "spanish": "terremonto",
+        "english": "earthquake"
+    },
+    {
+        "id": "20.7.6",
+        "spanish": "ecologista",
+        "english": "ecologist"
+    },
+    {
+        "id": "20.7.7",
+        "spanish": "reciclaje",
+        "english": "recycling"
+    },
+    {
+        "id": "20.7.8",
+        "spanish": "papel/cartón/vidrio reciclado",
+        "english": "recycled paper/cardboard/glass"
+    },
+    {
+        "id": "20.7.9",
+        "spanish": "contenedor de papel/de vidrio",
+        "english": "paper/glass container"
+    },
+    {
+        "id": "20.7.10",
+        "spanish": "cambio climático",
+        "english": "climate change"
+    },
+    {
+        "id": "20.7.11",
+        "spanish": "energía alternativa",
+        "english": "alternative energy"
+    },
+    {
+        "id": "20.7.12",
+        "spanish": "recursos naturales",
+        "english": "natural resources"
+    },
+    {
+        "id": "20.7.13",
+        "spanish": "agujero de la capa de ozono",
+        "english": "ozone layer hole"
+    },
+    {
+        "id": "20.7.14",
+        "spanish": "contaminado",
+        "english": "polluted"
+    },
+    {
+        "id": "20.7.15",
+        "spanish": "contaminante",
+        "english": "polluting"
+    },
+    {
+        "id": "20.7.16",
+        "spanish": "tóxico",
+        "english": "toxic"
+    },
+    {
+        "id": "20.7.17",
+        "spanish": "cuidar/respetar/proteger/conservar el medio ambiente/la naturaleza",
+        "english": "to care/respect/protect/conserve the environment/nature"
+    },
+    {
+        "id": "20.7.18",
+        "spanish": "reciclar vidrio/pilas/papel/cartón/latas",
+        "english": "to recycle glass/batteries/paper/cardboard/cans"
     }
 ]
